@@ -2537,12 +2537,7 @@
           }
         }
       ],
-      "display": "vertical",
       "grid_columns": null,
-      "remote_data": {
-        "enable": true,
-        "url": ""
-      },
       "enable_detail": true
     }
   ],
