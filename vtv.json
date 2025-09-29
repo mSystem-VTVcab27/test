@@ -440,8 +440,8 @@
                 },
                 "stream_links": [
                   {
-                    "id": "vtv8-hd",
-                    "name": "VTV8 HD",
+                    "id": "vtv8",
+                    "name": "VTV8",
                     "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8",
                     "type": "hls",
                     "default": true
@@ -470,7 +470,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/6.png",
+      "url": "https://photos.fife.usercontent.google.com/pw/AP1GczMMKNz--DosXoXt3CI6mnCDiCXiE_xSLcVIYNsoCmaanAHV3jYCgm-2sw=w1681-h946-s-no?authuser=2",
       "height": 101,
       "width": 155
     },
@@ -491,15 +491,70 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/6.png",
+                  "url": "https://photos.fife.usercontent.google.com/pw/AP1GczMMKNz--DosXoXt3CI6mnCDiCXiE_xSLcVIYNsoCmaanAHV3jYCgm-2sw=w1681-h946-s-no?authuser=2",
                   "height": 101,
                   "width": 155
                 },
                 "stream_links": [
                   {
-                    "id": "vtv5taynambo-hd",
-                    "name": "VTV5 Tây Nam Bộ HD",
+                    "id": "vtv5taynambo",
+                    "name": "VTV5 Tây Nam Bộ",
                     "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "VTV5TayNguyen",
+    "name": "VTV5 Tây Nguyên",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://photos.fife.usercontent.google.com/pw/AP1GczPYgFg4_TIXBVfA7GlipkgYSjsLk9vGbBudNcwoSAWEmcvA8JdrP3FZqQ=w1681-h946-s-no?authuser=2",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtv5taynguyen",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtv5taynguyen",
+            "name": "",
+            "streams": [
+              {
+                "id": "vtv5taynguyen",
+                "name": "VTV5 Tây Nguyên",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://photos.fife.usercontent.google.com/pw/AP1GczPYgFg4_TIXBVfA7GlipkgYSjsLk9vGbBudNcwoSAWEmcvA8JdrP3FZqQ=w1681-h946-s-no?authuser=2",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vtv5taynguyen",
+                    "name": "VTV5 Tây Nguyên",
+                    "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -579,7 +634,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/qpvn.png",
+      "url": "https://vnepg.site/logos/72.png",
       "height": 101,
       "width": 155
     },
@@ -600,7 +655,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/qpvn.png",
+                  "url": "https://vnepg.site/logos/72.png",
                   "height": 101,
                   "width": 155
                 },
