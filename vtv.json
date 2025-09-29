@@ -19,8 +19,8 @@
   "grid_number": 1,
   "groups": [
     {
-      "id": "vtv",
-      "name": "VTV",
+      "id": "fpt",
+      "name": "Luồng FPT Play",
       "channels": [
         {
           "id": "VTV1",
