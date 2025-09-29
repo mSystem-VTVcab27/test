@@ -1133,6 +1133,7 @@
           }
         }
       ],
+      "display": "vertical",
       "grid_columns": null,
       "enable_detail": true
     }
