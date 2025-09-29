@@ -1,0 +1,555 @@
+{
+    "version": "1.0",
+    "server_info": {
+        "name": "My IPTV Source",
+        "port": 80
+    },
+    "channels": [
+        {
+            "name": "VTV1 HD",
+            "url": "https://livecdn.seenow.vn/mean/VTV1_HD/manifest.mpd",
+            "logo": "",
+            "group": "",
+            "epg": "VTV1 HD"
+        },
+        {
+            "name": "VTV2 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV2_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV2 HD"
+        },
+        {
+            "name": "VTV3 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV3_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV3 HD"
+        },
+        {
+            "name": "VTV4 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV4_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV4 HD"
+        },
+        {
+            "name": "VTV5 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV5_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV5 HD"
+        },
+        {
+            "name": "VTV Cần Thơ HD",
+            "url": "https://liveh12.seenow.vn/hls/VTVCANTHO_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV Cần Thơ HD"
+        },
+        {
+            "name": "VTV7 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV7_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV7 HD"
+        },
+        {
+            "name": "VTV8 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV8_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV8 HD"
+        },
+        {
+            "name": "VTV9 HD",
+            "url": "https://liveh12.seenow.vn/hls/VTV9_HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "VTV9 HD"
+        },
+        {
+            "name": "ANTV HD",
+            "url": "https://livecdn.seenow.vn/mean/ANNINHTV/manifest.mpd",
+            "logo": "",
+            "group": "",
+            "epg": "ANTV HD"
+        },
+        {
+            "name": "QPVN",
+            "url": "https://livecdn.seenow.vn/mean/QPTV/manifest.mpd",
+            "logo": "",
+            "group": "",
+            "epg": "QPVN"
+        },
+        {
+            "name": "Hà Nội 1 HD",
+            "url": "https://liveh34.seenow.vn/hls/HANOI1TV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hà Nội 1 HD"
+        },
+        {
+            "name": "Hà Nội 2 HD",
+            "url": "https://liveh12.seenow.vn/hls/HANOI2TV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hà Nội 2 HD"
+        },
+        {
+            "name": "ON Homeshopping HD",
+            "url": "https://livecdn.seenow.vn/mean/VTVCAB13/manifest.mpd",
+            "logo": "",
+            "group": "",
+            "epg": "ON Homeshopping HD"
+        },
+        {
+            "name": "SCTV Phim tổng hợp",
+            "url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV Phim tổng hợp"
+        },
+        {
+            "name": "SCTV1 HD",
+            "url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV1 HD"
+        },
+        {
+            "name": "SCTV2 Today TV HD",
+            "url": "https://liveh12.seenow.vn/hls/SCTV2/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV2 Today TV HD"
+        },
+        {
+            "name": "SCTV3",
+            "url": "https://liveh12.seenow.vn/hls/SCTV3/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV3"
+        },
+        {
+            "name": "SCTV4",
+            "url": "https://liveh12.seenow.vn/hls/SCTV4/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV4"
+        },
+        {
+            "name": "SCTV6",
+            "url": "https://liveh12.seenow.vn/hls/SCTV6/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV6"
+        },
+        {
+            "name": "SCTV7",
+            "url": "https://liveh12.seenow.vn/hls/SCTV7/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV7"
+        },
+        {
+            "name": "SCTV8",
+            "url": "https://liveh12.seenow.vn/hls/SCTV8/01.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV8"
+        },
+        {
+            "name": "SCTV10",
+            "url": "https://liveh12.seenow.vn/hls/SCTV10/01.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV10"
+        },
+        {
+            "name": "SCTV11",
+            "url": "https://liveh12.seenow.vn/hls/SCTV11/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV11"
+        },
+        {
+            "name": "SCTV12",
+            "url": "https://liveh12.seenow.vn/hls/SCTV12/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV12"
+        },
+        {
+            "name": "SCTV13",
+            "url": "https://liveh12.seenow.vn/hls/SCTV13/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV13"
+        },
+        {
+            "name": "SCTV14",
+            "url": "https://liveh12.seenow.vn/hls/SCTV14/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV14"
+        },
+        {
+            "name": "SCTV18",
+            "url": "https://liveh12.seenow.vn/hls/SCTV18/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "SCTV18"
+        },
+        {
+            "name": "HTV7 HD",
+            "url": "https://liveh34.seenow.vn/hls/HTV7HD/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTV7 HD"
+        },
+        {
+            "name": "HTV2 HD",
+            "url": "https://liveh12.seenow.vn/hls/HTV2/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTV2 HD"
+        },
+        {
+            "name": "HTV3",
+            "url": "https://liveh12.seenow.vn/hls/HTV3/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTV3"
+        },
+        {
+            "name": "HTVC Ca nhạc",
+            "url": "https://liveh12.seenow.vn/hls/HTVCCANHAC/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTVC Ca nhạc"
+        },
+        {
+            "name": "HTVC Du lịch & Cuộc sống",
+            "url": "https://liveh12.seenow.vn/hls/HTVCDLCS/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTVC Du lịch & Cuộc sống"
+        },
+        {
+            "name": "HTVC Gia đình",
+            "url": "https://liveh12.seenow.vn/hls/HTVGIADINH/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTVC Gia đình"
+        },
+        {
+            "name": "HTVC Phụ nữ",
+            "url": "https://liveh12.seenow.vn/hls/HTVPHUNU/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HTVC Phụ nữ"
+        },
+        {
+            "name": "Vĩnh Long 1 HD",
+            "url": "https://liveh34.seenow.vn/hls/VINHLONG1/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Vĩnh Long 1 HD"
+        },
+        {
+            "name": "Vĩnh Long 2 HD",
+            "url": "https://liveh34.seenow.vn/hls/VINHLONG2/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Vĩnh Long 2 HD"
+        },
+        {
+            "name": "Vĩnh Long 3",
+            "url": "https://liveh34.seenow.vn/hls/VINHLONG3/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Vĩnh Long 3"
+        },
+        {
+            "name": "Vĩnh Long 4",
+            "url": "https://liveh34.seenow.vn/hls/VINHLONG4/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Vĩnh Long 4"
+        },
+        {
+            "name": "HGTV (Home & Garden TV) HD",
+            "url": "https://liveh34.seenow.vn/hls/HGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "HGTV (Home & Garden TV) HD"
+        },
+        {
+            "name": "AFN",
+            "url": "https://liveh34.seenow.vn/hls/AFC/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "AFN"
+        },
+        {
+            "name": "Arirang",
+            "url": "https://liveh12.seenow.vn/hls/ARIRANG/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Arirang"
+        },
+        {
+            "name": "CNA",
+            "url": "https://liveh34.seenow.vn/hls/CNA/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "CNA"
+        },
+        {
+            "name": "TV5 Monde Asie",
+            "url": "https://liveh34.seenow.vn/hls/TV5/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "TV5 Monde Asie"
+        },
+        {
+            "name": "DW Eng",
+            "url": "https://liveh12.seenow.vn/hls/DW/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "DW Eng"
+        },
+        {
+            "name": "France24 Eng",
+            "url": "https://liveh34.seenow.vn/hls/FRANCE24/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "France24 Eng"
+        },
+        {
+            "name": "Lai Châu",
+            "url": "https://liveh34.seenow.vn/hls/LAICHAUTV/01.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Lai Châu"
+        },
+        {
+            "name": "Phú Thọ HD",
+            "url": "https://liveh12.seenow.vn/hls/PHUTHOTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Phú Thọ HD"
+        },
+        {
+            "name": "Phú Thọ HD PT",
+            "url": "https://liveh34.seenow.vn/hls/VINHPHUCTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Phú Thọ HD PT"
+        },
+        {
+            "name": "Bắc Ninh 1 HD",
+            "url": "https://liveh12.seenow.vn/hls/BACGIANGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Bắc Ninh 1 HD"
+        },
+        {
+            "name": "Bắc Ninh 2 HD",
+            "url": "https://liveh12.seenow.vn/hls/BACNINHTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Bắc Ninh 2 HD"
+        },
+        {
+            "name": "Hưng Yên HD",
+            "url": "https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hưng Yên HD"
+        },
+        {
+            "name": "Hưng Yên HD PT",
+            "url": "https://liveh34.seenow.vn/hls/THAIBINHTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hưng Yên HD PT"
+        },
+        {
+            "name": "Ninh Bình HD",
+            "url": "https://liveh12.seenow.vn/hls/NINHBINHTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Ninh Bình HD"
+        },
+        {
+            "name": "Ninh Bình HD PT",
+            "url": "https://liveh34.seenow.vn/hls/NAMDINHTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Ninh Bình HD PT"
+        },
+        {
+            "name": "Hải Phòng HD",
+            "url": "https://liveh34.seenow.vn/hls/HAIPHONG/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hải Phòng HD"
+        },
+        {
+            "name": "Hải Phòng 3 HD",
+            "url": "https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hải Phòng 3 HD"
+        },
+        {
+            "name": "Tuyên Quang HD",
+            "url": "https://liveh12.seenow.vn/hls/HAGIANGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Tuyên Quang HD"
+        },
+        {
+            "name": "Lạng Sơn",
+            "url": "https://liveh34.seenow.vn/hls/LANGSON/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Lạng Sơn"
+        },
+        {
+            "name": "Thái Nguyên HD",
+            "url": "https://liveh34.seenow.vn/hls/THAINGUYENTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Thái Nguyên HD"
+        },
+        {
+            "name": "Quảng Ninh 1 HD",
+            "url": "https://liveh12.seenow.vn/hls/QUANGNINHTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Quảng Ninh 1 HD"
+        },
+        {
+            "name": "Quảng Ninh 3 HD",
+            "url": "https://liveh34.seenow.vn/hls/QUANGNINH3/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Quảng Ninh 3 HD"
+        },
+        {
+            "name": "Thanh Hóa HD",
+            "url": "https://liveh12.seenow.vn/hls/THANHHOATV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Thanh Hóa HD"
+        },
+        {
+            "name": "Nghệ An HD",
+            "url": "https://liveh34.seenow.vn/hls/NGHEANTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Nghệ An HD"
+        },
+        {
+            "name": "Hà Tĩnh HD",
+            "url": "https://liveh34.seenow.vn/hls/HATINH/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Hà Tĩnh HD"
+        },
+        {
+            "name": "Huế HD",
+            "url": "https://liveh34.seenow.vn/hls/HUE/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Huế HD"
+        },
+        {
+            "name": "Đà Nẵng 1 HD",
+            "url": "https://liveh12.seenow.vn/hls/DANANGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Đà Nẵng 1 HD"
+        },
+        {
+            "name": "Khánh Hòa HD",
+            "url": "https://liveh12.seenow.vn/hls/KHANHHOATV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Khánh Hòa HD"
+        },
+        {
+            "name": "Lâm Đồng 2 HD",
+            "url": "https://liveh34.seenow.vn/hls/BINHTHUANTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Lâm Đồng 2 HD"
+        },
+        {
+            "name": "Bình Dương 1",
+            "url": "https://liveh34.seenow.vn/hls/BINHDUONGTV/01.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Bình Dương 1"
+        },
+        {
+            "name": "Đồng Nai 1 HD",
+            "url": "https://liveh12.seenow.vn/hls/DONGNAITV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Đồng Nai 1 HD"
+        },
+        {
+            "name": "Đồng Nai 1 HD PT",
+            "url": "https://liveh34.seenow.vn/hls/BINHPHUOCTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Đồng Nai 1 HD PT"
+        },
+        {
+            "name": "Tây Ninh 2 HD",
+            "url": "https://liveh34.seenow.vn/hls/TAYNINHTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Tây Ninh 2 HD"
+        },
+        {
+            "name": "Bà Rịa-Vũng Tàu HD",
+            "url": "https://liveh34.seenow.vn/hls/VUNGTAUTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Bà Rịa-Vũng Tàu HD"
+        },
+        {
+            "name": "Đồng Tháp 1 HD",
+            "url": "https://liveh12.seenow.vn/hls/DONGTHAPTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Đồng Tháp 1 HD"
+        },
+        {
+            "name": "An Giang 2",
+            "url": "https://liveh12.seenow.vn/hls/ANGIANGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "An Giang 2"
+        },
+        {
+            "name": "Cần Thơ 1",
+            "url": "https://liveh34.seenow.vn/hls/SOCTRANGTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Cần Thơ 1"
+        },
+        {
+            "name": "Cà Mau HD",
+            "url": "https://liveh12.seenow.vn/hls/BACLIEUTV/03.m3u8",
+            "logo": "",
+            "group": "",
+            "epg": "Cà Mau HD"
+        }
+    ]
+}
