@@ -1201,7 +1201,7 @@
       "grid_columns": 5,
       "remote_data": {
         "enable": true,
-        "url": "http://iptv.nhadai.org/group?s=DIA_PHUONG"
+        "url": ""
       },
       "enable_detail": true
     }
