@@ -2,7 +2,7 @@
     "id": "provider-thvli",
     "name": "Phim Tổng Hợp - THVLi",
     "description": "Ứng dụng được Hải làm ra",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/thvli.json",
     "color": "#2c70b0",
     "image": {
         "url": "https://www.thvli.vn/static/media/logo.png",
