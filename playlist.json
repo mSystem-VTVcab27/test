@@ -1,0 +1,62 @@
+{
+    "version": "1.0",
+    "server_info": {
+        "name": "My IPTV Source",
+        "port": 80
+    },
+    "live_categories": [
+        {
+            "category_id": 1,
+            "category_name": "News"
+        }
+    ],
+    "channels": [
+        {
+            "num": 1,
+            "name": "CNN Live",
+            "stream_url": "http://example.com/stream/cnn.m3u8",
+            "icon": "http://example.com/icons/cnn.png",
+            "category_id": 1
+        }
+    ],
+    "movie_categories": [
+        {
+            "category_id": 1,
+            "category_name": "Action"
+        }
+    ],
+    "movies": [
+        {
+            "name": "John Wick",
+            "stream_url": "http://example.com/vod/johnwick.mp4",
+            "poster": "http://example.com/posters/johnwick.jpg",
+            "category_id": 1
+        }
+    ],
+    "series_categories": [
+        {
+            "category_id": 1,
+            "category_name": "Drama"
+        }
+    ],
+    "series": [
+        {
+            "name": "Breaking Bad",
+            "pid": 1,
+            "poster": "http://example.com/posters/breakingbad.jpg",
+            "category_id": 1,
+            "seasons": [
+                {
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Pilot",
+                            "stream_url": "http://example.com/vod/breakingbad/s1e1.mp4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
