@@ -186,7 +186,8 @@
         },
 
 
-          {
+    
+{
     "id": "VTV4",
     "name": "VTV4",
     "image": {
@@ -460,7 +461,6 @@
       "url": ""
     }
   },
-
 {
     "id": "VTV9",
     "name": "VTV9",
@@ -509,17 +509,23 @@
       }
     ],
     "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  }
-
-
-      ]
+            "url": "http://iptv.nhadai.org/share?q=vtv7-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=vtv7-hd"
+          }
+        }
+      ],
+      "display": "horizontal",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": true,
+        "url": "http://iptv.nhadai.org/group?s=CO_BAN"
+      },
+      "enable_detail": true
     }
   ],
+
   "search": {
     "url": "http://iptv.nhadai.org/search",
     "search_key": "q",
