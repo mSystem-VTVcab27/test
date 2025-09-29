@@ -1414,13 +1414,13 @@
                 },
                 "stream_links": [
                   {
-                    "id": "htvccanhat",
+                    "id": "htvccanhac",
                     "name": "HTVC Ca Nhạc",
                     "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8",
                     "type": "hls",
                     "default": true
                   }
-               finansial,
+                ],
                 "remote_data": null
               }
             ]
@@ -2407,6 +2407,9 @@
       "url": ""
     }
   },
+
+
+
   {
     "id": "CaoBang",
     "name": "Cao Bằng",
@@ -2530,10 +2533,10 @@
       }
     ],
     "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv7-hd"
+            "url": ""
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv7-hd"
+            "url": ""
           }
         }
       ],
