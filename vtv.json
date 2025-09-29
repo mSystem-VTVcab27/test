@@ -516,7 +516,7 @@
           }
         }
       ],
-      "display": "horizontal",
+      "display": "vertical",
       "grid_columns": null,
       "remote_data": {
         "enable": true,
