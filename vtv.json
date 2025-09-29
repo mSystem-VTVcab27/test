@@ -1207,7 +1207,7 @@
     }
   ],
   "search": {
-    "url": "http://iptv.nhadai.org/search",
+    "url": "",
     "search_key": "q",
     "paging": {
       "page_key": "page",
