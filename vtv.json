@@ -1,4 +1,16 @@
- "channels": [
+{
+    "id": "provider-thvli",
+    "name": "Phim Tổng Hợp - THVLi",
+    "description": "Ứng dụng được Hải làm ra",
+    "url": "",
+    "color": "#2c70b0",
+    "image": {
+        "url": "https://www.thvli.vn/static/media/logo.png",
+        "type": "contain",
+        "height": 111,
+        "width": 300
+    },
+     "channels": [
     {
       "name": "VTV1 HD",
       "url": "https://livecdn.seenow.vn/mean/VTV1_HD/manifest.mpd",
