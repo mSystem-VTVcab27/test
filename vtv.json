@@ -525,7 +525,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/antv.png",
+      "url": "https://vnepg.site/logos/71.png",
       "height": 101,
       "width": 155
     },
@@ -546,7 +546,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/antv.png",
+                  "url": "https://vnepg.site/logos/71.png",
                   "height": 101,
                   "width": 155
                 },
@@ -627,67 +627,14 @@
       "url": ""
     }
   },
-  {
-    "id": "HTV7",
-    "name": "HTV7",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/htv7.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "htv7",
-        "name": "",
-        "contents": [
-          {
-            "id": "htv7",
-            "name": "",
-            "streams": [
-              {
-                "id": "htv7",
-                "name": "HTV7",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/htv7.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "htv7-hd",
-                    "name": "HTV7 HD",
-                    "url": "https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
+
+{
     "id": "HTV9",
     "name": "HTV9",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/htv9.png",
+      "url": "https://vnepg.site/logos/37.png",
       "height": 101,
       "width": 155
     },
@@ -708,7 +655,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/htv9.png",
+                  "url": "https://vnepg.site/logos/37.png",
                   "height": 101,
                   "width": 155
                 },
@@ -735,13 +682,14 @@
       "url": ""
     }
   },
+
   {
-    "id": "HTVTheThao",
-    "name": "HTV Thể Thao",
+    "id": "HTV7",
+    "name": "HTV7",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/htvthethao.png",
+      "url": "https://vnepg.site/logos/36.png",
       "height": 101,
       "width": 155
     },
@@ -749,28 +697,28 @@
     "display": "text-below",
     "sources": [
       {
-        "id": "htvthethao",
+        "id": "htv7",
         "name": "",
         "contents": [
           {
-            "id": "htvthethao",
+            "id": "htv7",
             "name": "",
             "streams": [
               {
-                "id": "htvthethao",
-                "name": "HTV Thể Thao",
+                "id": "htv7",
+                "name": "HTV7",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/htvthethao.png",
+                  "url": "https://vnepg.site/logos/36.png",
                   "height": 101,
                   "width": 155
                 },
                 "stream_links": [
                   {
-                    "id": "htvthethao-hd",
-                    "name": "HTV Thể Thao HD",
-                    "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8",
+                    "id": "htv7-hd",
+                    "name": "HTV7 HD",
+                    "url": "https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist_b5000000.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -789,121 +737,14 @@
       "url": ""
     }
   },
-  {
-    "id": "HTV1",
-    "name": "HTV1",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/htv1.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "htv1",
-        "name": "",
-        "contents": [
-          {
-            "id": "htv1",
-            "name": "",
-            "streams": [
-              {
-                "id": "htv1",
-                "name": "HTV1",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/htv1.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "htv1-hd",
-                    "name": "HTV1 HD",
-                    "url": "https://live.fptplay53.net/epzhd1/htv1_2000.stream/chunklist.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "HTV2",
-    "name": "HTV2",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/htv2.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "htv2",
-        "name": "",
-        "contents": [
-          {
-            "id": "htv2",
-            "name": "",
-            "streams": [
-              {
-                "id": "htv2",
-                "name": "HTV2",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/htv2.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "htv2-hd",
-                    "name": "HTV2 HD",
-                    "url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
+  
+{
     "id": "HTV3",
     "name": "HTV3",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/htv3.png",
+      "url": "https://vnepg.site/logos/34.png",
       "height": 101,
       "width": 155
     },
@@ -924,7 +765,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/htv3.png",
+                  "url": "https://vnepg.site/logos/34.png",
                   "height": 101,
                   "width": 155
                 },
@@ -951,13 +792,125 @@
       "url": ""
     }
   },
+
+{
+    "id": "HTV2",
+    "name": "HTV2",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/33.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "htv2",
+        "name": "",
+        "contents": [
+          {
+            "id": "htv2",
+            "name": "",
+            "streams": [
+              {
+                "id": "htv2",
+                "name": "HTV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/33.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "htv2-hd",
+                    "name": "HTV2 HD",
+                    "url": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+    {
+    "id": "HTV1",
+    "name": "HTV1",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/32.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "htv1",
+        "name": "",
+        "contents": [
+          {
+            "id": "htv1",
+            "name": "",
+            "streams": [
+              {
+                "id": "htv1",
+                "name": "HTV1",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/32.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "htv1-hd",
+                    "name": "HTV1 HD",
+                    "url": "https://live.fptplay53.net/epzhd1/htv1_2000.stream/chunklist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  
+  
   {
     "id": "HTVKey",
     "name": "HTV Key",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/htvkey.png",
+      "url": "https://vnepg.site/logos/35.png",
       "height": 101,
       "width": 155
     },
@@ -978,7 +931,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/htvkey.png",
+                  "url": "https://vnepg.site/logos/35.png",
                   "height": 101,
                   "width": 155
                 },
@@ -1005,6 +958,62 @@
       "url": ""
     }
   },
+
+  {
+    "id": "HTVTheThao",
+    "name": "HTV Thể Thao",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://photos.fife.usercontent.google.com/pw/AP1GczNPpsKMwO5F6kQC6GEdrEdu7JbBK9BCEgxVNE91NYWcDGv1PazQ4Qzn_A=w1683-h946-s-no?authuser=2",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "htvthethao",
+        "name": "",
+        "contents": [
+          {
+            "id": "htvthethao",
+            "name": "",
+            "streams": [
+              {
+                "id": "htvthethao",
+                "name": "HTV Thể Thao",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://photos.fife.usercontent.google.com/pw/AP1GczNPpsKMwO5F6kQC6GEdrEdu7JbBK9BCEgxVNE91NYWcDGv1PazQ4Qzn_A=w1683-h946-s-no?authuser=2",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "htvthethao-hd",
+                    "name": "HTV Thể Thao HD",
+                    "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "HTVCGiaDinh",
     "name": "HTVC Gia Đình",
