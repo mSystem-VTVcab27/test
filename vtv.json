@@ -23,8 +23,8 @@
       "name": "VTV",
       "channels": [
         {
-          "id": "VTV1_HD",
-          "name": "VTV1 HD",
+          "id": "VTV1",
+          "name": "VTV1",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -55,8 +55,8 @@
                       },
                       "stream_links": [
                         {
-                          "id": "fpt-play",
-                          "name": "FPT Play",
+                          "id": "vtv1",
+                          "name": "VTV1",
                           "url": "https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8",
                           "type": "hls",
                           "default": true
@@ -77,12 +77,12 @@
           }
         },
         {
-          "id": "VTV1_HD",
-          "name": "VTV1 HD",
+          "id": "VTV2",
+          "name": "VTV2",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+            "url": "https://vnepg.site/logos/1.png",
             "height": 101,
             "width": 155
           },
@@ -90,28 +90,28 @@
           "display": "text-below",
           "sources": [
             {
-              "id": "vtv1-hd",
+              "id": "vtv2",
               "name": "",
               "contents": [
                 {
-                  "id": "vtv1-hd",
+                  "id": "vtv2",
                   "name": "",
                   "streams": [
                     {
-                      "id": "vtv1-hd",
-                      "name": "VTV1 HD",
+                      "id": "vtv2",
+                      "name": "VTV2",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv1-hd.png",
+                        "url": "https://vnepg.site/logos/1.png",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "id": "vtv1-hd",
-                          "name": "VTV1 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv1-hd",
+                          "id": "vtv2",
+                          "name": "VTV2",
+                          "url": "https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -124,19 +124,19 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv1-hd"
+            "url": ""
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv1-hd"
+            "url": ""
           }
         },
         {
-          "id": "VTV2_HD",
-          "name": "VTV2 HD",
+          "id": "VTV3",
+          "name": "VTV3",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv2-hd.png",
+            "url": "https://vnepg.site/logos/3.png",
             "height": 101,
             "width": 155
           },
@@ -144,74 +144,20 @@
           "display": "text-below",
           "sources": [
             {
-              "id": "vtv2-hd",
+              "id": "vtv3",
               "name": "",
               "contents": [
                 {
-                  "id": "vtv2-hd",
+                  "id": "vtv3",
                   "name": "",
                   "streams": [
                     {
-                      "id": "vtv2-hd",
-                      "name": "VTV2 HD",
+                      "id": "vtv3",
+                      "name": "VTV3",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv2-hd.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "vtv2-hd",
-                          "name": "VTV2 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv2-hd",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv2-hd"
-          },
-          "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv2-hd"
-          }
-        },
-        {
-          "id": "VTV3_HD",
-          "name": "VTV3 HD",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "vtv3-hd",
-              "name": "",
-              "contents": [
-                {
-                  "id": "vtv3-hd",
-                  "name": "",
-                  "streams": [
-                    {
-                      "id": "vtv3-hd",
-                      "name": "VTV3 HD",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/vtv3-hd.png",
+                        "url": "https://vnepg.site/logos/3.png",
                         "height": 101,
                         "width": 155
                       },
@@ -219,7 +165,7 @@
                         {
                           "id": "vtv3-hd",
                           "name": "VTV3 HD",
-                          "url": "http://iptv.nhadai.org/stream/vtv3-hd",
+                          "url": "https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -232,10 +178,10 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=vtv3-hd"
+            "url": ""
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=vtv3-hd"
+            "url": ""
           }
         },
         {
