@@ -1,10 +1,10 @@
 {
-  "id": "fptplay",
-  "name": "FPT Play",
+  "id": "msystem",
+  "name": "mSystem",
   "color": "#FF9E2D",
   "org_metadata": {
-    "image": "http://iptv.nhadai.org/s-banner.png",
-    "title": "mSystem",
+    "image": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/vtv.json",
+    "title": "",
     "description": ""
   },
   "description": "",
@@ -12,7 +12,7 @@
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://scontent.fhan22-1.fna.fbcdn.net/v/t39.30808-6/462592755_1770451933769977_4052062777522431665_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF8aDxqRRaxB4zR0_Ebcqn6CJ4jdyAtguEIniN3IC2C4b-wl02XxTzNKj9H5gmK4ZhLg0lAuofYd3PH_K2JjQqy&_nc_ohc=RiCs3OdH4BQQ7kNvwGxqSYo&_nc_oc=Adm9EGjmMsfe2lKvG5IOta9GiVudJlXcwx77Kur-twgSTFyuJh8YJW5xzye66mW5DfSIkHEolAVqWwLcRsFqeRNR&_nc_zt=23&_nc_ht=scontent.fhan22-1.fna&_nc_gid=OBrlfKLY2KtzYSWM8Sjvag&oh=00_Afa9RCscs1JO_dGA4iZAGgtmTlWGniPSBpMVkP-QKO7dMg&oe=68E06197",
+    "url": "",
     "height": 101,
     "width": 155
   },
