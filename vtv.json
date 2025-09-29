@@ -1134,7 +1134,7 @@
         }
       ],
       "display": "vertical",
-      "grid_columns": null,
+      "grid_columns": 5,
       "enable_detail": true
     }
   ],
