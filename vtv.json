@@ -520,12 +520,11 @@
       "grid_columns": null,
       "remote_data": {
         "enable": true,
-        "url": "http://iptv.nhadai.org/group?s=CO_BAN"
+        "url": ""
       },
       "enable_detail": true
     }
   ],
-
   "search": {
     "url": "http://iptv.nhadai.org/search",
     "search_key": "q",
