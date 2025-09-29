@@ -82,7 +82,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vnepg.site/logos/1.png",
+            "url": "https://vnepg.site/logos/2.png",
             "height": 101,
             "width": 155
           },
@@ -103,7 +103,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vnepg.site/logos/1.png",
+                        "url": "https://vnepg.site/logos/2.png",
                         "height": 101,
                         "width": 155
                       },
