@@ -1,10 +1,10 @@
 {
-  "id": "msystem",
-  "name": "mSystem",
+  "id": "msystem1",
+  "name": "DTH-TRAPHI",
   "color": "#FF9E2D",
   "org_metadata": {
     "image": "",
-    "title": "mSystem",
+    "title": "KM1",
     "description": ""
   },
   "description": "",
@@ -19,8 +19,8 @@
   "grid_number": 1,
   "groups": [
     {
-      "id": "fpt",
-      "name": "Luồng FPT Play",
+      "id": "vtvdth",
+      "name": "Tất cả các kênh",
       "channels": [
         {
           "id": "VTV1",
@@ -688,7 +688,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/71.png",
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczNOIL3rLTu2UGljqevG-EYhbz-p_O6r1dR8C-EZr-WrXVIW3ZVGXhV_0LOnmnztYhDMeGmT6CUGC0RXnOHGEMosAf-xwsnCB-yOmprMpfX9Ue1BaJgvmFOKDPlGQLaIWl-dsbtAwKF5V9kupBwkbW9mJA=w1681-h946-s-no?authuser=0",
       "height": 101,
       "width": 155
     },
@@ -709,7 +709,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/71.png",
+                  "url": "https://lh3.googleusercontent.com/pw/AP1GczNOIL3rLTu2UGljqevG-EYhbz-p_O6r1dR8C-EZr-WrXVIW3ZVGXhV_0LOnmnztYhDMeGmT6CUGC0RXnOHGEMosAf-xwsnCB-yOmprMpfX9Ue1BaJgvmFOKDPlGQLaIWl-dsbtAwKF5V9kupBwkbW9mJA=w1681-h946-s-no?authuser=0",
                   "height": 101,
                   "width": 155
                 },
