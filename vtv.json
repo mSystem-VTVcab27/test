@@ -1,6 +1,6 @@
 {
   "id": "msystem1",
-  "name": "mSystem Test",
+  "name": "mSystem",
   "color": "#FF9E2D",
   "org_metadata": {
     "image": "",
@@ -5554,7 +5554,12 @@
     "retry_count": 3,
     "retry_delay_seconds": 60
   },
-  "notice": {
+  "option": {
+    "save_history": true,
+    "save_search_history": true,
+    "save_wishlist": true
+  },
+    "notice": {
     "id": "notice-1",
     "link": "https://www.youtube.com/@onmtvmsystem",
     "text": "YT mSystem",
