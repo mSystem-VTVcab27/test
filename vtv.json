@@ -5145,6 +5145,235 @@
     }
   },
 
+  {
+    "id": "vov2",
+    "name": "VOV2",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2F44c6a88dd396d18672012a99cb50af6f.png&w=800",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vov2",
+        "name": "",
+        "contents": [
+          {
+            "id": "vov2",
+            "name": "",
+            "streams": [
+              {
+                "id": "vov2",
+                "name": "VOV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2F44c6a88dd396d18672012a99cb50af6f.png&w=800",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vov2",
+                    "name": "VOV2",
+                    "url": "http://media.kythuatvov.vn:1936/live/VOV2.sdp/playlist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "vov3",
+    "name": "VOV3",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2Fa10ec7d78b36fe4a5a3847c0a3bc9500.png&w=800",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vov3",
+        "name": "",
+        "contents": [
+          {
+            "id": "vov3",
+            "name": "",
+            "streams": [
+              {
+                "id": "vov3",
+                "name": "VOV3",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2Fa10ec7d78b36fe4a5a3847c0a3bc9500.png&w=800",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vov3",
+                    "name": "VOV3",
+                    "url": "http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "vovgthn",
+    "name": "VOV Giao thông Hà Nội",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2F941fd0c7483baf5d6c60e81cf7968eed.png&w=800",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vovgthn",
+        "name": "",
+        "contents": [
+          {
+            "id": "vovgthn",
+            "name": "",
+            "streams": [
+              {
+                "id": "vovgthn",
+                "name": "VOV Giao thông Hà Nội",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2F941fd0c7483baf5d6c60e81cf7968eed.png&w=800",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vovgthn",
+                    "name": "VOV Giao thông Hà Nội",
+                    "url": "http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "vovgthcm",
+    "name": "VOV Giao thông HCM",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2F99c779254838d395aa0ade3cdc5226c0.png&w=800",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vovgthcm",
+        "name": "",
+        "contents": [
+          {
+            "id": "vovgthcm",
+            "name": "",
+            "streams": [
+              {
+                "id": "vovgthcm",
+                "name": "VOV Giao thông Hà Nội",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fadminmedia.kythuatvov.vn%2Fuploads%2Fimages%2Fchannels%2F99c779254838d395aa0ade3cdc5226c0.png&w=800",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vovgthn",
+                    "name": "VOV Giao thông Hà Nội",
+                    "url": "http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+
+
+
+
+
+
+
+
+
 {
     "id": "Tuyen_Quang_HD",
     "name": "TTV",
@@ -5200,6 +5429,15 @@
           }
         }
       ],
+
+
+
+
+
+
+
+
+
       "display": "vertical",
       "grid_columns": 5,
       "remote_data": {
@@ -5210,18 +5448,13 @@
     }
   ],
   "search": {
-    "url": "",
-    "search_key": "q",
-    "paging": {
-      "page_key": "page",
-      "size_key": "size"
-    }
+    "enable": true,
+    "placeholder": "Search channel..."
   },
   "notice": {
     "id": "notice-1",
-    "link": "https://t.me/xemgicungshare",
-    "text": "Telegram Support",
-    "icon": "http://iptv.nhadai.org/tele.png",
+    "link": "https://www.youtube.com/@onmtvmsystem",
+    "text": "YT mSystem",
     "closeable": true
   }
 }
