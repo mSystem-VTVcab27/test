@@ -2103,13 +2103,14 @@
       "url": ""
     }
   },
-  {
+
+{
     "id": "HaNoi2",
     "name": "HÀNỘI 2 HD",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/hanoi2.png",
+      "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
       "height": 101,
       "width": 155
     },
@@ -2130,7 +2131,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/hanoi2.png",
+                  "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
                   "height": 101,
                   "width": 155
                 },
@@ -2138,6 +2139,61 @@
                   {
                     "id": "hanoi2-hd",
                     "name": "Hà Nội 2 HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "HaNoi2",
+    "name": "HÀNỘI 2 4K-HD",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hanoi2",
+        "name": "",
+        "contents": [
+          {
+            "id": "hanoi2",
+            "name": "",
+            "streams": [
+              {
+                "id": "hanoi2",
+                "name": "Hà Nội 2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "hanoi2-hd",
+                    "name": "HÀNỘI 2 4K-HD",
                     "url": "https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8",
                     "type": "hls",
                     "default": true
@@ -2163,7 +2219,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/hanoi24k.png",
+      "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
       "height": 101,
       "width": 155
     },
@@ -2180,11 +2236,11 @@
             "streams": [
               {
                 "id": "hanoi24k",
-                "name": "Hà Nội 2 4K (muted)",
+                "name": "HÀNỘI 2 4K",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/hanoi24k.png",
+                  "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
                   "height": 101,
                   "width": 155
                 },
@@ -2192,7 +2248,7 @@
                   {
                     "id": "hanoi24k-hd",
                     "name": "Hà Nội 2 4K (muted)",
-                    "url": "https://live.fptplay53.net/channel/hntv2-uhd/playlist_mx_2160p.m3u8",
+                    "url": "https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN2.smil/chunklist_w856384831_b3128000_slen.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2213,11 +2269,11 @@
   },
   {
     "id": "AnGiang1",
-    "name": "An Giang 1",
+    "name": "ATV1",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/angiang1.png",
+      "url": "https://drive.google.com/uc?export=download&id=13urDLmnTm4xsLqt333-ABh7rsU-NOiVK",
       "height": 101,
       "width": 155
     },
@@ -2234,11 +2290,11 @@
             "streams": [
               {
                 "id": "angiang1",
-                "name": "An Giang 1",
+                "name": "ATV1",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/angiang1.png",
+                  "url": "https://drive.google.com/uc?export=download&id=13urDLmnTm4xsLqt333-ABh7rsU-NOiVK",
                   "height": 101,
                   "width": 155
                 },
@@ -2267,11 +2323,11 @@
   },
   {
     "id": "AnGiang2",
-    "name": "An Giang 2",
+    "name": "ATV2",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/angiang2.png",
+      "url": "https://drive.google.com/uc?export=download&id=14-x6GIrRPIZBo18kbnH3mtwvCL0OmxPu",
       "height": 101,
       "width": 155
     },
@@ -2288,11 +2344,11 @@
             "streams": [
               {
                 "id": "angiang2",
-                "name": "An Giang 2",
+                "name": "ATV2",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/angiang2.png",
+                  "url": "https://drive.google.com/uc?export=download&id=14-x6GIrRPIZBo18kbnH3mtwvCL0OmxPu",
                   "height": 101,
                   "width": 155
                 },
