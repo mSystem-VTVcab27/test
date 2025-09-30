@@ -2157,6 +2157,62 @@
       "url": ""
     }
   },
+
+{
+    "id": "SCTV4k",
+    "name": "SCTV 4K",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczP5jz4GLkFu7EqTzBnbgVlFZ2s-lvBItczkIyjs4pOcQ5kPPVXKYqMyhq5G_FWCh3oCDD_3g5oWVxMSjDI5cFAkuUx09P8BVPge36D9KIz8MkPyGBpHy6o8jH2uzYIldmeh1TihB0BoT0iIcCX-ekh1lw=w1344-h756-s-no?authuser=0",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sctv4k",
+        "name": "",
+        "contents": [
+          {
+            "id": "sctv4k",
+            "name": "",
+            "streams": [
+              {
+                "id": "sctv4k",
+                "name": "SCTV4K",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://lh3.googleusercontent.com/pw/AP1GczP5jz4GLkFu7EqTzBnbgVlFZ2s-lvBItczkIyjs4pOcQ5kPPVXKYqMyhq5G_FWCh3oCDD_3g5oWVxMSjDI5cFAkuUx09P8BVPge36D9KIz8MkPyGBpHy6o8jH2uzYIldmeh1TihB0BoT0iIcCX-ekh1lw=w1344-h756-s-no?authuser=0",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sctv4k",
+                    "name": "SCTV4K",
+                    "url": "https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "VinhLong1",
     "name": "THVL1",
