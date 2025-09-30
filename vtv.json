@@ -5365,9 +5365,115 @@
     }
   },
 
+{
+    "id": "hn90",
+    "name": "HÀNỘI FM90",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_90mhz---3-01-111825.jpg?w=495&h=297",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hn90",
+        "name": "",
+        "contents": [
+          {
+            "id": "hn90",
+            "name": "",
+            "streams": [
+              {
+                "id": "hn90",
+                "name": "HÀNỘI FM90",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_90mhz---3-01-111825.jpg?w=495&h=297",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "hn90",
+                    "name": "HÀNỘI FM90",
+                    "url": "https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
 
-
-
+{
+    "id": "hn96",
+    "name": "HÀNỘI FM96",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_96mhz--3-01-111727.jpg?w=495&h=297",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hn96",
+        "name": "",
+        "contents": [
+          {
+            "id": "hn96",
+            "name": "",
+            "streams": [
+              {
+                "id": "hn96",
+                "name": "HÀNỘI FM96",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://image.voh.com.vn/voh/image/2024/03/08/dai-ha-noi-5_96mhz--3-01-111727.jpg?w=495&h=297",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "hn96",
+                    "name": "HÀNỘI FM96",
+                    "url": "https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
 
 
 
@@ -5429,15 +5535,6 @@
           }
         }
       ],
-
-
-
-
-
-
-
-
-
       "display": "vertical",
       "grid_columns": 5,
       "remote_data": {
