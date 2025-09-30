@@ -242,6 +242,61 @@
     }
   },
 
+  {
+    "id": "VT",
+    "name": "Vietnam Today",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/176.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtv4",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtv4",
+            "name": "",
+            "streams": [
+              {
+                "id": "vt",
+                "name": "Vietnam Today",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/176.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vt",
+                    "name": "Vietnam Today",
+                    "url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
 {
     "id": "VTV5",
     "name": "VTV5",
@@ -1610,121 +1665,14 @@
       "url": ""
     }
   },
-  {
-    "id": "VinhLong2TRV",
-    "name": "Vĩnh Long 2 (TRV)",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/vinhlong2trv.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "vinhlong2trv",
-        "name": "",
-        "contents": [
-          {
-            "id": "vinhlong2trv",
-            "name": "",
-            "streams": [
-              {
-                "id": "vinhlong2trv",
-                "name": "Vĩnh Long 2 (TRV)",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/vinhlong2trv.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "vinhlong2trv-hd",
-                    "name": "Vĩnh Long 2 HD (TRV)",
-                    "url": "https://live.fptplay53.net/epzsd1/vinhlong22_vhls.smil/chunklist_b5000000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "VinhLong2BT",
-    "name": "Vĩnh Long 2 (BT)",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/vinhlong2bt.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "vinhlong2bt",
-        "name": "",
-        "contents": [
-          {
-            "id": "vinhlong2bt",
-            "name": "",
-            "streams": [
-              {
-                "id": "vinhlong2bt",
-                "name": "Vĩnh Long 2 (BT)",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/vinhlong2bt.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "vinhlong2bt-hd",
-                    "name": "Vĩnh Long 2 HD (BT)",
-                    "url": "https://live.fptplay53.net/epzsd1/vinhlong21_hls.smil/chunklist_b2500000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
+  
   {
     "id": "VinhLong3",
-    "name": "Vĩnh Long 3",
+    "name": "THVL3",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/vinhlong3.png",
+      "url": "https://vnepg.site/logos/77.png",
       "height": 101,
       "width": 155
     },
@@ -1741,11 +1689,11 @@
             "streams": [
               {
                 "id": "vinhlong3",
-                "name": "Vĩnh Long 3",
+                "name": "THVL3",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/vinhlong3.png",
+                  "url": "https://vnepg.site/logos/77.png",
                   "height": 101,
                   "width": 155
                 },
@@ -1774,11 +1722,11 @@
   },
   {
     "id": "VinhLong4",
-    "name": "Vĩnh Long 4",
+    "name": "THVL4",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/vinhlong4.png",
+      "url": "https://vnepg.site/logos/78.png",
       "height": 101,
       "width": 155
     },
@@ -1795,11 +1743,11 @@
             "streams": [
               {
                 "id": "vinhlong4",
-                "name": "Vĩnh Long 4",
+                "name": "THVL4",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/vinhlong4.png",
+                  "url": "https://vnepg.site/logos/78.png",
                   "height": 101,
                   "width": 155
                 },
@@ -1826,6 +1774,62 @@
       "url": ""
     }
   },
+
+{
+    "id": "VinhLong5",
+    "name": "THVL5",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/175.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vinhlong5",
+        "name": "",
+        "contents": [
+          {
+            "id": "vinhlong5",
+            "name": "",
+            "streams": [
+              {
+                "id": "vinhlong5",
+                "name": "THVL5",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/175.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vinhlong5",
+                    "name": "THVL5",
+                    "url": "https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "HaNoi1",
     "name": "Hà Nội 1",
