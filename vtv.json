@@ -1666,6 +1666,62 @@
       "url": ""
     }
   },
+
+{
+    "id": "SCTV2",
+    "name": "SCTV2",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/47.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sctv2",
+        "name": "",
+        "contents": [
+          {
+            "id": "sctv2",
+            "name": "",
+            "streams": [
+              {
+                "id": "sctv2",
+                "name": "SCTV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/47.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sctv2-hd",
+                    "name": "SCTV2 HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "SCTV6",
     "name": "SCTV6",
