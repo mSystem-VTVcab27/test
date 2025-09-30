@@ -3519,6 +3519,61 @@
     }
   },
 
+{
+    "id": "Dong_Nai_3_HD",
+    "name": "ĐNNRTV3",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/174.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "dong_nai_3",
+        "name": "",
+        "contents": [
+          {
+            "id": "dong_nai_3",
+            "name": "",
+            "streams": [
+              {
+                "id": "dong_nai_3",
+                "name": "Báo và Phát thanh, Truyền hình Đồng Nai",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/174.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "dong_nai_3",
+                    "name": "Đồng Nai 3",
+                    "url": "https://sgn-fpt-live-006-livecdn-vthcm-vnd.vieon.vn/7b28f094a4eac1539c57258cf95cd35f/1759291311000/livetv/enc/43ec53af7a809687be1a97622aec2eff/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "Dong_Thap_1_HD",
     "name": "THĐT1",
