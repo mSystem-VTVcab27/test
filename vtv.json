@@ -2921,7 +2921,7 @@
   },
   {
     "id": "Dak_Lak_HD",
-    "name": "ĐRT",
+    "name": "DRT",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3739,7 +3739,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/110.png/",
+      "url": "https://vnepg.site/logos/110.png",
       "height": 101,
       "width": 155
     },
@@ -3952,11 +3952,11 @@
 
   {
     "id": "Lang_Son_HD",
-    "name": "Lạng Sơn HD",
+    "name": "LSTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/114.png",
       "height": 101,
       "width": 155
     },
@@ -3973,11 +3973,11 @@
             "streams": [
               {
                 "id": "lang_son",
-                "name": "Lạng Sơn HD",
+                "name": "Báo và Phát thanh, Truyền hình Lạng Sơn",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/114.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4006,11 +4006,11 @@
   },
   {
     "id": "Lao_Cai_HD",
-    "name": "Lào Cai HD",
+    "name": "THLC",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/115.png",
       "height": 101,
       "width": 155
     },
@@ -4027,11 +4027,11 @@
             "streams": [
               {
                 "id": "lao_cai",
-                "name": "Lào Cai HD",
+                "name": "Báo và Phát thanh, Truyền hình Lào Cai",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/115.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4060,11 +4060,11 @@
   },
   {
     "id": "Nghe_An_HD",
-    "name": "Nghệ An HD",
+    "name": "NTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/116.png",
       "height": 101,
       "width": 155
     },
@@ -4081,11 +4081,11 @@
             "streams": [
               {
                 "id": "nghe_an",
-                "name": "Nghệ An HD",
+                "name": "Báo và Phát thanh, Truyền hình Nghệ An",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/116.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4114,11 +4114,11 @@
   },
   {
     "id": "Ninh_Binh_HD",
-    "name": "Ninh Bình HD",
+    "name": "NBTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/117.png",
       "height": 101,
       "width": 155
     },
@@ -4139,7 +4139,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/117.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4168,11 +4168,11 @@
   },
   {
     "id": "Phu_Tho_HD",
-    "name": "Phú Thọ HD",
+    "name": "PTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://drive.google.com/uc?export=download&id=1LWy5KR6fzFQSl39isz8nKDCfFo8HZFam",
       "height": 101,
       "width": 155
     },
@@ -4189,11 +4189,11 @@
             "streams": [
               {
                 "id": "phu_tho",
-                "name": "Phú Thọ HD",
+                "name": "Báo và Phát thanh, Truyền hình Phú Thọ",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://drive.google.com/uc?export=download&id=1LWy5KR6fzFQSl39isz8nKDCfFo8HZFam",
                   "height": 101,
                   "width": 155
                 },
@@ -4222,11 +4222,11 @@
   },
   {
     "id": "Quang_Tri_HD",
-    "name": "Quảng Trị HD (QT)",
+    "name": "QTTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/122.png",
       "height": 101,
       "width": 155
     },
@@ -4243,11 +4243,11 @@
             "streams": [
               {
                 "id": "quang_tri",
-                "name": "Quảng Trị HD (QT)",
+                "name": "Báo và Phát thanh, Truyền hình Quảng Trị",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/122.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4276,11 +4276,11 @@
   },
   {
     "id": "Quang_Ngai_HD",
-    "name": "Quảng Ngãi HD",
+    "name": "QngTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/119.png",
       "height": 101,
       "width": 155
     },
@@ -4297,11 +4297,11 @@
             "streams": [
               {
                 "id": "quang_ngai",
-                "name": "Quảng Ngãi HD",
+                "name": "Báo và Phát thanh, Truyền hình Quảng Ngãi",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/119.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4330,11 +4330,11 @@
   },
   {
     "id": "Quang_Ninh_1_HD",
-    "name": "Quảng Ninh 1 HD",
+    "name": "QTV1",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://drive.google.com/uc?export=download&id=1iDyRboMN1t42BEtgMk1BZ8Qyz_P21YKV",
       "height": 101,
       "width": 155
     },
@@ -4351,11 +4351,11 @@
             "streams": [
               {
                 "id": "quang_ninh_1",
-                "name": "Quảng Ninh 1 HD",
+                "name": "Báo và Phát thanh, Truyền hình Quảng Ninh",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://drive.google.com/uc?export=download&id=1iDyRboMN1t42BEtgMk1BZ8Qyz_P21YKV",
                   "height": 101,
                   "width": 155
                 },
@@ -4384,11 +4384,11 @@
   },
   {
     "id": "Quang_Ninh_3_HD",
-    "name": "Quảng Ninh 3 HD",
+    "name": "QTV3",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://drive.google.com/uc?export=download&id=1eM1EqQ8qqRRkbOLXx1f157W5fBlR8_iS",
       "height": 101,
       "width": 155
     },
@@ -4409,7 +4409,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://drive.google.com/uc?export=download&id=1eM1EqQ8qqRRkbOLXx1f157W5fBlR8_iS",
                   "height": 101,
                   "width": 155
                 },
@@ -4438,11 +4438,11 @@
   },
   {
     "id": "Son_La",
-    "name": "Sơn La",
+    "name": "STV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/123.png",
       "height": 101,
       "width": 155
     },
@@ -4459,11 +4459,11 @@
             "streams": [
               {
                 "id": "son_la",
-                "name": "Sơn La",
+                "name": "Báo và Phát thanh, Truyền hình Sơn La",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/123.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4492,11 +4492,11 @@
   },
   {
     "id": "Tay_Ninh_1",
-    "name": "Tây Ninh 1",
+    "name": "TTV1",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/124.png",
       "height": 101,
       "width": 155
     },
@@ -4513,11 +4513,11 @@
             "streams": [
               {
                 "id": "tay_ninh_1",
-                "name": "Tây Ninh 1",
+                "name": "Báo và Phát thanh, Truyền hình Tây Ninh",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/124.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4525,7 +4525,7 @@
                   {
                     "id": "tay_ninh_1",
                     "name": "Tây Ninh 1",
-                    "url": "https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/72/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4546,11 +4546,11 @@
   },
   {
     "id": "Tay_Ninh_2_HD",
-    "name": "Tây Ninh 2 HD",
+    "name": "TTV2",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/125.png",
       "height": 101,
       "width": 155
     },
@@ -4567,11 +4567,11 @@
             "streams": [
               {
                 "id": "tay_ninh_2",
-                "name": "Tây Ninh 2 HD",
+                "name": "Báo và Phát thanh, Truyền hình Tây Ninh",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/125.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4600,11 +4600,11 @@
   },
   {
     "id": "Thai_Nguyen_HD",
-    "name": "Thái Nguyên HD",
+    "name": "TN",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/126.png",
       "height": 101,
       "width": 155
     },
@@ -4621,11 +4621,11 @@
             "streams": [
               {
                 "id": "thai_nguyen",
-                "name": "Thái Nguyên HD",
+                "name": "Báo và Phát thanh, Truyền hình Thái Nguyên",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/126.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4654,11 +4654,11 @@
   },
   {
     "id": "Thanh_Hoa",
-    "name": "Thanh Hóa",
+    "name": "TTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/127.png",
       "height": 101,
       "width": 155
     },
@@ -4679,7 +4679,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/127.png",
                   "height": 101,
                   "width": 155
                 },
@@ -4709,11 +4709,11 @@
 
   {
     "id": "Tuyen_Quang_HD",
-    "name": "Tuyên Quang HD",
+    "name": "TTV",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/",
+      "url": "https://vnepg.site/logos/128.png",
       "height": 101,
       "width": 155
     },
@@ -4734,7 +4734,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/",
+                  "url": "https://vnepg.site/logos/128.png",
                   "height": 101,
                   "width": 155
                 },
