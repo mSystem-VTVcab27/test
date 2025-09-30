@@ -1995,11 +1995,11 @@
 
   {
     "id": "HaNoi1",
-    "name": "Hà Nội 1",
+    "name": "HÀNỘI 1",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://vnepg.site/logos/hanoi1.png",
+      "url": "https://drive.google.com/uc?export=download&id=1FTK-VDTi98BW-vEb3m1E2NsmCKIc4PeW",
       "height": 101,
       "width": 155
     },
@@ -2020,7 +2020,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://vnepg.site/logos/hanoi1.png",
+                  "url": "https://drive.google.com/uc?export=download&id=1FTK-VDTi98BW-vEb3m1E2NsmCKIc4PeW",
                   "height": 101,
                   "width": 155
                 },
@@ -2049,7 +2049,7 @@
   },
   {
     "id": "HaNoi2",
-    "name": "Hà Nội 2",
+    "name": "HÀNỘI 2 HD",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2103,7 +2103,7 @@
   },
   {
     "id": "HaNoi24K",
-    "name": "Hà Nội 2 4K (muted)",
+    "name": "HÀNỘI 2 4K",
     "image": {
       "display": "cover",
       "shape": "square",
