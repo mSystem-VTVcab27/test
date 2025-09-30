@@ -1341,7 +1341,7 @@
   },
 {
     "id": "BaRiaVungTau",
-    "name": "BRT",
+    "name": "BRT - Trung tâm HTV Bà Rịa - Vũng Tàu",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1755,6 +1755,280 @@
                     "id": "htvcplus-hd",
                     "name": "HTVC+ HD",
                     "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "vtvcab1",
+    "name": "ON Vie GIẢITRÍ",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/12.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtvcab1",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtvcab1",
+            "name": "",
+            "streams": [
+              {
+                "id": "vtvcab1",
+                "name": "VTV-MMDS",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/12.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vtvcab1-hd",
+                    "name": "ON Vie GIẢITRÍ HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "vtvcab19",
+    "name": "ON Vie DRAMAS",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/27.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtvcab19",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtvcab19",
+            "name": "",
+            "streams": [
+              {
+                "id": "vtvcab19",
+                "name": "ON Vie DRAMAS",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/27.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vtvcab19-hd",
+                    "name": "ON Vie DRAMAS HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "vtvcab4",
+    "name": "ON Movies",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/15.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtvcab4",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtvcab4",
+            "name": "",
+            "streams": [
+              {
+                "id": "vtvcab4",
+                "name": "ON Movies",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/15.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vtvcab1-hd",
+                    "name": "ON Movies HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+    {
+    "id": "vtvcab12",
+    "name": "ON Style TV",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/22.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtvcab12",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtvcab12",
+            "name": "",
+            "streams": [
+              {
+                "id": "vtvcab12",
+                "name": "ON Style TV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/22.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vtvcab12-hd",
+                    "name": "ON Style TV HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+    {
+    "id": "vtvcab17",
+    "name": "ON Trending TV",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/25.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vtvcab17",
+        "name": "",
+        "contents": [
+          {
+            "id": "vtvcab17",
+            "name": "",
+            "streams": [
+              {
+                "id": "vtvcab17",
+                "name": "ON Trending TV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/25.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vtvcab17-hd",
+                    "name": "ON Trending TV HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
