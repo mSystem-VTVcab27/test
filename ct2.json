@@ -2587,18 +2587,18 @@
     },
     "type": "single",
     "display": "text-below",
-    "enable_detail": true,
     "sources": [
       {
         "id": "hanoi2",
-        "name": "HD",
+        "name": "",
         "contents": [
           {
             "id": "hanoi2",
+            "name": "",
             "streams": [
               {
                 "id": "hanoi2",
-                "name": "HD",
+                "name": "Đài Hà Nội",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2606,7 +2606,6 @@
                   "height": 101,
                   "width": 155
                 },
-
                 "stream_links": [
                   {
                     "id": "hanoi2-hd",
@@ -2617,11 +2616,44 @@
                   }
                 ],
                 "remote_data": null
-              },
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
 
+  {
+    "id": "HaNoi2",
+    "name": "HÀNỘI 2 4K-HD",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hanoi2",
+        "name": "",
+        "contents": [
+          {
+            "id": "hanoi2",
+            "name": "",
+            "streams": [
               {
                 "id": "hanoi2",
-                "name": "HD",
+                "name": "Đài Hà Nội",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2629,32 +2661,9 @@
                   "height": 101,
                   "width": 155
                 },
-
                 "stream_links": [
                   {
                     "id": "hanoi2-hd",
-                    "name": "Hà Nội 2 HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              },
-            
-              {
-                "id": "hanoi2",
-                "name": "4K-HD",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "hanoi24khd",
                     "name": "HÀNỘI 2 4K-HD",
                     "url": "https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8",
                     "type": "hls",
@@ -2662,11 +2671,43 @@
                   }
                 ],
                 "remote_data": null
-              },
-
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "HaNoi24K",
+    "name": "HÀNỘI 2 4K",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hanoi24k",
+        "name": "",
+        "contents": [
+          {
+            "id": "hanoi24k",
+            "name": "",
+            "streams": [
               {
-                "id": "hanoi2",
-                "name": "4K",
+                "id": "hanoi24k",
+                "name": "Đài Hà Nội",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2676,7 +2717,7 @@
                 },
                 "stream_links": [
                   {
-                    "id": "hanoi24k",
+                    "id": "hanoi24k-hd",
                     "name": "Hà Nội 2 4K (muted)",
                     "url": "https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN2.smil/chunklist_w856384831_b3128000_slen.m3u8",
                     "type": "hls",
@@ -2697,7 +2738,6 @@
       "url": ""
     }
   },
-
   {
     "id": "AnGiang1",
     "name": "ATV1",
