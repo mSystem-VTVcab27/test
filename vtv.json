@@ -5697,7 +5697,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "",
+      "url": "https://drive.google.com/uc?export=download&id=1LWy5KR6fzFQSl39isz8nKDCfFo8HZFam",
       "height": 101,
       "width": 155
     },
@@ -5706,7 +5706,7 @@
     "sources": [
       {
         "id": "ptv_fm",
-        "name": "https://drive.google.com/uc?export=download&id=1LWy5KR6fzFQSl39isz8nKDCfFo8HZFam",
+        "name": "",
         "contents": [
           {
             "id": "ptv_fm",
