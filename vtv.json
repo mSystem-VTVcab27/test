@@ -1,26 +1,25 @@
 {
   "id": "msystem1",
-  "name": "mSystem",
-  "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/vtv.json",
+  "name": "HD2",
   "color": "#FF9E2D",
   "org_metadata": {
     "image": "",
-    "title": "KM1",
-    "description": ""
+    "title": "HD2",
+    "description": "DTH - Mở rộng tầm nhìn người Việt"
   },
-  "description": "",
-  "url": "",
+  "description": "DTH - Mở rộng tầm nhìn người Việt",
+  "url": "https://btv-htv1.netlify.app/msystem.json",
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://scontent.fhan22-1.fna.fbcdn.net/v/t39.30808-6/462592755_1770451933769977_4052062777522431665_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF8aDxqRRaxB4zR0_Ebcqn6CJ4jdyAtguEIniN3IC2C4b-wl02XxTzNKj9H5gmK4ZhLg0lAuofYd3PH_K2JjQqy&_nc_ohc=RiCs3OdH4BQQ7kNvwGxqSYo&_nc_oc=Adm9EGjmMsfe2lKvG5IOta9GiVudJlXcwx77Kur-twgSTFyuJh8YJW5xzye66mW5DfSIkHEolAVqWwLcRsFqeRNR&_nc_zt=23&_nc_ht=scontent.fhan22-1.fna&_nc_gid=OBrlfKLY2KtzYSWM8Sjvag&oh=00_Afa9RCscs1JO_dGA4iZAGgtmTlWGniPSBpMVkP-QKO7dMg&oe=68E06197",
+    "url": "https://lh3.googleusercontent.com/pw/AP1GczMFy9q0RQYDj73sUrywApwE7KG7hvD8HAcD17P5aNnp4L84JSwTLe-Q0N3nfsmF--o9p2bhWRNFd5ZjYscVWq3t-b7GLXCSdiiKDFny46sNExKy-4RjJDvmCT7TdF9mnYMLGSmIz9Huuci6zNIkBvT8xQ=w946-h946-s-no?authuser=0",
     "height": 101,
     "width": 155
   },
   "grid_number": 1,
   "groups": [
     {
-      "id": "vtvdth",
+      "id": "vtvdth2",
       "name": "Tất cả các kênh",
       "channels": [
         {
@@ -5476,7 +5475,546 @@
     }
   },
 
-
+{
+    "id": "boxmovie1",
+    "name": "Box Movie 1",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "boxmovie1",
+        "name": "",
+        "contents": [
+          {
+            "id": "boxmovie1",
+            "name": "",
+            "streams": [
+              {
+                "id": "boxmovie1",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "boxmovie1-hd",
+                    "name": "Box Movie 1",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/159/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "hollywoodclassics",
+    "name": "Hollywood Classics",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hollywoodclassics",
+        "name": "",
+        "contents": [
+          {
+            "id": "hollywoodclassics",
+            "name": "",
+            "streams": [
+              {
+                "id": "hollywoodclassics",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "hollywoodclassics-hd",
+                    "name": "Hollywood Classics",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/160/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "inthebox",
+    "name": "In The Box",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "inthebox",
+        "name": "",
+        "contents": [
+          {
+            "id": "inthebox",
+            "name": "",
+            "streams": [
+              {
+                "id": "inthebox",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "inthebox-hd",
+                    "name": "In The Box",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "boxhits",
+    "name": "Box Hits",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "boxhits",
+        "name": "",
+        "contents": [
+          {
+            "id": "boxhits",
+            "name": "",
+            "streams": [
+              {
+                "id": "boxhits",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "boxhits-hd",
+                    "name": "Box Hits",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "manhd",
+    "name": "Man",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "manhd",
+        "name": "",
+        "contents": [
+          {
+            "id": "manhd",
+            "name": "",
+            "streams": [
+              {
+                "id": "manhd",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "manhd-hd",
+                    "name": "Man",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/237/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "musicbox",
+    "name": "Music Box",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "musicbox",
+        "name": "",
+        "contents": [
+          {
+            "id": "musicbox",
+            "name": "",
+            "streams": [
+              {
+                "id": "musicbox",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "musicbox-hd",
+                    "name": "Music Box",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/289/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "drfithd",
+    "name": "Dr.Fit",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "drfithd",
+        "name": "",
+        "contents": [
+          {
+            "id": "drfithd",
+            "name": "",
+            "streams": [
+              {
+                "id": "drfithd",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822429190/7b74ab00eb3e_640_360.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "drfithd-hd",
+                    "name": "Dr.Fit",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/162/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "happykids",
+    "name": "Happy Kids",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "happykids",
+        "name": "",
+        "contents": [
+          {
+            "id": "happykids",
+            "name": "",
+            "streams": [
+              {
+                "id": "happykids",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "happykids-hd",
+                    "name": "Happy Kids",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/212/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "planetearthhd",
+    "name": "Planet Earth",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "planetearthhd",
+        "name": "",
+        "contents": [
+          {
+            "id": "planetearthhd",
+            "name": "",
+            "streams": [
+              {
+                "id": "planetearthhd",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823484363/34cadc4f9c06_640_360.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "planetearthhd-hd",
+                    "name": "Planet Earth",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/135/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "woman",
+    "name": "Woman",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "woman",
+        "name": "",
+        "contents": [
+          {
+            "id": "woman",
+            "name": "",
+            "streams": [
+              {
+                "id": "woman",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822442611/f6b738c3d05a_640_360.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "woman-hd",
+                    "name": "Woman",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
 
 
 
@@ -5555,12 +6093,7 @@
     "retry_count": 3,
     "retry_delay_seconds": 60
   },
-  "option": {
-    "save_history": true,
-    "save_search_history": true,
-    "save_wishlist": true
-  },
-    "notice": {
+  "notice": {
     "id": "notice-1",
     "link": "https://www.youtube.com/@onmtvmsystem",
     "text": "YT mSystem",
