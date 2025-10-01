@@ -6105,7 +6105,7 @@
                   {
                     "id": "cctv10_hd",
                     "name": "CCTV10 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/348133899?profile=pass",
+                    "url": "https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -6267,7 +6267,7 @@
                   {
                     "id": "cctv2_hd",
                     "name": "CCTV2 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1514959795?profile=pass",
+                    "url": "https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv2_1_360P/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -6592,7 +6592,7 @@
                   {
                     "id": "cgtn",
                     "name": "CGTN",
-                    "url": "http://203.80.165.14:30168/stream/channelid/463957623?profile=pass",
+                    "url": "http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -6646,7 +6646,7 @@
                   {
                     "id": "cgtndocumentary",
                     "name": "CGTN Documentary",
-                    "url": "http://203.80.165.14:30168/stream/channelid/186953308?profile=pass",
+                    "url": "https://english-livebkali.cgtn.com/live/doccgtn.m3u8",
                     "type": "hls",
                     "default": true
                   }
