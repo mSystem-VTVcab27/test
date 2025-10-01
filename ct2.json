@@ -2591,9 +2591,10 @@
     "sources": [
       {
         "id": "hanoi2",
-        "name": "Đài Hà Nội",
+        "name": "HD",
         "contents": [
           {
+            "id": "hanoi2",
             "streams": [
               {
                 "id": "hanoi2",
@@ -2617,7 +2618,30 @@
                 ],
                 "remote_data": null
               },
- 
+
+              {
+                "id": "hanoi2",
+                "name": "HD",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
+                  "height": 101,
+                  "width": 155
+                },
+
+                "stream_links": [
+                  {
+                    "id": "hanoi2-hd",
+                    "name": "Hà Nội 2 HD",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/34/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              },
+            
               {
                 "id": "hanoi2",
                 "name": "4K-HD",
