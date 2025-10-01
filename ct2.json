@@ -30,8 +30,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20111202104658im_/http://kplus.vn/Data/ChannelImages/vctv1.jpg",
             "type": "cover",
-            "width": 20,
-            "height": 20
+            "width": 100,
+            "height": 100
           },
           "type": "single",
           "display": "text-below",
@@ -86,8 +86,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20100921073655im_/http://kplus.vn/Data/ChannelImages/vctv2.jpg",
             "type": "cover",
-            "width": 20,
-            "height": 20
+            "width": 100,
+            "height": 100
           },
           "type": "single",
           "display": "text-below",
@@ -142,8 +142,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20111011143150im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
             "type": "cover",
-            "width": 20,
-            "height": 20
+            "width": 100,
+            "height": 100
           },
           "type": "single",
           "display": "text-below",
@@ -198,8 +198,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20111011182639im_/http://kplus.vn/Data/ChannelImages/VCTV4.jpg",
             "type": "cover",
-            "width": 20,
-            "height": 20
+            "width": 100,
+            "height": 100
           },
           "type": "single",
           "display": "text-below",
@@ -244,13 +244,287 @@
           "related": {
             "url": ""
           }
-        }
+        },
+
+  {
+    "id": "vctv6",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921041732im_/http://kplus.vn/Data/ChannelImages/vctv6.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vctv6",
+        "name": "",
+        "contents": [
+          {
+            "id": "vctv6",
+            "name": "",
+            "streams": [
+              {
+                "id": "vctv6",
+                "name": "VCTV6",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20100921041732im_/http://kplus.vn/Data/ChannelImages/vctv6.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vctv6",
+                    "name": "vctv6",
+                    "url": "https://example.com/vctv6.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "vctv8",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921034508im_/http://kplus.vn/Data/ChannelImages/bibi.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vctv8",
+        "name": "",
+        "contents": [
+          {
+            "id": "vctv8",
+            "name": "",
+            "streams": [
+              {
+                "id": "vctv8",
+                "name": "VCTV8",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20100921034508im_/http://kplus.vn/Data/ChannelImages/bibi.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vctv8",
+                    "name": "vctv8",
+                    "url": "https://example.com/vctv8.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "vctv9",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20101124131808im_/http://kplus.vn/Data/ChannelImages/infotv.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vctv9",
+        "name": "",
+        "contents": [
+          {
+            "id": "vctv9",
+            "name": "",
+            "streams": [
+              {
+                "id": "vctv9",
+                "name": "VCTV9",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20101124131808im_/http://kplus.vn/Data/ChannelImages/infotv.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vctv9",
+                    "name": "vctv9",
+                    "url": "https://example.com/vctv9.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "vctv10",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20101124133427im_/http://kplus.vn/Data/ChannelImages/o2tv.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vctv10",
+        "name": "",
+        "contents": [
+          {
+            "id": "vctv10",
+            "name": "",
+            "streams": [
+              {
+                "id": "vctv10",
+                "name": "VCTV10",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20101124133427im_/http://kplus.vn/Data/ChannelImages/o2tv.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vctv10",
+                    "name": "vctv10",
+                    "url": "https://example.com/vctv10.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "vctv16",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921082239im_/http://kplus.vn/Data/ChannelImages/bongdatv.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vctv16",
+        "name": "",
+        "contents": [
+          {
+            "id": "vctv16",
+            "name": "",
+            "streams": [
+              {
+                "id": "vctv16",
+                "name": "VCTV16",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20100921082239im_/http://kplus.vn/Data/ChannelImages/bongdatv.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vctv16",
+                    "name": "vctv16",
+                    "url": "https://example.com/vctv16.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  }
       ],
       "display": "vertical",
-      "grid_columns": 4
+      "grid_columns": 3
     },
-  
-
     
     
     
