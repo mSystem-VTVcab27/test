@@ -18,69 +18,7 @@
   },
   "grid_number": 1,
   "groups": [
-{
-      "id": "trailer",
-      "name": "Mở rộng tầm nhìn người Việt",
-      "channels": [
-        {
-          "id": "vctv3",
-          "name": "VCTV3",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
-            "type": "cover",
-            "width": 100,
-            "height": 100
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "vctv3",
-              "name": "",
-              "contents": [
-                {
-                  "id": "vctv3",
-                  "name": "",
-                  "streams": [
-                    {
-                      "id": "vctv3",
-                      "name": "VCTV3",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "vctv3",
-                          "name": "vctv3",
-                          "url": "",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": ""
-          },
-          "related": {
-            "url": ""
-          }
-        }
-      ],
-      "display": "slider",
-      "enable_detail": false
-    },
+      
     
     
     
