@@ -86,7 +86,7 @@
       "enable_detail": false
     },
 
-      {
+    {
       "id": "trailer1",
       "name": "Mở rộng tầm nhìn người Việt",
       "channels": [
@@ -202,7 +202,7 @@
           }
         },
 
-                {
+        {
           "id": "vctv3",
           "name": "VCTV3",
           "image": {
@@ -258,7 +258,7 @@
           }
         },
 
-                {
+        {
           "id": "vctv4",
           "name": "VCTV4",
           "image": {
@@ -314,9 +314,10 @@
           }
         }
       ],
-      "display": "slider",
+      "display": "horizontal",
       "enable_detail": false
     },
+  
 
     
     
