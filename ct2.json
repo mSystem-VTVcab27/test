@@ -112,8 +112,176 @@
                       },
                       "stream_links": [
                         {
-                          "id": "vctv1",
-                          "name": "vctv1",
+                          "id": "vctv2",
+                          "name": "vctv2",
+                          "url": "https://dl.dropboxusercontent.com/scl/fi/6ohm9umxm9i5cnn2tplbh/vctv2.mp4?rlkey=kk2xy2y4ss96oigx03xhokbbk&st=pc6zpxof&dl=0",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": ""
+          },
+          "related": {
+            "url": ""
+          }
+        },
+
+                {
+          "id": "vctv3",
+          "name": "VCTV3",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://web.archive.org/web/20111011143150im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
+            "type": "cover",
+            "width": 100,
+            "height": 100
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vctv3",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vctv3",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vctv3",
+                      "name": "VCTV3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://web.archive.org/web/20111011143150im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vctv3",
+                          "name": "vctv3",
+                          "url": "https://dl.dropboxusercontent.com/scl/fi/h9y3xldz3px5gp3b2pvps/vctv3.mp4?rlkey=bawir8ciyiggqpmkhlckzh8w9&st=1icjkdi2&dl=0",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": ""
+          },
+          "related": {
+            "url": ""
+          }
+        },
+
+                {
+          "id": "vctv4",
+          "name": "VCTV4",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://web.archive.org/web/20111011182639im_/http://kplus.vn/Data/ChannelImages/VCTV4.jpg",
+            "type": "cover",
+            "width": 100,
+            "height": 100
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vctv4",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vctv4",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vctv4",
+                      "name": "VCTV4",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://web.archive.org/web/20111011182639im_/http://kplus.vn/Data/ChannelImages/VCTV4.jpg",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vctv4",
+                          "name": "vctv4",
+                          "url": "https://dl.dropboxusercontent.com/scl/fi/znep2a6va9y18gl0ih7z4/vctv4.mp4?rlkey=o2rszvxr76cphi54synzdzl6g&st=n3o27imy&dl=0",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": ""
+          },
+          "related": {
+            "url": ""
+          }
+        },
+
+                {
+          "id": "vctv2",
+          "name": "VCTV2",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://web.archive.org/web/20100921073655im_/http://kplus.vn/Data/ChannelImages/vctv2.jpg",
+            "type": "cover",
+            "width": 100,
+            "height": 100
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vctv2",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vctv2",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vctv2",
+                      "name": "VCTV2",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://web.archive.org/web/20100921073655im_/http://kplus.vn/Data/ChannelImages/vctv2.jpg",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "vctv2",
+                          "name": "vctv2",
                           "url": "https://dl.dropboxusercontent.com/scl/fi/528euk2vdw2g8ggv41hjx/vctv1.mp4?rlkey=xs47nyl8z9p5qfqu3pt3pg0i1&st=w21qc8pi&dl=0",
                           "type": "hls",
                           "default": true
@@ -132,7 +300,7 @@
           "related": {
             "url": ""
           }
-        }
+        },
       ],
       "display": "slider",
       "enable_detail": false
