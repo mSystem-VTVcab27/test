@@ -314,8 +314,8 @@
           }
         }
       ],
-      "display": "horizontal",
-      "enable_detail": false
+      "display": "vertical",
+      "grid_columns": 2
     },
   
 
