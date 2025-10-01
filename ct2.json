@@ -16,8 +16,99 @@
     "height": 101,
     "width": 155
   },
-  "grid_number": 1,
+  "grid_number": 2,
   "groups": [
+        {
+      "id": "trailer",
+      "name": "Mở rộng tầm nhìn người Việt",
+      "channels": [
+        {
+          "id": "vctv3",
+          "name": "VCTV3",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/htv9-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vctv3",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv9-hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vctv3",
+                      "name": "VCTV3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv9-hd",
+                          "name": "HTV9 HD",
+                          "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=htv9-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=htv9-hd"
+          }
+        }
+      ],
+      "display": "slider",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": false,
+        "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
+      },
+      "enable_detail": false
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "id": "vtvdth2",
       "name": "Tất cả các kênh",
