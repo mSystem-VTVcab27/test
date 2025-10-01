@@ -3,16 +3,16 @@
   "name": "VTV-DTH 02",
   "color": "#8c8c8c",
   "org_metadata": {
-    "image": "https://lh3.googleusercontent.com/pw/AP1GczOXci44ySTCPFRwTpAkF1gYvpQMGYcJYg1ux3J54L9huV16qafSOrrW7xdaGCaqxJgUy0ri47kgZk5Ay0seZPb1aX0V5o1PBu0eJkl8stGujRYcXN4djc-5zpOrPUnodlYEZCS_fJltsChQh2r_39z8Xg=w988-h555-s-no?authuser=0",
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczN3kSDGpQCFW3PYkCi38b98iYCRXj7aRqASzwgmkG3Dd6XrDRkgK-CWjD8FxDYCuv2n3LWFjala3QLVBDzJ5pnn9NJ6c9wQxOacnICUja8ad17-XjdQmuEN8cBTyr2Gbq0OWoBje3Z8BzeA8y16g5iSTg=w1184-h864-s-no?authuser=0",
     "title": "HD2",
     "description": "Mở rộng tầm nhìn người Việt"
   },
-  "description": "",
+  "description": "Mở rộng tầm nhìn người Việt",
   "url": "https://btv-htv1.netlify.app/msystem.json",
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://lh3.googleusercontent.com/pw/AP1GczOXci44ySTCPFRwTpAkF1gYvpQMGYcJYg1ux3J54L9huV16qafSOrrW7xdaGCaqxJgUy0ri47kgZk5Ay0seZPb1aX0V5o1PBu0eJkl8stGujRYcXN4djc-5zpOrPUnodlYEZCS_fJltsChQh2r_39z8Xg=w988-h555-s-no?authuser=0",
+    "url": "https://lh3.googleusercontent.com/pw/AP1GczN3kSDGpQCFW3PYkCi38b98iYCRXj7aRqASzwgmkG3Dd6XrDRkgK-CWjD8FxDYCuv2n3LWFjala3QLVBDzJ5pnn9NJ6c9wQxOacnICUja8ad17-XjdQmuEN8cBTyr2Gbq0OWoBje3Z8BzeA8y16g5iSTg=w1184-h864-s-no?authuser=0",
     "height": 101,
     "width": 155
   },
