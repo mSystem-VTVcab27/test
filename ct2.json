@@ -30,8 +30,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20111202104658im_/http://kplus.vn/Data/ChannelImages/vctv1.jpg",
             "type": "cover",
-            "width": 50,
-            "height": 50
+            "width": 20,
+            "height": 20
           },
           "type": "single",
           "display": "text-below",
@@ -86,8 +86,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20100921073655im_/http://kplus.vn/Data/ChannelImages/vctv2.jpg",
             "type": "cover",
-            "width": 50,
-            "height": 50
+            "width": 20,
+            "height": 20
           },
           "type": "single",
           "display": "text-below",
@@ -142,8 +142,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20111011143150im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
             "type": "cover",
-            "width": 50,
-            "height": 50
+            "width": 20,
+            "height": 20
           },
           "type": "single",
           "display": "text-below",
@@ -198,8 +198,8 @@
             "shape": "square",
             "url": "https://web.archive.org/web/20111011182639im_/http://kplus.vn/Data/ChannelImages/VCTV4.jpg",
             "type": "cover",
-            "width": 50,
-            "height": 50
+            "width": 20,
+            "height": 20
           },
           "type": "single",
           "display": "text-below",
