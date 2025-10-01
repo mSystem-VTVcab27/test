@@ -18,7 +18,98 @@
   },
   "grid_number": 1,
   "groups": [
-     {
+      
+    
+    
+    
+    {
+      "id": "ca-nhan",
+      "name": "Nổi Bật",
+      "channels": [
+        {
+          "id": "HTV9_HD",
+          "name": "HTV9 HD",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "http://iptv.nhadai.org/img/htv9-hd.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "htv9-hd",
+              "name": "",
+              "contents": [
+                {
+                  "id": "htv9-hd",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "htv9-hd",
+                      "name": "HTV9 HD",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "http://iptv.nhadai.org/img/htv9-hd.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "id": "htv9-hd",
+                          "name": "HTV9 HD",
+                          "url": "https://dl.dropboxusercontent.com/scl/fi/yvvlntkqerm1xvlhbfadc/Xem-Phim-Doraemon-Movie-44-Nobita-V-Cu-c-Phi-u-L-u-V-o-Th-Gi-i-Trong-Tranh-Doraemon-the-Movie-Nobitas-Art-World-Tales-Vietsub-RoPhim.mp4?rlkey=z2dujfvestltu7lpcaz2x1fnw&e=1&st=1drx6hkz&dl=0",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": "http://iptv.nhadai.org/share?q=htv9-hd"
+          },
+          "related": {
+            "url": "http://iptv.nhadai.org/related?q=htv9-hd"
+          }
+        }
+      ],
+      "display": "slider",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": false,
+        "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
+      },
+      "enable_detail": false
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
       "id": "vtvdth2",
       "name": "Tất cả các kênh",
       "channels": [
