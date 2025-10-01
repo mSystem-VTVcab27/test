@@ -1,11 +1,11 @@
 {
   "id": "msystem1",
-  "name": "VTV-DTH 02",
+  "name": "Chương trình 2",
   "color": "#0864af",
   "org_metadata": {
     "image": "https://lh3.googleusercontent.com/pw/AP1GczN3kSDGpQCFW3PYkCi38b98iYCRXj7aRqASzwgmkG3Dd6XrDRkgK-CWjD8FxDYCuv2n3LWFjala3QLVBDzJ5pnn9NJ6c9wQxOacnICUja8ad17-XjdQmuEN8cBTyr2Gbq0OWoBje3Z8BzeA8y16g5iSTg=w1184-h864-s-no?authuser=0",
     "title": "HD2",
-    "description": "Mở rộng tầm nhìn người Việt"
+    "description": "DTH - Mở rộng tầm nhìn người Việt"
   },
   "description": "Mở rộng tầm nhìn người Việt",
   "url": "https://btv-htv1.netlify.app/msystem.json",
