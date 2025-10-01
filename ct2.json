@@ -575,6 +575,172 @@
     "related": {
       "url": ""
     }
+  },
+
+  {
+    "id": "sctv",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921072440im_/http://kplus.vn/Data/ChannelImages/sctv.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sctv",
+        "name": "SCTV",
+        "contents": [
+          {
+            "id": "sctv",
+            "name": "SCTV",
+            "streams": [
+              {
+                "id": "sctv",
+                "name": "SCTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20100921072440im_/http://kplus.vn/Data/ChannelImages/sctv.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sctv",
+                    "name": "sctv",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/jclxuddkxb5p45tqidd0y/sctv.mp4?rlkey=1wuoqt4pfnld1i5u86kdz7pkd&st=7qk6zsw3&dl=0",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "sctv1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921045821im_/http://kplus.vn/Data/ChannelImages/sctv1.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sctv1",
+        "name": "SCTV1",
+        "contents": [
+          {
+            "id": "sctv1",
+            "name": "SCTV1",
+            "streams": [
+              {
+                "id": "sctv1",
+                "name": "SCTV1",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20100921045821im_/http://kplus.vn/Data/ChannelImages/sctv1.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sctv1",
+                    "name": "sctv1",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/we8vno7jn4qf1s8c300li/sctv1.mp4?rlkey=kdpunroq05nhzj18vw5clc7uz&st=rtqg23ma&dl=0",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "sctv7",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921041308im_/http://kplus.vn/Data/ChannelImages/sctv7.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sctv7",
+        "name": "SCTV7",
+        "contents": [
+          {
+            "id": "sctv7",
+            "name": "SCTV7",
+            "streams": [
+              {
+                "id": "sctv7",
+                "name": "SCTV7",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20100921041308im_/http://kplus.vn/Data/ChannelImages/sctv7.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sctv7",
+                    "name": "sctv7",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/q5bcl223qohrz0mzkscs8/sctv7.mp4?rlkey=cka4xych69vyuwzk1ny8g3y6r&st=pzbx3nlw&dl=0",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
   }
       ],
       "display": "slider",
