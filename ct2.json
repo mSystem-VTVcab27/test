@@ -601,15 +601,15 @@
     "sources": [
       {
         "id": "sctv",
-        "name": "SCTV",
+        "name": "",
         "contents": [
           {
             "id": "sctv",
-            "name": "SCTV",
+            "name": "",
             "streams": [
               {
                 "id": "sctv",
-                "name": "SCTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -656,15 +656,15 @@
     "sources": [
       {
         "id": "sctv1",
-        "name": "SCTV1",
+        "name": "",
         "contents": [
           {
             "id": "sctv1",
-            "name": "SCTV1",
+            "name": "",
             "streams": [
               {
                 "id": "sctv1",
-                "name": "SCTV1",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -711,15 +711,15 @@
     "sources": [
       {
         "id": "sctv7",
-        "name": "SCTV7",
+        "name": "",
         "contents": [
           {
             "id": "sctv7",
-            "name": "SCTV7",
+            "name": "",
             "streams": [
               {
                 "id": "sctv7",
-                "name": "SCTV7",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
