@@ -2279,41 +2279,7 @@
     },
     "type": "single",
     "display": "text-below",
-    "enable_detail": false,
     "sources": [
-      {
-        "id": "vinhlong2",
-        "name": "",
-        "contents": [
-          {
-            "id": "vinhlong2",
-            "name": "",
-            "streams": [
-              {
-                "id": "vinhlong2",
-                "name": "Báo và Phát thanh, Truyền hình Vĩnh Long",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/76.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "vinhlong2-hd",
-                    "name": "Vĩnh Long 2 HD",
-                    "url": "https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      },
       {
         "id": "vinhlong2",
         "name": "",
@@ -2577,7 +2543,7 @@
 
 {
     "id": "HaNoi2",
-    "name": "HÀNỘI 2",
+    "name": "HÀNỘI 2 HD",
     "image": {
       "display": "cover",
       "shape": "square",
