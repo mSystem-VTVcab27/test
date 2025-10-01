@@ -1,13 +1,13 @@
 {
   "id": "msystem1",
-  "name": "HD2",
+  "name": "VTV DTH-HD2",
   "color": "#FF9E2D",
   "org_metadata": {
     "image": "",
     "title": "HD2",
     "description": "DTH - Mở rộng tầm nhìn người Việt"
   },
-  "description": "DTH - Mở rộng tầm nhìn người Việt",
+  "description": "",
   "url": "https://btv-htv1.netlify.app/msystem.json",
   "image": {
     "display": "contain",
@@ -5481,7 +5481,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg",
+      "url": "https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_480_270.png",
       "height": 101,
       "width": 155
     },
@@ -5502,7 +5502,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/BOXMOVIE1.jpg",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151526106/ab9f4531a232_480_270.png",
                   "height": 101,
                   "width": 155
                 },
@@ -5535,7 +5535,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg",
+      "url": "https://img.vtvprime.vn/Igdn6E-uPD_eoRL7BWsPqekyDy39c51dXu6HM-6Awds/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGJjYjU3ZDEtMTQ5ZC00ZDhjLWEyOTYtYmE4Y2MzZWJjZTcyLnBuZw==.png",
       "height": 101,
       "width": 155
     },
@@ -5556,7 +5556,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/HollywoodClassic.jpg",
+                  "url": "https://img.vtvprime.vn/Igdn6E-uPD_eoRL7BWsPqekyDy39c51dXu6HM-6Awds/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGJjYjU3ZDEtMTQ5ZC00ZDhjLWEyOTYtYmE4Y2MzZWJjZTcyLnBuZw==.png",
                   "height": 101,
                   "width": 155
                 },
@@ -5589,7 +5589,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg",
+      "url": "https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",
       "height": 101,
       "width": 155
     },
@@ -5610,7 +5610,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/INTHEBOX.jpg",
+                  "url": "https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",
                   "height": 101,
                   "width": 155
                 },
@@ -5643,7 +5643,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg",
+      "url": "https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",
       "height": 101,
       "width": 155
     },
@@ -5664,7 +5664,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BOXHITS.jpg",
+                  "url": "https://img-zlr1.tv360.vn/image1/2021/08/03/16/1627983804741/9828b27e4fe4_480_270.png",
                   "height": 101,
                   "width": 155
                 },
