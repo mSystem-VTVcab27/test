@@ -1809,7 +1809,7 @@
                   {
                     "id": "vtvcab1-hd",
                     "name": "ON Vie GIẢITRÍ HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
