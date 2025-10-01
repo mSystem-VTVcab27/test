@@ -7,7 +7,7 @@
     "title": "HD2",
     "description": "DTH - Mở rộng tầm nhìn người Việt"
   },
-  "description": "Mở rộng tầm nhìn người Việt",
+  "description": "DTH - Mở rộng tầm nhìn người Việt",
   "url": "https://btv-htv1.netlify.app/msystem.json",
   "image": {
     "display": "contain",
@@ -1179,7 +1179,7 @@
 
   {
     "id": "BinhDuong1",
-    "name": "BTV1 - Trung tâm HTV Bình Dương",
+    "name": "BTV1 - HTV Bình Dương",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1233,7 +1233,7 @@
   },
   {
     "id": "BinhDuong2",
-    "name": "BTV2 - Trung tâm HTV Bình Dương",
+    "name": "BTV2 - HTV Bình Dương",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1287,7 +1287,7 @@
   },
   {
     "id": "BinhDuong9",
-    "name": "BTV9 - Trung tâm HTV Bình Dương",
+    "name": "BTV9 - HTV Bình Dương",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1320,7 +1320,7 @@
                   {
                     "id": "binhduong9-hd",
                     "name": "Bình Dương 9-Bchannel HD",
-                    "url": "https://btv11011220.cdn.vnns.io/2e6c1c4ea87d26880f0b4360d436d0c41759200994/btv9.720p.tms/chunks.m3u8",
+                    "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1341,7 +1341,7 @@
   },
 {
     "id": "BaRiaVungTau",
-    "name": "BRT - Trung tâm HTV Bà Rịa - Vũng Tàu",
+    "name": "BRT - HTV Bà Rịa - Vũng Tàu",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1393,7 +1393,60 @@
       "url": ""
     }
   },
-
+{
+    "id": "HTVCThuanViet",
+    "name": "HTVC Thuần Việt",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/39.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "htvcthuanviet",
+        "name": "",
+        "contents": [
+          {
+            "id": "htvcthuanviet",
+            "name": "",
+            "streams": [
+              {
+                "id": "htvcthuanviet",
+                "name": "HTVC Thuần Việt",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/39.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "htvcthuanviet-hd",
+                    "name": "HTVC Thuần Việt HD",
+                    "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
   {
     "id": "HTVCGiaDinh",
     "name": "HTVC Gia Đình",
@@ -1557,60 +1610,7 @@
       "url": ""
     }
   },
-  {
-    "id": "HTVCThuanViet",
-    "name": "HTVC Thuần Việt",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/39.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "htvcthuanviet",
-        "name": "",
-        "contents": [
-          {
-            "id": "htvcthuanviet",
-            "name": "",
-            "streams": [
-              {
-                "id": "htvcthuanviet",
-                "name": "HTVC Thuần Việt",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vnepg.site/logos/39.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "htvcthuanviet-hd",
-                    "name": "HTVC Thuần Việt HD",
-                    "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
+  
   {
     "id": "HTVCPhim",
     "name": "HTVC Phim",
@@ -6190,8 +6190,13 @@
     }
   ],
   "search": {
-    "enable": true,
-    "placeholder": "Search channel..."
+    "paging": {
+      "page_key": "page",
+      "size_key": "limit"
+    },
+    "search_key": "textSearch",
+    "url": "https://vtvgo.4share.me/search",
+    "suggest_url": "https://vtvgo.4share.me/search/suggest"
   },
   "auto_update": {
     "enabled": true,
