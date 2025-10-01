@@ -1,13 +1,13 @@
 {
-  "id": "msystem1",
-  "name": "Chương trình 2",
+  "id": "ct2",
+  "name": "CT2",
   "color": "#0864af",
   "org_metadata": {
     "image": "https://lh3.googleusercontent.com/pw/AP1GczN3kSDGpQCFW3PYkCi38b98iYCRXj7aRqASzwgmkG3Dd6XrDRkgK-CWjD8FxDYCuv2n3LWFjala3QLVBDzJ5pnn9NJ6c9wQxOacnICUja8ad17-XjdQmuEN8cBTyr2Gbq0OWoBje3Z8BzeA8y16g5iSTg=w1184-h864-s-no?authuser=0",
     "title": "HD2",
-    "description": "DTH - Mở rộng tầm nhìn người Việt"
+    "description": "TP 11549 28500 H 5/6"
   },
-  "description": "DTH - Mở rộng tầm nhìn người Việt",
+  "description": "TP 11549 28500 H 5/6",
   "url": "https://btv-htv1.netlify.app/msystem.json",
   "image": {
     "display": "contain",
@@ -2160,7 +2160,7 @@
 
 {
     "id": "SCTV4k",
-    "name": "SCTV 4K",
+    "name": "SCTV4K",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2279,6 +2279,7 @@
     },
     "type": "single",
     "display": "text-below",
+    "enable_detail": true,
     "sources": [
       {
         "id": "vinhlong2",
