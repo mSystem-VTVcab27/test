@@ -18,50 +18,47 @@
   },
   "grid_number": 1,
   "groups": [
-      
-    
-    
-    
-    {
-      "id": "ca-nhan",
-      "name": "Nổi Bật",
+      {
+      "id": "trailer",
+      "name": "Mở rộng tầm nhìn người Việt",
       "channels": [
         {
-          "id": "HTV9_HD",
-          "name": "HTV9 HD",
+          "id": "vctv3",
+          "name": "VCTV3",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "http://iptv.nhadai.org/img/htv9-hd.png",
-            "height": 101,
-            "width": 155
+            "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
+            "type": "cover",
+            "width": 100,
+            "height": 100
           },
           "type": "single",
           "display": "text-below",
           "sources": [
             {
-              "id": "htv9-hd",
+              "id": "vctv3",
               "name": "",
               "contents": [
                 {
-                  "id": "htv9-hd",
+                  "id": "vctv3",
                   "name": "",
                   "streams": [
                     {
-                      "id": "htv9-hd",
-                      "name": "HTV9 HD",
+                      "id": "vctv3",
+                      "name": "VCTV3",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "http://iptv.nhadai.org/img/htv9-hd.png",
+                        "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "id": "htv9-hd",
-                          "name": "HTV9 HD",
-                          "url": "https://dl.dropboxusercontent.com/scl/fi/yvvlntkqerm1xvlhbfadc/Xem-Phim-Doraemon-Movie-44-Nobita-V-Cu-c-Phi-u-L-u-V-o-Th-Gi-i-Trong-Tranh-Doraemon-the-Movie-Nobitas-Art-World-Tales-Vietsub-RoPhim.mp4?rlkey=z2dujfvestltu7lpcaz2x1fnw&e=1&st=1drx6hkz&dl=0",
+                          "id": "vctv3",
+                          "name": "vctv3",
+                          "url": "https://dl.dropboxusercontent.com/scl/fi/u62dvk6a0wzvfiu90qp5t/vctv3.flv?rlkey=mw7slsgnmfm183c2166s2n16k&st=qpdqbuq1&dl=0",
                           "type": "hls",
                           "default": true
                         }
@@ -74,21 +71,20 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=htv9-hd"
+            "url": ""
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=htv9-hd"
+            "url": ""
           }
         }
       ],
       "display": "slider",
-      "grid_columns": null,
-      "remote_data": {
-        "enable": false,
-        "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
-      },
       "enable_detail": false
     },
+    
+    
+    
+    
     
     
     
