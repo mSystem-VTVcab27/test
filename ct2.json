@@ -575,8 +575,16 @@
     "related": {
       "url": ""
     }
-  },
-
+  }
+      ],
+      "display": "horizontal",
+      "grid_columns": null
+},
+    
+{
+      "id": "trailer2",
+      "name": "",
+      "channels": [
   {
     "id": "sctv",
     "name": "",
