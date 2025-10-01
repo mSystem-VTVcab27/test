@@ -282,7 +282,62 @@
                   {
                     "id": "vctv6",
                     "name": "vctv6",
-                    "url": "https://example.com/vctv6.mp4",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/58423bmgkphyoh08mgmbe/vctv6.mp4?rlkey=k16wvi0wlxy9ctlhwzsa6b6sg&st=7jqgsn5q&dl=0",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "vctv7",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20101124130249im_/http://kplus.vn/Data/ChannelImages/vctv7.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "vctv7",
+        "name": "",
+        "contents": [
+          {
+            "id": "vctv7",
+            "name": "",
+            "streams": [
+              {
+                "id": "vctv7",
+                "name": "VCTV7",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20101124130249im_/http://kplus.vn/Data/ChannelImages/vctv7.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "vctv7",
+                    "name": "vctv7",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/mcdolfuzoq6wpq4kazaid/vctv7.mp4?rlkey=xmelpk8voxoqdjtswz75jdtsy&st=pkdwvy2b&dl=0",
                     "type": "hls",
                     "default": true
                   }
@@ -337,7 +392,7 @@
                   {
                     "id": "vctv8",
                     "name": "vctv8",
-                    "url": "https://example.com/vctv8.mp4",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/nf903qyijv0xjnj14afek/vctv8.mp4?rlkey=ob3ticzghtn1ar6ujkdtkbedv&st=1vvl8uwm&dl=0",
                     "type": "hls",
                     "default": true
                   }
@@ -392,7 +447,7 @@
                   {
                     "id": "vctv9",
                     "name": "vctv9",
-                    "url": "https://example.com/vctv9.mp4",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/3b28mkaxoantht853z0wi/vctv9.mp4?rlkey=53r33z70yvykel88e6otk6633&st=af325ypx&dl=0",
                     "type": "hls",
                     "default": true
                   }
@@ -447,7 +502,7 @@
                   {
                     "id": "vctv10",
                     "name": "vctv10",
-                    "url": "https://example.com/vctv10.mp4",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/jp0ll1fzce7u9883hheok/vctv10.mp4?rlkey=t8rbmxy2susfalp6eifal9ati&st=3nd9h3a7&dl=0",
                     "type": "hls",
                     "default": true
                   }
@@ -502,7 +557,7 @@
                   {
                     "id": "vctv16",
                     "name": "vctv16",
-                    "url": "https://example.com/vctv16.mp4",
+                    "url": "https://dl.dropboxusercontent.com/scl/fi/h9iozc5yhynxzrz5o5rcu/vctv16.mp4?rlkey=472y2v2ybjpt2w2yi4bwfo2dh&st=rkt6ir2k&dl=0",
                     "type": "hls",
                     "default": true
                   }
