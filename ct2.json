@@ -244,62 +244,6 @@
           "related": {
             "url": ""
           }
-        },
-
-                {
-          "id": "vctv2",
-          "name": "VCTV2",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://web.archive.org/web/20100921073655im_/http://kplus.vn/Data/ChannelImages/vctv2.jpg",
-            "type": "cover",
-            "width": 100,
-            "height": 100
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "vctv2",
-              "name": "",
-              "contents": [
-                {
-                  "id": "vctv2",
-                  "name": "",
-                  "streams": [
-                    {
-                      "id": "vctv2",
-                      "name": "VCTV2",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://web.archive.org/web/20100921073655im_/http://kplus.vn/Data/ChannelImages/vctv2.jpg",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "vctv2",
-                          "name": "vctv2",
-                          "url": "https://dl.dropboxusercontent.com/scl/fi/528euk2vdw2g8ggv41hjx/vctv1.mp4?rlkey=xs47nyl8z9p5qfqu3pt3pg0i1&st=w21qc8pi&dl=0",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": ""
-          },
-          "related": {
-            "url": ""
-          }
         }
       ],
       "display": "slider",
