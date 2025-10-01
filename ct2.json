@@ -78,7 +78,6 @@
         }
       ],
       "display": "slider",
-      "grid_columns": null,
       "enable_detail": false
     },
     
