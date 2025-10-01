@@ -40,7 +40,7 @@
               "name": "",
               "contents": [
                 {
-                  "id": "htv9-hd",
+                  "id": "vctv3",
                   "name": "",
                   "streams": [
                     {
@@ -55,9 +55,9 @@
                       },
                       "stream_links": [
                         {
-                          "id": "htv9-hd",
-                          "name": "HTV9 HD",
-                          "url": "https://web.archive.org/web/20120313150813im_/http://kplus.vn/Data/ChannelImages/vctv3_new(0).JPG",
+                          "id": "vctv3",
+                          "name": "vctv3",
+                          "url": "",
                           "type": "hls",
                           "default": true
                         }
@@ -70,19 +70,15 @@
             }
           ],
           "share": {
-            "url": "http://iptv.nhadai.org/share?q=htv9-hd"
+            "url": ""
           },
           "related": {
-            "url": "http://iptv.nhadai.org/related?q=htv9-hd"
+            "url": ""
           }
         }
       ],
       "display": "slider",
       "grid_columns": null,
-      "remote_data": {
-        "enable": false,
-        "url": "http://iptv.nhadai.org/group?s=CA_NHAN"
-      },
       "enable_detail": false
     },
     
