@@ -24,7 +24,7 @@
       "channels": [
 {
     "id": "kplus1",
-    "name": "K+1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -38,15 +38,15 @@
     "sources": [
       {
         "id": "kplus1",
-        "name": "K+1",
+        "name": "",
         "contents": [
           {
             "id": "kplus1",
-            "name": "K+1",
+            "name": "",
             "streams": [
               {
                 "id": "kplus1",
-                "name": "K+1",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -822,15 +822,15 @@
     "sources": [
       {
         "id": "htv",
-        "name": "HTV",
+        "name": "",
         "contents": [
           {
             "id": "htv",
-            "name": "HTV",
+            "name": "",
             "streams": [
               {
                 "id": "htv",
-                "name": "HTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -877,15 +877,15 @@
     "sources": [
       {
         "id": "astro",
-        "name": "Astro",
+        "name": "",
         "contents": [
           {
             "id": "astro",
-            "name": "Astro",
+            "name": "",
             "streams": [
               {
                 "id": "astro",
-                "name": "Astro",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -932,15 +932,15 @@
     "sources": [
       {
         "id": "mgm",
-        "name": "MGM",
+        "name": "",
         "contents": [
           {
             "id": "mgm",
-            "name": "MGM",
+            "name": "",
             "streams": [
               {
                 "id": "mgm",
-                "name": "MGM",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -987,15 +987,15 @@
     "sources": [
       {
         "id": "hbo",
-        "name": "HBO",
+        "name": "",
         "contents": [
           {
             "id": "hbo",
-            "name": "HBO",
+            "name": "",
             "streams": [
               {
                 "id": "hbo",
-                "name": "HBO",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -1028,7 +1028,7 @@
   },
   {
     "id": "star",
-    "name": "Star",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1042,15 +1042,15 @@
     "sources": [
       {
         "id": "star",
-        "name": "Star",
+        "name": "",
         "contents": [
           {
             "id": "star",
-            "name": "Star",
+            "name": "",
             "streams": [
               {
                 "id": "star",
-                "name": "Star",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -1083,7 +1083,7 @@
   },
   {
     "id": "cm",
-    "name": "CM",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1097,15 +1097,15 @@
     "sources": [
       {
         "id": "cm",
-        "name": "CM",
+        "name": "",
         "contents": [
           {
             "id": "cm",
-            "name": "CM",
+            "name": "",
             "streams": [
               {
                 "id": "cm",
-                "name": "CM",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
