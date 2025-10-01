@@ -18,67 +18,6 @@
   },
   "grid_number": 1,
   "groups": [
-
-
-{
-      "id": "1",
-      "name": "Mở rộng tầm nhìn người Việt",
-      "channels": [
-        {
-          "id": "vctv3",
-          "name": "",
-          "image": {
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "id": "vctv3",
-              "name": "",
-              "contents": [
-                {
-                  "id": "vctv3",
-                  "name": "",
-                  "streams": [
-                    {
-                      "id": "vctv3",
-                      "name": "",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "id": "vctv3",
-                          "name": "vctv3",
-                          "url": "",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "share": {
-            "url": ""
-          },
-          "related": {
-            "url": ""
-          }
-        }
-      ],
-      "display": "slider",
-      "enable_detail": false
-    },
-
-
 {
       "id": "trailer",
       "name": "Mở rộng tầm nhìn người Việt",
