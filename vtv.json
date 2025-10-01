@@ -2605,6 +2605,7 @@
                   "height": 101,
                   "width": 155
                 },
+
                 "stream_links": [
                   {
                     "id": "hanoi2-hd",
@@ -2629,7 +2630,7 @@
                 },
                 "stream_links": [
                   {
-                    "id": "hanoi2-4khd",
+                    "id": "hanoi24khd",
                     "name": "HÀNỘI 2 4K-HD",
                     "url": "https://live.fptplay53.net/fnxch2/hntv2_abr.smil/chunklist_b6000000.m3u8",
                     "type": "hls",
