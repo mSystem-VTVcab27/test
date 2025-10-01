@@ -522,8 +522,8 @@
     }
   }
       ],
-      "display": "vertical",
-      "grid_columns": 3
+      "display": "slider",
+      "grid_columns": null
     },
     
     
