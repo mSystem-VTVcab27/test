@@ -17,8 +17,27 @@
     "width": 155
   },
   "grid_number": 1,
-  "groups": [
-
+    "sorts": [
+    {
+      "id": "truyen-hinh",
+      "text": "Truyền Hình",
+      "type": "radio",
+      "url": "https://dth-ct2.netlify.app/livetv.json"
+    },
+    {
+      "id": "kenh-video",
+      "text": "Kênh Video",
+      "type": "radio",
+      "url": "https://vtvgo.4share.me/display-block/34b8e96c-54c4-4c29-a6fd-65f9c7eb6960"
+    }
+  ],
+"groups": [
+      {
+      "id": "truyen-hinh",
+      "text": "Truyền Hình",
+      "type": "radio",
+      "url": "https://dth-ct2.netlify.app/livetv.json"
+    },
     {
       "id": "trailer1",
       "name": "",
@@ -585,12 +604,7 @@
       "display": "horizontal",
       "grid_columns": null
     },
-          {
-      "id": "truyen-hinh",
-      "text": "Truyền Hình",
-      "type": "radio",
-      "url": "https://dth-ct2.netlify.app/livetv.json"
-    },
+    
     {
       "id": "vtvdth2",
       "name": "Tất cả các kênh",
