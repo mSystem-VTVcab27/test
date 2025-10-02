@@ -32,6 +32,12 @@
     }
   ],
 "groups": [
+      {
+      "id": "truyen-hinh",
+      "text": "Truyền Hình",
+      "type": "radio",
+      "url": "https://dth-ct2.netlify.app/livetv.json"
+    },
     {
       "id": "trailer1",
       "name": "",
