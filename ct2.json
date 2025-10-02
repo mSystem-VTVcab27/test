@@ -602,6 +602,21 @@
       "id": "vtvdth2",
       "name": "Tất cả các kênh",
       "channels": [
+         {
+          "id": "vebotv",
+          "name": "VeboTV",
+          "display": "text-below",
+          "image": {
+            "url": "https://vebo.thethaoiptv.com/vebo-icon.png",
+            "display": "cover",
+            "width": 100,
+            "height": 100
+          },
+          "remote_data": {
+            "url": "monplayer://monplayer.org?link=https%3A%2F%2Fvbtv.pro&type=provider",
+            "external": true
+          }
+        },
         {
           "id": "VTV1",
           "name": "VTV1",
