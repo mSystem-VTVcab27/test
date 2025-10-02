@@ -22,7 +22,7 @@
       "id": "truyen-hinh",
       "text": "Truyền Hình",
       "type": "radio",
-      "url": "https://vtvgo.4share.me/livetv"
+      "url": "https://dth-ct2.netlify.app/livetv.json"
     },
     {
       "id": "kenh-video",
