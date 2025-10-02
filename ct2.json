@@ -932,13 +932,13 @@
           }
         }
       ],
-      "display": "vertical",
-      "grid_columns": 5,
+      "display": "slider",
+      "grid_columns": null,
       "remote_data": {
-        "enable": true,
-        "url": ""
+        "enable": false,
+        "url": "https://dth-ct2.netlify.app/livetv.json"
       },
-      "enable_detail": true
+      "enable_detail": false
     }
   ],
   "search": {
