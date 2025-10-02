@@ -22,10 +22,10 @@
       "id": "truyen-hinh",
       "text": "Chương trình 1 (container soon)",
       "type": "radio",
-      "url": "https://jqk.netlify.app/livetv.json"
+      "url": "https://jqk.netlify.app/livetv2.json"
     },
     {
-      "id": "kenh-video",
+      "id": "truyen-hinh2",
       "text": "Chương trình 2",
       "type": "radio",
       "url": "https://jqk.netlify.app/livetv.json"
@@ -1492,6 +1492,9 @@
       "enable_detail": false
     }
   ],
+      "remote_data": {
+        "url": "https://jqk.netlify.app/livetv.json"
+      },
   "search": {
     "paging": {
       "page_key": "page",
@@ -1501,6 +1504,7 @@
     "url": "https://vtvgo.4share.me/search",
     "suggest_url": "https://vtvgo.4share.me/search/suggest"
   },
+  
   "auto_update": {
     "enabled": true,
     "interval_hours": 24,
