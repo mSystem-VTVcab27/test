@@ -36,14 +36,7 @@
       "id": "trailer1",
       "name": "",
       "channels": [
-
-      {
-      "id": "truyen-hinh",
-      "text": "Truyền Hình",
-      "type": "radio",
-      "url": "https://dth-ct2.netlify.app/livetv.json"
-    },
-    {
+{
     "id": "kplus1",
     "name": "",
     "image": {
@@ -605,7 +598,12 @@
       "display": "horizontal",
       "grid_columns": null
     },
-    
+    {
+      "id": "truyen-hinh",
+      "text": "Truyền Hình",
+      "type": "radio",
+      "url": "https://dth-ct2.netlify.app/livetv.json"
+    },
     {
       "id": "vtvdth2",
       "name": "Tất cả các kênh",
