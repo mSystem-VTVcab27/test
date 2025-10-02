@@ -822,7 +822,7 @@
           }
         }
       ],
-      "display": "slider",
+      "display": "horizontal",
       "grid_columns": null,
       "remote_data": {
         "enable": false,
