@@ -36,7 +36,21 @@
       "id": "trailer1",
       "name": "",
       "channels": [
-    {
+{
+    "id": "kplus1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://web.archive.org/web/20100921044849im_/http://kplus.vn/Data/ChannelImages/k+1.jpg",
+      "type": "cover",
+      "width": 100,
+      "height": 100
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
         "id": "kplus1",
         "name": "",
         "contents": [
@@ -58,7 +72,7 @@
                   {
                     "id": "kplus1",
                     "name": "kplus1",
-                    "url": "https://dl.dropboxusercontent.com/scl/fi/vfk1ljrz8vd13cj3qwaf1/k.mp4?rlkey=fvhi7xnr4vu7xktx52yzq8qk8&st=6cxjpomz&dl=0",
+                    "url": "https://example.com/streams/kplus1.mp4",
                     "type": "hls",
                     "default": true
                   }
@@ -580,7 +594,6 @@
       "display": "horizontal",
       "grid_columns": null
 },
-
     
 {
       "id": "trailer2",
