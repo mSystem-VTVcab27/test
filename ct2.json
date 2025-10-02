@@ -20,15 +20,15 @@
     "sorts": [
     {
       "id": "truyen-hinh",
-      "text": "Truyền Hình",
+      "text": "Chương trình 1 (container soon)",
       "type": "radio",
       "url": "https://dth-ct2.netlify.app/livetv.json"
     },
     {
       "id": "kenh-video",
-      "text": "Kênh Video",
+      "text": "Chương trình 2",
       "type": "radio",
-      "url": "https://vtvgo.4share.me/display-block/34b8e96c-54c4-4c29-a6fd-65f9c7eb6960"
+      "url": "https://dth-ct2.netlify.app/livetv.json"
     }
   ],
 "groups": [
