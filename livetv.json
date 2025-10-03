@@ -487,12 +487,13 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
+"url": "https://vnepg.site/logos/8.png",
 "height": 101,
 "width": 155
 },
 "type": "single",
 "display": "text-below",
+"enable_detail": true,
 "sources": [
 {
 "id": "vtvcantho",
@@ -504,7 +505,7 @@
 "streams": [
 {
 "id": "vtvcantho",
-"name": "VTV Cần Thơ",
+"name": "VCTV",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -517,6 +518,27 @@
 "id": "vtvcantho-hd",
 "name": "VTV Cần Thơ HD",
 "url": "https://liveh12.seenow.vn/hls/VTVCANTHO_HD/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "8",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "vtvcantho-hd",
+"name": "VTV Cần Thơ HD",
+"url": "https://liveh12.seenow.vn/hls/VTVCANTHO_HD/01.m3u8",
 "type": "hls",
 "default": true
 }
@@ -697,6 +719,85 @@
 "url": ""
 }
 },
+
+{
+"id": "vtvcantho",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/8.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"enable_detail": true,
+"sources": [
+{
+"id": "vtvcantho",
+"name": "",
+"contents": [
+{
+"id": "vtvcantho",
+"name": "",
+"streams": [
+{
+"id": "vtvcantho",
+"name": "VCTV",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "vtvcantho-hd",
+"name": "VTV Cần Thơ HD",
+"url": "https://liveh12.seenow.vn/hls/VTVCANTHO_HD/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "8",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/vtv-can-tho1.jpg",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "vtvcantho-hd",
+"name": "VTV Cần Thơ HD",
+"url": "https://liveh12.seenow.vn/hls/VTVCANTHO_HD/01.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+
 {
 "id": "hanoi1",
 "name": "",
