@@ -904,7 +904,7 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczOHmUoyyxoWxA2HwT0Zr4wFdn9f4eSy0eXaooAFOOPefejqOCHJiPz26pf5_EM_42hkc2OcC0CmDAltqMF24v00wVOZzcX3cFu2RLUJtkVUT4LUAKYqNCVxh6q7ot6zjlNdyfyAe-MNmZdzg0RV4PkJkg=w1683-h946-s-no?authuser=0",
 "height": 101,
 "width": 155
 },
@@ -981,7 +981,7 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://vnepg.site/logos/46.png",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczNd27GYm5oowYG_zwNvBEFMaHk2PHXl9aI3B7xA_WA9jQwLwkW5Vb-b1St3wBjFrU0DqCbW3Fkk4N_TaEJRuwiKXfZD2Tio_AgMTYaKLAAviT3AasK1e21OaQEKymu784NJLpxF8XQe5iOSYYr2n0X_Mw=w1683-h946-s-no?authuser=0",
 "height": 101,
 "width": 155
 },
@@ -1020,7 +1020,7 @@
 },
 {
 "id": "12",
-"name": "SCTV1",
+"name": "SD",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -1032,7 +1032,7 @@
 {
 "id": "sctv1-hd",
 "name": "SCTV1 HD",
-"url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTV1/01.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1080,7 +1080,7 @@
 "image": {
 "display": "contain",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-today-tv_w150_h150.png",
+"url": "https://web.archive.org/web/20150315121553/http://tv24.vn/WebMedia/Channels/2/sctv2.png",
 "height": 101,
 "width": 155
 },
@@ -1101,7 +1101,7 @@
 "image": {
 "display": "contain",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-today-tv_w150_h150.png",
+"url": "https://web.archive.org/web/20150315121553/http://tv24.vn/WebMedia/Channels/2/sctv2.png",
 "height": 101,
 "width": 155
 },
@@ -1109,7 +1109,7 @@
 {
 "id": "sctv2-hd",
 "name": "SCTV2",
-"url": "https://liveh12.seenow.vn/hls/SCTV2/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTV2/01.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1135,7 +1135,7 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121214014251im_/http://tv24.vn/WebMedia/Channels/10/bsctv3.png",
+"url": "https://vnepg.site/logos/48.png",
 "height": 101,
 "width": 155
 },
@@ -1183,13 +1183,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv4",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121214014235im_/http://tv24.vn/WebMedia/Channels/9/sctv4.png",
+"url": "https://vnepg.site/logos/49.png",
 "height": 101,
 "width": 155
 },
@@ -1237,13 +1238,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv6",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121214014240im_/http://tv24.vn/WebMedia/Channels/12/sctv6.png",
+"url": "https://vnepg.site/logos/50.png",
 "height": 101,
 "width": 155
 },
@@ -1291,13 +1293,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv7",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-sctv7_w150_h150.png",
+"url": "https://vnepg.site/logos/51.png",
 "height": 101,
 "width": 155
 },
@@ -1345,13 +1348,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv8",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121214020716im_/http://tv24.vn/WebMedia/Channels/14/sctv8.png",
+"url": "https://vnepg.site/logos/52.png",
 "height": 101,
 "width": 155
 },
@@ -1399,13 +1403,69 @@
 "url": ""
 }
 },
+
+{
+"id": "sctv9",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczPtiKQ0fXRVFxhj6YGU6CnH_DqbhtmG-Wqi5GtE6dn2PV0nPROYi_LuWpJ-Ro75NWel4uj1-4rKZM9NM30YQsae0HLewpWRCa7gCZ_bHTxm_uMJD4hxHGZrOQTRrsFgbMLVRokcesQc3okzvESdMsCnjA=w1683-h946-s-no?authuser=0",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "sctv9",
+"name": "",
+"contents": [
+{
+"id": "sctv9",
+"name": "",
+"streams": [
+{
+"id": "sctv9",
+"name": "SCTV9",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20121214020716im_/http://tv24.vn/WebMedia/Channels/14/sctv8.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctv9-hd",
+"name": "SCTV9 HD",
+"url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
 {
 "id": "sctv11",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121122050643im_/http://tv24.vn/WebMedia/Channels/16/sctv11.png",
+"url": "https://vnepg.site/logos/54.png",
 "height": 101,
 "width": 155
 },
@@ -1453,13 +1513,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv12",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121122050643im_/http://tv24.vn/WebMedia/Channels/17/sctv12.png",
+"url": "https://vnepg.site/logos/55.png",
 "height": 101,
 "width": 155
 },
@@ -1507,13 +1568,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv13",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121122050643im_/http://tv24.vn/WebMedia/Channels/18/sctv13.png",
+"url": "https://vnepg.site/logos/56.png",
 "height": 101,
 "width": 155
 },
@@ -1561,13 +1623,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv14",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20121122050643im_/http://tv24.vn/WebMedia/Channels/19/sctv14.png",
+"url": "https://vnepg.site/logos/57.png",
 "height": 101,
 "width": 155
 },
@@ -1615,13 +1678,14 @@
 "url": ""
 }
 },
+
 {
 "id": "sctv18",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://static.wikia.nocookie.net/logos/images/e/eb/SCTV18_logo_2011.png/revision/latest/scale-to-width-down/1000?cb=20240915233749&path-prefix=vi",
+"url": "https://vnepg.site/logos/61.png",
 "height": 101,
 "width": 155
 },
@@ -1669,6 +1733,62 @@
 "url": ""
 }
 },
+
+{
+"id": "sctv19",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/62.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "sctv19",
+"name": "",
+"contents": [
+{
+"id": "sctv19",
+"name": "",
+"streams": [
+{
+"id": "sctv19",
+"name": "SCTV19",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20121214020716im_/http://tv24.vn/WebMedia/Channels/14/sctv8.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctv19-hd",
+"name": "SCTV19 HD",
+"url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv19",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
 {
 "id": "htv7",
 "name": "",
