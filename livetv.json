@@ -1,8 +1,8 @@
 {
   "groups": [
     {
-      "id": "vtv",
-      "name": "Kênh VTV",
+      "id": "tat_ca_1",
+      "name": "Chương trình 1",
       "display": "vertical",
       "grid_number": null,
       "channels": [
@@ -879,6 +879,277 @@
 "id": "hanoi2-hd",
 "name": "HÀNỘI 2 HD",
 "url": "https://liveh34.seenow.vn/hls/HANOI2TV/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+"id": "ONEchannel",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/16.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "onechannel",
+"name": "",
+"contents": [
+{
+"id": "onechannel",
+"name": "",
+"streams": [
+{
+"id": "onechannel",
+"name": "ON Echannel",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vnepg.site/logos/16.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "onechannel-hd",
+"name": "ON Echannel HD",
+"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/182/index.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+{
+"id": "ONO2TV",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/18.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "ono2tv",
+"name": "",
+"contents": [
+{
+"id": "ono2tv",
+"name": "",
+"streams": [
+{
+"id": "ono2tv",
+"name": "ON O2TV",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vnepg.site/logos/18.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "ono2tv-hd",
+"name": "ON O2TV HD",
+"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+{
+"id": "ONBibi",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/19.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "onbibi",
+"name": "",
+"contents": [
+{
+"id": "onbibi",
+"name": "",
+"streams": [
+{
+"id": "onbibi",
+"name": "ON Bibi",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vnepg.site/logos/19.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "onbibi-hd",
+"name": "ON Bibi HD",
+"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+{
+"id": "ONInfo",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/20.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "oninfo",
+"name": "",
+"contents": [
+{
+"id": "oninfo",
+"name": "",
+"streams": [
+{
+"id": "oninfo",
+"name": "ON Info",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vnepg.site/logos/20.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "oninfo-hd",
+"name": "ON Info HD",
+"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+{
+"id": "ONVfamily",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/28.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "onvfamily",
+"name": "",
+"contents": [
+{
+"id": "onvfamily",
+"name": "",
+"streams": [
+{
+"id": "onvfamily",
+"name": "ON Vfamily",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vnepg.site/logos/28.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "onvfamily-hd",
+"name": "ON Vfamily HD",
+"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8",
 "type": "hls",
 "default": true
 }
