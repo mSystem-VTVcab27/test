@@ -94,6 +94,7 @@
 },
 "type": "single",
 "display": "text-below",
+"enable_detail": true,
 "sources": [
 {
 "id": "vtv2",
