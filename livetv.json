@@ -2031,6 +2031,116 @@
 }
 },
 
+  {
+    "id": "BTV1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczO8sKV3cjeqRIHO-6otOUQ_qSwD1lklOBec_ra5Bb8DzwANn1q17FWC8uvIcUAQsyfECwlSk4ImQu1Xy6XOT3vsGg-ZNoPaT2chdaOuIx4gA6UGSQgSa-xR3il8WgCQ3Ucsnh_rya0BxCXMISbxJJJB0Q=w1681-h946-s-no?authuser=0",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "btv1",
+        "name": "BTV1",
+        "contents": [
+          {
+            "id": "btv1",
+            "name": "BTV1",
+            "streams": [
+              {
+                "id": "btv1",
+                "name": "BTV1",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img.vtvprime.vn/iHC5jn6Z23DfaNZQk62ag_6mU0Xehc5bbQG8gg4vaiw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYmU3M2UyMzctOTEyMy00MWQzLTk1ZTQtNmU5MDJiODk5ZGRjLnBuZw==.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "btv1-hd",
+                    "name": "BTV1 HD",
+                    "url": "https://liveh34.seenow.vn/hls/BINHDUONGTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "BRT",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/173.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "brt",
+        "name": "BRT",
+        "contents": [
+          {
+            "id": "brt",
+            "name": "BRT",
+            "streams": [
+              {
+                "id": "brt",
+                "name": "BRT",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250207/2025020715/_150x902_1675158885.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "brt-hd",
+                    "name": "BRT HD",
+                    "url": "https://liveh34.seenow.vn/hls/VUNGTAUTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
 {
 "id": "htvccanhac",
 "name": "",
@@ -2527,6 +2637,1161 @@
 },
 
   {
+    "id": "LTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/110.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ltv",
+        "name": "LTV",
+        "contents": [
+          {
+            "id": "ltv",
+            "name": "LTV",
+            "streams": [
+              {
+                "id": "ltv",
+                "name": "LTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/LaiChu_ON_150x901_1675158882.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ltv-hd",
+                    "name": "LTV HD",
+                    "url": "https://liveh34.seenow.vn/hls/LAICHAUTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "PTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=1LWy5KR6fzFQSl39isz8nKDCfFo8HZFam",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ptv",
+        "name": "PTV",
+        "contents": [
+          {
+            "id": "ptv",
+            "name": "PTV",
+            "streams": [
+              {
+                "id": "ptv",
+                "name": "PTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://lh3.googleusercontent.com/pw/AP1GczMY2cF7XlJQFdpwBgVL8EQWUg26tAfvundtJ6pynBcdgHt289F67k6kg7f-I5tDvz5foX9x9vdRsMSKDp5Hs06qfnU4PAYU6z6RAGTgUgpICax6JvTxlWULp-V9ZiQrN-yKn4KGE3ZWy2jat_RJZUEAMw=w1344-h768-s-no?authuser=0",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ptv-hd",
+                    "name": "PTV HD",
+                    "url": "https://liveh34.seenow.vn/hls/PHUTHOTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "BTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/82.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "btv",
+        "name": "BTV",
+        "contents": [
+          {
+            "id": "btv",
+            "name": "BTV",
+            "streams": [
+              {
+                "id": "btv",
+                "name": "BTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://static.wikia.nocookie.net/logos/images/1/16/BTV_Bac_Ninh_logo_04-07-2025.png/revision/latest/scale-to-width-down/200?cb=20250806111229&path-prefix=vi",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "btv-hd",
+                    "name": "BTV HD",
+                    "url": "https://liveh34.seenow.vn/hls/BACGIANGTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "HYTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/107.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "hytv",
+        "name": "HYTV",
+        "contents": [
+          {
+            "id": "hytv",
+            "name": "HYTV",
+            "streams": [
+              {
+                "id": "hytv",
+                "name": "HYTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/HngYnTVHD_150x902_1675158887.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "hytv-hd",
+                    "name": "HYTV HD",
+                    "url": "https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "NBTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/117.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "nbtv",
+        "name": "NBTV",
+        "contents": [
+          {
+            "id": "nbtv",
+            "name": "NBTV",
+            "streams": [
+              {
+                "id": "nbtv",
+                "name": "NBTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/NTVHD_150x903_1675158910.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "nbtv-hd",
+                    "name": "NBTV HD",
+                    "url": "https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "THP",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/103.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "thp",
+        "name": "THP",
+        "contents": [
+          {
+            "id": "thp",
+            "name": "THP",
+            "streams": [
+              {
+                "id": "thp",
+                "name": "THP",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://thhp.vn/themes/frontend/bhy/Assets/imgs/thp_icon.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "thp-hd",
+                    "name": "THP HD",
+                    "url": "https://liveh12.vtvprime.vn/hls/HAIPHONG/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "THP3",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/105.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "thp3",
+        "name": "THP3",
+        "contents": [
+          {
+            "id": "thp3",
+            "name": "THP3",
+            "streams": [
+              {
+                "id": "thp3",
+                "name": "THP3",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/EVSyTHUmZy-HAIDUONG-LOGO-KENHVTVgo-150x90.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "thp3-hd",
+                    "name": "THP3 HD",
+                    "url": "https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  
+  {
+    "id": "LSTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/114.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "lstv",
+        "name": "LSTV",
+        "contents": [
+          {
+            "id": "lstv",
+            "name": "LSTV",
+            "streams": [
+              {
+                "id": "lstv",
+                "name": "LSTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "lstv-hd",
+                    "name": "LSTV HD",
+                    "url": "https://liveh34.seenow.vn/hls/LANGSON/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "TNTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/126.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "tntv",
+        "name": "TNTV",
+        "contents": [
+          {
+            "id": "tntv",
+            "name": "TNTV",
+            "streams": [
+              {
+                "id": "tntv",
+                "name": "TNTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620250624135925",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "tntv-hd",
+                    "name": "TNTV HD",
+                    "url": "https://liveh34.seenow.vn/hls/THAINGUYENTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "QTV1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=1iDyRboMN1t42BEtgMk1BZ8Qyz_P21YKV",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "qtv1",
+        "name": "QTV1",
+        "contents": [
+          {
+            "id": "qtv1",
+            "name": "QTV1",
+            "streams": [
+              {
+                "id": "qtv1",
+                "name": "QTV1",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-qtv1_w150_h150.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "qtv1-hd",
+                    "name": "QTV1 HD",
+                    "url": "https://liveh12.seenow.vn/hls/QUANGNINHTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "QTV3",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=1eM1EqQ8qqRRkbOLXx1f157W5fBlR8_iS",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "qtv3",
+        "name": "QTV3",
+        "contents": [
+          {
+            "id": "qtv3",
+            "name": "QTV3",
+            "streams": [
+              {
+                "id": "qtv3",
+                "name": "QTV3",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2024/10/03/21/1727967101708/09889ad04773_480_270.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "qtv3-hd",
+                    "name": "QTV3 HD",
+                    "url": "https://liveh34.seenow.vn/hls/QUANGNINH3/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "TTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/127.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ttv",
+        "name": "TTV",
+        "contents": [
+          {
+            "id": "ttv",
+            "name": "TTV",
+            "streams": [
+              {
+                "id": "ttv",
+                "name": "TTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ttv-hd",
+                    "name": "TTV HD",
+                    "url": "https://liveh12.seenow.vn/hls/THANHHOATV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "NTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/116.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ntv",
+        "name": "NTV",
+        "contents": [
+          {
+            "id": "ntv",
+            "name": "NTV",
+            "streams": [
+              {
+                "id": "ntv",
+                "name": "NTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_480_270.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ntv-hd",
+                    "name": "NTV HD",
+                    "url": "https://liveh12.seenow.vn/hls/NGHEANTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "BHTTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/102.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "bhttv",
+        "name": "BHT TV",
+        "contents": [
+          {
+            "id": "bhttv",
+            "name": "BHT TV",
+            "streams": [
+              {
+                "id": "bhttv",
+                "name": "BHT TV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "bhttv-hd",
+                    "name": "BHT TV HD",
+                    "url": "https://liveh34.seenow.vn/hls/HATINH/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "HueTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/106.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "huetv",
+        "name": "HueTV",
+        "contents": [
+          {
+            "id": "huetv",
+            "name": "HueTV",
+            "streams": [
+              {
+                "id": "huetv",
+                "name": "HueTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_480_270.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "huetv-hd",
+                    "name": "HueTV HD",
+                    "url": "https://liveh12.vtvprime.vn/hls/HUE/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "DNRT1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/93.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "dnrt1",
+        "name": "DNRT1",
+        "contents": [
+          {
+            "id": "dnrt1",
+            "name": "DNRT1",
+            "streams": [
+              {
+                "id": "dnrt1",
+                "name": "DNRT1",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://s12812.cdn.mytvnet.vn/vimages/20/0f/f8/8e/e2/28/20f8e-pnng1-channel-unkn.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "dnrt1-hd",
+                    "name": "DNRT1 HD",
+                    "url": "https://liveh12.seenow.vn/hls/DANANGTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "KTV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/108.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ktv",
+        "name": "KTV",
+        "contents": [
+          {
+            "id": "ktv",
+            "name": "KTV",
+            "streams": [
+              {
+                "id": "ktv",
+                "name": "KTV",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/KTVHD_150x902_1675158888.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ktv-hd",
+                    "name": "KTV HD",
+                    "url": "https://liveh12.seenow.vn/hls/KHANHHOATV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "LTV2",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=1YnQl17eFD7FRPnPmemo4jlkxYj2WJrv0",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ltv2",
+        "name": "LTV2",
+        "contents": [
+          {
+            "id": "ltv2",
+            "name": "LTV2",
+            "streams": [
+              {
+                "id": "ltv2",
+                "name": "LTV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://static.wikia.nocookie.net/logos/images/5/54/LTV2_logo_09-2025.png/revision/latest/scale-to-width-down/1000?cb=20250927094346&path-prefix=vi",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ltv2-hd",
+                    "name": "LTV2 HD",
+                    "url": "https://liveh34.seenow.vn/hls/BINHTHUANTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "TTV2",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/125.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "ttv2",
+        "name": "TTV2",
+        "contents": [
+          {
+            "id": "ttv2",
+            "name": "TTV2",
+            "streams": [
+              {
+                "id": "ttv2",
+                "name": "TTV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/UMdjDJftrw-TAYNINHTV2-LOGO-KENHVTVgo-150x90.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "ttv2-hd",
+                    "name": "TTV2 HD",
+                    "url": "https://liveh34.seenow.vn/hls/TAYNINHTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "THĐT1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/97.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "thdt1",
+        "name": "THĐT1",
+        "contents": [
+          {
+            "id": "thdt1",
+            "name": "THĐT1",
+            "streams": [
+              {
+                "id": "thdt1",
+                "name": "THĐT1",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img.vtvprime.vn/wSJbn9WRL2yvhF5XWXh3erpk418i-KX8oQsq2b19Q3c/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGU1NmYzMjgtYTk0Ny00ZDI5LTkxODAtYzMzZTU1MzMxYzAxLnBuZw==.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "thdt1-hd",
+                    "name": "THĐT1 HD",
+                    "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "ATV2",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://drive.google.com/uc?export=download&id=14-x6GIrRPIZBo18kbnH3mtwvCL0OmxPu",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "atv2",
+        "name": "ATV2",
+        "contents": [
+          {
+            "id": "atv2",
+            "name": "ATV2",
+            "streams": [
+              {
+                "id": "atv2",
+                "name": "ATV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest/scale-to-width-down/1000?cb=20250823043314&path-prefix=vi",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "atv2-hd",
+                    "name": "ATV2 HD",
+                    "url": "https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+    {
     "id": "KIX",
     "name": "",
     "image": {
@@ -2541,15 +3806,15 @@
     "sources": [
       {
         "id": "kix",
-        "name": "KIX",
+        "name": "",
         "contents": [
           {
             "id": "kix",
-            "name": "KIX",
+            "name": "",
             "streams": [
               {
                 "id": "kix",
-                "name": "KIX",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3186,1256 +4451,6 @@
   }
 },
 
-
-  {
-    "id": "LTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/110.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ltv",
-        "name": "LTV",
-        "contents": [
-          {
-            "id": "ltv",
-            "name": "LTV",
-            "streams": [
-              {
-                "id": "ltv",
-                "name": "LTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/LaiChu_ON_150x901_1675158882.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ltv-hd",
-                    "name": "LTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/LAICHAUTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "PTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://drive.google.com/uc?export=download&id=1LWy5KR6fzFQSl39isz8nKDCfFo8HZFam",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ptv",
-        "name": "PTV",
-        "contents": [
-          {
-            "id": "ptv",
-            "name": "PTV",
-            "streams": [
-              {
-                "id": "ptv",
-                "name": "PTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://lh3.googleusercontent.com/pw/AP1GczMY2cF7XlJQFdpwBgVL8EQWUg26tAfvundtJ6pynBcdgHt289F67k6kg7f-I5tDvz5foX9x9vdRsMSKDp5Hs06qfnU4PAYU6z6RAGTgUgpICax6JvTxlWULp-V9ZiQrN-yKn4KGE3ZWy2jat_RJZUEAMw=w1344-h768-s-no?authuser=0",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ptv-hd",
-                    "name": "PTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/PHUTHOTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "BTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/82.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "btv",
-        "name": "BTV",
-        "contents": [
-          {
-            "id": "btv",
-            "name": "BTV",
-            "streams": [
-              {
-                "id": "btv",
-                "name": "BTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://static.wikia.nocookie.net/logos/images/1/16/BTV_Bac_Ninh_logo_04-07-2025.png/revision/latest/scale-to-width-down/200?cb=20250806111229&path-prefix=vi",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "btv-hd",
-                    "name": "BTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/BACGIANGTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "HYTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/107.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "hytv",
-        "name": "HYTV",
-        "contents": [
-          {
-            "id": "hytv",
-            "name": "HYTV",
-            "streams": [
-              {
-                "id": "hytv",
-                "name": "HYTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/HngYnTVHD_150x902_1675158887.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "hytv-hd",
-                    "name": "HYTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "NBTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/117.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "nbtv",
-        "name": "NBTV",
-        "contents": [
-          {
-            "id": "nbtv",
-            "name": "NBTV",
-            "streams": [
-              {
-                "id": "nbtv",
-                "name": "NBTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/NTVHD_150x903_1675158910.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "nbtv-hd",
-                    "name": "NBTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "THP",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/103.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "thp",
-        "name": "THP",
-        "contents": [
-          {
-            "id": "thp",
-            "name": "THP",
-            "streams": [
-              {
-                "id": "thp",
-                "name": "THP",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://thhp.vn/themes/frontend/bhy/Assets/imgs/thp_icon.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "thp-hd",
-                    "name": "THP HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/HAIPHONG/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "THP3",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/105.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "thp3",
-        "name": "THP3",
-        "contents": [
-          {
-            "id": "thp3",
-            "name": "THP3",
-            "streams": [
-              {
-                "id": "thp3",
-                "name": "THP3",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/EVSyTHUmZy-HAIDUONG-LOGO-KENHVTVgo-150x90.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "thp3-hd",
-                    "name": "THP3 HD",
-                    "url": "https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  
-  {
-    "id": "LSTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/114.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "lstv",
-        "name": "LSTV",
-        "contents": [
-          {
-            "id": "lstv",
-            "name": "LSTV",
-            "streams": [
-              {
-                "id": "lstv",
-                "name": "LSTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img-zlr1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "lstv-hd",
-                    "name": "LSTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/LANGSON/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "TNTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/126.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "tntv",
-        "name": "TNTV",
-        "contents": [
-          {
-            "id": "tntv",
-            "name": "TNTV",
-            "streams": [
-              {
-                "id": "tntv",
-                "name": "TNTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png?v=2.620250624135925",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "tntv-hd",
-                    "name": "TNTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/THAINGUYENTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "QTV1",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://drive.google.com/uc?export=download&id=1iDyRboMN1t42BEtgMk1BZ8Qyz_P21YKV",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "qtv1",
-        "name": "QTV1",
-        "contents": [
-          {
-            "id": "qtv1",
-            "name": "QTV1",
-            "streams": [
-              {
-                "id": "qtv1",
-                "name": "QTV1",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-qtv1_w150_h150.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "qtv1-hd",
-                    "name": "QTV1 HD",
-                    "url": "https://liveh12.seenow.vn/hls/QUANGNINHTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "QTV3",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://drive.google.com/uc?export=download&id=1eM1EqQ8qqRRkbOLXx1f157W5fBlR8_iS",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "qtv3",
-        "name": "QTV3",
-        "contents": [
-          {
-            "id": "qtv3",
-            "name": "QTV3",
-            "streams": [
-              {
-                "id": "qtv3",
-                "name": "QTV3",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img-zlr1.tv360.vn/image1/2024/10/03/21/1727967101708/09889ad04773_480_270.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "qtv3-hd",
-                    "name": "QTV3 HD",
-                    "url": "https://liveh34.seenow.vn/hls/QUANGNINH3/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "TTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/127.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ttv",
-        "name": "TTV",
-        "contents": [
-          {
-            "id": "ttv",
-            "name": "TTV",
-            "streams": [
-              {
-                "id": "ttv",
-                "name": "TTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ttv-hd",
-                    "name": "TTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/THANHHOATV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "NTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/116.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ntv",
-        "name": "NTV",
-        "contents": [
-          {
-            "id": "ntv",
-            "name": "NTV",
-            "streams": [
-              {
-                "id": "ntv",
-                "name": "NTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_480_270.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ntv-hd",
-                    "name": "NTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/NGHEANTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "BHTTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/102.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "bhttv",
-        "name": "BHT TV",
-        "contents": [
-          {
-            "id": "bhttv",
-            "name": "BHT TV",
-            "streams": [
-              {
-                "id": "bhttv",
-                "name": "BHT TV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "bhttv-hd",
-                    "name": "BHT TV HD",
-                    "url": "https://liveh34.seenow.vn/hls/HATINH/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "HueTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/106.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "huetv",
-        "name": "HueTV",
-        "contents": [
-          {
-            "id": "huetv",
-            "name": "HueTV",
-            "streams": [
-              {
-                "id": "huetv",
-                "name": "HueTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_480_270.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "huetv-hd",
-                    "name": "HueTV HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/HUE/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "DNRT1",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/93.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "dnrt1",
-        "name": "DNRT1",
-        "contents": [
-          {
-            "id": "dnrt1",
-            "name": "DNRT1",
-            "streams": [
-              {
-                "id": "dnrt1",
-                "name": "DNRT1",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://s12812.cdn.mytvnet.vn/vimages/20/0f/f8/8e/e2/28/20f8e-pnng1-channel-unkn.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "dnrt1-hd",
-                    "name": "DNRT1 HD",
-                    "url": "https://liveh12.seenow.vn/hls/DANANGTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "KTV",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/108.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ktv",
-        "name": "KTV",
-        "contents": [
-          {
-            "id": "ktv",
-            "name": "KTV",
-            "streams": [
-              {
-                "id": "ktv",
-                "name": "KTV",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/KTVHD_150x902_1675158888.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ktv-hd",
-                    "name": "KTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/KHANHHOATV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "LTV2",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://drive.google.com/uc?export=download&id=1YnQl17eFD7FRPnPmemo4jlkxYj2WJrv0",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ltv2",
-        "name": "LTV2",
-        "contents": [
-          {
-            "id": "ltv2",
-            "name": "LTV2",
-            "streams": [
-              {
-                "id": "ltv2",
-                "name": "LTV2",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://static.wikia.nocookie.net/logos/images/5/54/LTV2_logo_09-2025.png/revision/latest/scale-to-width-down/1000?cb=20250927094346&path-prefix=vi",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ltv2-hd",
-                    "name": "LTV2 HD",
-                    "url": "https://liveh34.seenow.vn/hls/BINHTHUANTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "BTV1",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://lh3.googleusercontent.com/pw/AP1GczO8sKV3cjeqRIHO-6otOUQ_qSwD1lklOBec_ra5Bb8DzwANn1q17FWC8uvIcUAQsyfECwlSk4ImQu1Xy6XOT3vsGg-ZNoPaT2chdaOuIx4gA6UGSQgSa-xR3il8WgCQ3Ucsnh_rya0BxCXMISbxJJJB0Q=w1681-h946-s-no?authuser=0",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "btv1",
-        "name": "BTV1",
-        "contents": [
-          {
-            "id": "btv1",
-            "name": "BTV1",
-            "streams": [
-              {
-                "id": "btv1",
-                "name": "BTV1",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img.vtvprime.vn/iHC5jn6Z23DfaNZQk62ag_6mU0Xehc5bbQG8gg4vaiw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYmU3M2UyMzctOTEyMy00MWQzLTk1ZTQtNmU5MDJiODk5ZGRjLnBuZw==.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "btv1-hd",
-                    "name": "BTV1 HD",
-                    "url": "https://liveh34.seenow.vn/hls/BINHDUONGTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "TTV2",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/125.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "ttv2",
-        "name": "TTV2",
-        "contents": [
-          {
-            "id": "ttv2",
-            "name": "TTV2",
-            "streams": [
-              {
-                "id": "ttv2",
-                "name": "TTV2",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/UMdjDJftrw-TAYNINHTV2-LOGO-KENHVTVgo-150x90.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "ttv2-hd",
-                    "name": "TTV2 HD",
-                    "url": "https://liveh34.seenow.vn/hls/TAYNINHTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "BRT",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/173.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "brt",
-        "name": "BRT",
-        "contents": [
-          {
-            "id": "brt",
-            "name": "BRT",
-            "streams": [
-              {
-                "id": "brt",
-                "name": "BRT",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250207/2025020715/_150x902_1675158885.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "brt-hd",
-                    "name": "BRT HD",
-                    "url": "https://liveh34.seenow.vn/hls/VUNGTAUTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "THĐT1",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/97.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "thdt1",
-        "name": "THĐT1",
-        "contents": [
-          {
-            "id": "thdt1",
-            "name": "THĐT1",
-            "streams": [
-              {
-                "id": "thdt1",
-                "name": "THĐT1",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img.vtvprime.vn/wSJbn9WRL2yvhF5XWXh3erpk418i-KX8oQsq2b19Q3c/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGU1NmYzMjgtYTk0Ny00ZDI5LTkxODAtYzMzZTU1MzMxYzAxLnBuZw==.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "thdt1-hd",
-                    "name": "THĐT1 HD",
-                    "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "ATV2",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://drive.google.com/uc?export=download&id=14-x6GIrRPIZBo18kbnH3mtwvCL0OmxPu",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "atv2",
-        "name": "ATV2",
-        "contents": [
-          {
-            "id": "atv2",
-            "name": "ATV2",
-            "streams": [
-              {
-                "id": "atv2",
-                "name": "ATV2",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest/scale-to-width-down/1000?cb=20250823043314&path-prefix=vi",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "atv2-hd",
-                    "name": "ATV2 HD",
-                    "url": "https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
   {
     "id": "ONHomeshopping",
     "name": "ON Homeshopping",
@@ -4455,11 +4470,11 @@
         "contents": [
           {
             "id": "onhomeshopping",
-            "name": "ON Homeshopping",
+            "name": "",
             "streams": [
               {
                 "id": "onhomeshopping",
-                "name": "ON Homeshopping",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4490,9 +4505,10 @@
       "url": ""
     }
   },
+
   {
     "id": "SCTV10",
-    "name": "",
+    "name": "SCTV10",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4505,15 +4521,15 @@
     "sources": [
       {
         "id": "sctv10",
-        "name": "SCTV10",
+        "name": "",
         "contents": [
           {
             "id": "sctv10",
-            "name": "SCTV10",
+            "name": "",
             "streams": [
               {
                 "id": "sctv10",
-                "name": "SCTV10",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
