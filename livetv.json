@@ -12,7 +12,7 @@
           "type": "single",
           "display": "thumbnail-only",
           "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675159127.webp",
+            "url": "https://vnepg.site/logos/1.png",
             "width": 150,
             "height": 90,
             "padding": 20
@@ -748,12 +748,13 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png",
+"url": "https://vnepg.site/logos/1.png",
 "height": 80,
 "width": 110
 },
 "type": "single",
 "display": "text-below",
+"enable_detail": true,
 "sources": [
 {
 "id": "vtv1",
@@ -783,7 +784,22 @@
 }
 ],
 "remote_data": null
-}
+},
+{
+          "id": "1",
+          "name": "VTV1",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "url": "https://vnepg.site/logos/1.png",
+            "width": 150,
+            "height": 90,
+            "padding": 20
+          },
+          "remote_data": {
+            "url": "https://vtvgo.4share.me/live-source/1"
+          }
+        }
 ]
 }
 ]
