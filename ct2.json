@@ -8,7 +8,7 @@
     "description": ""
   },
   "description": "TP 11549 28500 H 5/6",
-  "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/ct2.json",
+  "url": "https://jqk.netlify.app/ch2.json",
   "image": {
     "display": "contain",
     "shape": "square",
@@ -22,13 +22,13 @@
       "id": "truyen-hinh",
       "text": "Chương trình 1 (container soon)",
       "type": "radio",
-      "url": "https://jqk.netlify.app/livetv2.json"
+      "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
     },
     {
       "id": "truyen-hinh2",
       "text": "Chương trình 2",
       "type": "radio",
-      "url": "https://jqk.netlify.app/livetv.json"
+      "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv2.json"
     }
   ],
 "groups": [
@@ -1492,9 +1492,7 @@
       "enable_detail": false
     }
   ],
-      "remote_data": {
-        "url": "https://jqk.netlify.app/livetv.json"
-      },
+
   "search": {
     "paging": {
       "page_key": "page",
