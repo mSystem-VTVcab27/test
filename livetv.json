@@ -408,12 +408,13 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczO7AYJAiqLw2-byZg8fuhAMUE5FpHDFFGhUqRi6pdoIsKfndmbRBquPMcOhSuHxGeCuUsRaJ8XHaOODg5rOiXm8dorjHKdqz_QvpcZC2MCwbhAxiqnIvSdpB8qEiHvVfLtUMjTli29IfugRwPbiMzYypw=w1681-h946-s-no?authuser=2",
 "height": 101,
 "width": 155
 },
 "type": "single",
 "display": "text-below",
+"enable_detail": true,
 "sources": [
 {
 "id": "vtv5",
@@ -425,7 +426,7 @@
 "streams": [
 {
 "id": "vtv5",
-"name": "VTV5",
+"name": "VCTV",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -438,6 +439,27 @@
 "id": "vtv5-hd",
 "name": "VTV5 HD",
 "url": "https://liveh12.seenow.vn/hls/VTV5_HD/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "vtv5",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv5_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "vtv5-hd",
+"name": "VTV5 HD",
+"url": "https://liveh12.seenow.vn/hls/VTV5_HD/01.m3u8",
 "type": "hls",
 "default": true
 }
