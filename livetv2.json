@@ -3362,7 +3362,7 @@
                   {
                     "id": "da_nang_1-hd",
                     "name": "Đà Nẵng 1 HD",
-                    "url": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3416,7 +3416,7 @@
                   {
                     "id": "da_nang_2-hd",
                     "name": "Đà Nẵng 2 HD",
-                    "url": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3958,7 +3958,7 @@
                   {
                     "id": "hai_phong-hd",
                     "name": "Hải Phòng HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4013,7 +4013,7 @@
                   {
                     "id": "hai_phong-hd",
                     "name": "Hải Phòng 2 HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4123,7 +4123,7 @@
                   {
                     "id": "hue-hd",
                     "name": "Huế HD",
-                    "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.huetv.com.vn/TRT-Online/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4610,7 +4610,7 @@
                   {
                     "id": "lao_cai-hd",
                     "name": "Lào Cai HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4664,7 +4664,7 @@
                   {
                     "id": "nghe_an-hd",
                     "name": "Nghệ An HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4718,7 +4718,7 @@
                   {
                     "id": "ninh_binh-hd",
                     "name": "Ninh Bình HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4880,7 +4880,7 @@
                   {
                     "id": "quang_ngai-hd",
                     "name": "Quảng Ngãi HD",
-                    "url": "https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4988,7 +4988,7 @@
                   {
                     "id": "quang_ninh_3-hd",
                     "name": "Quảng Ninh 3 HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "http://103.90.220.236/qtvlive/tv3live.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -5258,7 +5258,7 @@
                   {
                     "id": "thanh_hoa",
                     "name": "Thanh Hóa",
-                    "url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni",
                     "type": "hls",
                     "default": true
                   }
@@ -5313,7 +5313,7 @@
                   {
                     "id": "tuyen_quang-hd",
                     "name": "Tuyên Quang HD",
-                    "url": "https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8",
+                    "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
