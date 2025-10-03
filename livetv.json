@@ -29,7 +29,7 @@
 "streams": [
 {
 "id": "vtv1",
-"name": "VCTV",
+"name": "",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -116,7 +116,7 @@
 },
 "stream_links": [
 {
-"id": "antv-hd",
+"id": "antv",
 "name": "ANTV HD",
 "url": "https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8",
 "type": "dash",
@@ -193,8 +193,8 @@
 },
 "stream_links": [
 {
-"id": "qpvn-hd2",
-"name": "QPVN HD",
+"id": "qpvn",
+"name": "QPVN",
 "url": "https://cmcty.vtvdigital.vn/mean/QPTV/index.m3u8",
 "type": "dash",
 "default": true
