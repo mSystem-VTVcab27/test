@@ -3787,6 +3787,22 @@
     }
   },
 
+{
+          "id": "145",
+          "name": "Truyền hình Đồng Nai 2",
+          "type": "single",
+          "display": "thumbnail-only",
+          "image": {
+            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/jqK8LRgbgc-DONGNAI2-LOGO-KENHVTVgo-150x90.webp",
+            "width": 150,
+            "height": 90,
+            "padding": 20
+          },
+          "remote_data": {
+            "url": "https://vtvgo.4share.me/live-source/145"
+          }
+        },
+
   {
     "id": "KTV",
     "name": "",
