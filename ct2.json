@@ -1,18 +1,18 @@
 {
-  "id": "ct2",
-  "name": "Chương trình 2",
+  "id": "ch2",
+  "name": "",
   "color": "#0864af",
   "org_metadata": {
-    "image": "https://lh3.googleusercontent.com/pw/AP1GczN3kSDGpQCFW3PYkCi38b98iYCRXj7aRqASzwgmkG3Dd6XrDRkgK-CWjD8FxDYCuv2n3LWFjala3QLVBDzJ5pnn9NJ6c9wQxOacnICUja8ad17-XjdQmuEN8cBTyr2Gbq0OWoBje3Z8BzeA8y16g5iSTg=w1184-h864-s-no?authuser=0",
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczMPcFBG_oIC6Iq2RqtKWG6pyDIEjRf4AWr1B9CY18qdzbRhTGYIl4kDPPboG2s_N5nago-Azg13t3anjZbCSNxhLLksyVZPFAvbb51GALnhJjyTgmAOmia_JUF7G2PlepayEjDgV2WFLkmdqCK1wJh_BA=w1681-h946-s-no?authuser=0",
     "title": "HD2",
     "description": ""
   },
-  "description": "TP 11549 28500 H 5/6",
+  "description": "TP 11549 28500 H 5/6 8PSK",
   "url": "https://jqk.netlify.app/ch2.json",
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://lh3.googleusercontent.com/pw/AP1GczNB1dIXbF5tS6noOxFs5J7WdxjTEkAycx6sumd7OgQkwws1_9VJlBH-Pm4J_sc1YhQDWF2biXNnSLWCwzEZdAAaZa2VA_5wRYK3XImoEs0Fx5aaluLk3crWE6LcxcJdQS18JfyeXpHYmPsB3BglmHbAAA=w946-h946-s-no?authuser=0",
+    "url": "https://lh3.googleusercontent.com/pw/AP1GczMPcFBG_oIC6Iq2RqtKWG6pyDIEjRf4AWr1B9CY18qdzbRhTGYIl4kDPPboG2s_N5nago-Azg13t3anjZbCSNxhLLksyVZPFAvbb51GALnhJjyTgmAOmia_JUF7G2PlepayEjDgV2WFLkmdqCK1wJh_BA=w1681-h946-s-no?authuser=0",
     "height": 101,
     "width": 155
   },
@@ -20,7 +20,7 @@
     "sorts": [
     {
       "id": "truyen-hinh",
-      "text": "Chương trình 1 (container soon)",
+      "text": "Chương trình 1",
       "type": "radio",
       "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
     },
@@ -1154,6 +1154,416 @@
       "display": "horizontal",
       "grid_columns": null
     },
+
+        {
+      "id": "vtvdth1",
+      "name": "Chương trình 1",
+      "channels": [
+{
+"id": "sctv1",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczNd27GYm5oowYG_zwNvBEFMaHk2PHXl9aI3B7xA_WA9jQwLwkW5Vb-b1St3wBjFrU0DqCbW3Fkk4N_TaEJRuwiKXfZD2Tio_AgMTYaKLAAviT3AasK1e21OaQEKymu784NJLpxF8XQe5iOSYYr2n0X_Mw=w1683-h946-s-no?authuser=0",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"enable_detail": true,
+"sources": [
+{
+"id": "sctv1",
+"name": "",
+"contents": [
+{
+"id": "sctv1",
+"name": "",
+"streams": [
+{
+"id": "sctv1",
+"name": "VCTV",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-sctv1_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctv1-hd",
+"name": "SCTV1 HD",
+"url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "12",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-sctv1_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctv1-hd",
+"name": "SCTV1 HD",
+"url": "https://liveh12.seenow.vn/hls/SCTV1/01.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+"id": "sctvphim",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczOHmUoyyxoWxA2HwT0Zr4wFdn9f4eSy0eXaooAFOOPefejqOCHJiPz26pf5_EM_42hkc2OcC0CmDAltqMF24v00wVOZzcX3cFu2RLUJtkVUT4LUAKYqNCVxh6q7ot6zjlNdyfyAe-MNmZdzg0RV4PkJkg=w1683-h946-s-no?authuser=0",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"enable_detail": true,
+"sources": [
+{
+"id": "sctvphim",
+"name": "",
+"contents": [
+{
+"id": "sctvphim",
+"name": "",
+"streams": [
+{
+"id": "sctvphim",
+"name": "VCTV",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctvphim-hd",
+"name": "SCTV Phim tổng hợp HD",
+"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "11",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctvphim-hd",
+"name": "SCTV Phim tổng hợp HD",
+"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+"id": "htv7",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/36.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"enable_detail": true,
+"sources": [
+{
+"id": "htv7",
+"name": "",
+"contents": [
+{
+"id": "htv7",
+"name": "",
+"streams": [
+{
+"id": "htv7",
+"name": "VCTV",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-htv7_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "htv7-hd",
+"name": "HTV7 HD",
+"url": "https://liveh12.seenow.vn/hls/HTV7HD/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "14",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-htv7_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "14",
+"name": "HTV7 HD",
+"url": "https://liveh12.seenow.vn/hls/HTV7HD/01.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+    "id": "TV5MondeAsie",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://adweknow.com/wp-content/uploads/2025/10/tv5-nouvel-habillage-1170x650.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "tv5mondeasie",
+        "name": "TV5 Monde Asie",
+        "contents": [
+          {
+            "id": "tv5mondeasie",
+            "name": "TV5 Monde Asie",
+            "streams": [
+              {
+                "id": "tv5mondeasie",
+                "name": "TV5 Monde Asie",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://adweknow.com/wp-content/uploads/2025/10/tv5-nouvel-habillage-1170x650.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "tv5mondeasie-hd",
+                    "name": "TV5 Monde Asie HD",
+                    "url": "https://liveh12.seenow.vn/hls/TV5/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+},
+
+{
+"id": "ONVfamily",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/28.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "onvfamily",
+"name": "",
+"contents": [
+{
+"id": "onvfamily",
+"name": "",
+"streams": [
+{
+"id": "onvfamily",
+"name": "ON Vfamily",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://vnepg.site/logos/28.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "onvfamily-hd",
+"name": "ON Vfamily HD",
+"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+"id": "thvl5",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/175.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "thvl5",
+"name": "",
+"contents": [
+{
+"id": "thvl5",
+"name": "",
+"streams": [
+{
+"id": "thvl5",
+"name": "THVL5",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://static.wikia.nocookie.net/logos/images/4/47/THVL5_logo.png/revision/latest?cb=20250903134313&path-prefix=vi",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "thvl5-hd",
+"name": "THVL5 HD",
+"url": "https://liveh34.seenow.vn/hls/TRAVINHTV/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+}
+      ],
+      "display": "horizontal",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": false,
+        "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
+      },
+      "enable_detail": false
+    },
+
     {
       "id": "vtvdth2",
       "name": "Chương trình 2",
@@ -1487,7 +1897,7 @@
       "grid_columns": null,
       "remote_data": {
         "enable": false,
-        "url": "https://dth-ct2.netlify.app/livetv.json"
+        "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
       },
       "enable_detail": false
     }
