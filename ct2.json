@@ -1570,7 +1570,7 @@
       "channels": [
         {
           "id": "VTV1",
-          "name": "VTV1",
+          "name": "",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -1624,7 +1624,7 @@
         },
         {
           "id": "VTV3",
-          "name": "VTV3",
+          "name": "",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -1678,7 +1678,7 @@
         },
 {
     "id": "Hung_Yen",
-    "name": "HYTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1732,7 +1732,7 @@
   },
 {
     "id": "Lam_Dong_1_HD",
-    "name": "LTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1786,7 +1786,7 @@
   },
   {
     "id": "Thanh_Hoa",
-    "name": "TTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1840,7 +1840,7 @@
   },
   {
     "id": "VT",
-    "name": "Vietnam Today",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
