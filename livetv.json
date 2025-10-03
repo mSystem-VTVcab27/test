@@ -3444,11 +3444,11 @@
 },
 {
   "id": "CNBC",
-  "name": "https://img-zlr1.tv360.vn/image1/2024/06/03/21/1717426473906/ecf1c67fa59c_480_270.png",
+  "name": "",
   "image": {
     "display": "cover",
     "shape": "square",
-    "url": "",
+    "url": "https://img-zlr1.tv360.vn/image1/2024/06/03/21/1717426473906/ecf1c67fa59c_480_270.png",
     "height": 101,
     "width": 155
   },
@@ -3469,7 +3469,7 @@
               "image": {
                 "display": "contain",
                 "shape": "square",
-                "url": "https://img-zlr1.tv360.vn/image1/2024/06/03/21/1717426473906/ecf1c67fa59c_480_270.png",
+                "url": "",
                 "height": 101,
                 "width": 155
               },
