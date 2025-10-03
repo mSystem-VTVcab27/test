@@ -1241,7 +1241,7 @@
 "image": {
 "display": "contain",
 "shape": "square",
-"url": "https://web.archive.org/web/20150315121553/http://tv24.vn/WebMedia/Channels/2/sctv2.png",
+"url": "https://i.ytimg.com/vi/i-NeaR2UlnE/maxresdefault.jpg",
 "height": 101,
 "width": 155
 },
@@ -1262,7 +1262,7 @@
 "image": {
 "display": "contain",
 "shape": "square",
-"url": "https://web.archive.org/web/20150315121553/http://tv24.vn/WebMedia/Channels/2/sctv2.png",
+"url": "https://i.ytimg.com/vi/i-NeaR2UlnE/maxresdefault.jpg",
 "height": 101,
 "width": 155
 },
@@ -1985,7 +1985,7 @@
 {
 "id": "hanoi1-hd",
 "name": "HÀNỘI 1 HD",
-"url": "https://liveh34.seenow.vn/hls/HANOI1TV/01.m3u8",
+"url": "https://liveh34.seenow.vn/hls/HANOI1TV/03.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2317,15 +2317,15 @@
     "sources": [
       {
         "id": "btv1",
-        "name": "BTV1",
+        "name": "",
         "contents": [
           {
             "id": "btv1",
-            "name": "BTV1",
+            "name": "",
             "streams": [
               {
                 "id": "btv1",
-                "name": "BTV1",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2372,15 +2372,15 @@
     "sources": [
       {
         "id": "brt",
-        "name": "BRT",
+        "name": "",
         "contents": [
           {
             "id": "brt",
-            "name": "BRT",
+            "name": "",
             "streams": [
               {
                 "id": "brt",
-                "name": "BRT",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2922,15 +2922,15 @@
     "sources": [
       {
         "id": "ltv",
-        "name": "LTV",
+        "name": "",
         "contents": [
           {
             "id": "ltv",
-            "name": "LTV",
+            "name": "",
             "streams": [
               {
                 "id": "ltv",
-                "name": "LTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2977,15 +2977,15 @@
     "sources": [
       {
         "id": "ptv",
-        "name": "PTV",
+        "name": "",
         "contents": [
           {
             "id": "ptv",
-            "name": "PTV",
+            "name": "",
             "streams": [
               {
                 "id": "ptv",
-                "name": "PTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3032,15 +3032,15 @@
     "sources": [
       {
         "id": "btv",
-        "name": "BTV",
+        "name": "",
         "contents": [
           {
             "id": "btv",
-            "name": "BTV",
+            "name": "",
             "streams": [
               {
                 "id": "btv",
-                "name": "BTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3087,15 +3087,15 @@
     "sources": [
       {
         "id": "hytv",
-        "name": "HYTV",
+        "name": "",
         "contents": [
           {
             "id": "hytv",
-            "name": "HYTV",
+            "name": "",
             "streams": [
               {
                 "id": "hytv",
-                "name": "HYTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3142,15 +3142,15 @@
     "sources": [
       {
         "id": "nbtv",
-        "name": "NBTV",
+        "name": "",
         "contents": [
           {
             "id": "nbtv",
-            "name": "NBTV",
+            "name": "",
             "streams": [
               {
                 "id": "nbtv",
-                "name": "NBTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3307,15 +3307,15 @@
     "sources": [
       {
         "id": "lstv",
-        "name": "LSTV",
+        "name": "",
         "contents": [
           {
             "id": "lstv",
-            "name": "LSTV",
+            "name": "",
             "streams": [
               {
                 "id": "lstv",
-                "name": "LSTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3362,15 +3362,15 @@
     "sources": [
       {
         "id": "tntv",
-        "name": "TNTV",
+        "name": "",
         "contents": [
           {
             "id": "tntv",
-            "name": "TNTV",
+            "name": "",
             "streams": [
               {
                 "id": "tntv",
-                "name": "TNTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3417,15 +3417,15 @@
     "sources": [
       {
         "id": "qtv1",
-        "name": "QTV1",
+        "name": "",
         "contents": [
           {
             "id": "qtv1",
-            "name": "QTV1",
+            "name": "",
             "streams": [
               {
                 "id": "qtv1",
-                "name": "QTV1",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3472,15 +3472,15 @@
     "sources": [
       {
         "id": "qtv3",
-        "name": "QTV3",
+        "name": "",
         "contents": [
           {
             "id": "qtv3",
-            "name": "QTV3",
+            "name": "",
             "streams": [
               {
                 "id": "qtv3",
-                "name": "QTV3",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3527,15 +3527,15 @@
     "sources": [
       {
         "id": "ttv",
-        "name": "TTV",
+        "name": "",
         "contents": [
           {
             "id": "ttv",
-            "name": "TTV",
+            "name": "",
             "streams": [
               {
                 "id": "ttv",
-                "name": "TTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3582,15 +3582,15 @@
     "sources": [
       {
         "id": "ntv",
-        "name": "NTV",
+        "name": "",
         "contents": [
           {
             "id": "ntv",
-            "name": "NTV",
+            "name": "",
             "streams": [
               {
                 "id": "ntv",
-                "name": "NTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3637,15 +3637,15 @@
     "sources": [
       {
         "id": "bhttv",
-        "name": "BHT TV",
+        "name": "",
         "contents": [
           {
             "id": "bhttv",
-            "name": "BHT TV",
+            "name": "",
             "streams": [
               {
                 "id": "bhttv",
-                "name": "BHT TV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3692,15 +3692,15 @@
     "sources": [
       {
         "id": "huetv",
-        "name": "HueTV",
+        "name": "",
         "contents": [
           {
             "id": "huetv",
-            "name": "HueTV",
+            "name": "",
             "streams": [
               {
                 "id": "huetv",
-                "name": "HueTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3747,15 +3747,15 @@
     "sources": [
       {
         "id": "dnrt1",
-        "name": "DNRT1",
+        "name": "",
         "contents": [
           {
             "id": "dnrt1",
-            "name": "DNRT1",
+            "name": "",
             "streams": [
               {
                 "id": "dnrt1",
-                "name": "DNRT1",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3802,15 +3802,15 @@
     "sources": [
       {
         "id": "ktv",
-        "name": "KTV",
+        "name": "",
         "contents": [
           {
             "id": "ktv",
-            "name": "KTV",
+            "name": "",
             "streams": [
               {
                 "id": "ktv",
-                "name": "KTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3857,15 +3857,15 @@
     "sources": [
       {
         "id": "ltv2",
-        "name": "LTV2",
+        "name": "",
         "contents": [
           {
             "id": "ltv2",
-            "name": "LTV2",
+            "name": "",
             "streams": [
               {
                 "id": "ltv2",
-                "name": "LTV2",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3912,15 +3912,15 @@
     "sources": [
       {
         "id": "ttv2",
-        "name": "TTV2",
+        "name": "",
         "contents": [
           {
             "id": "ttv2",
-            "name": "TTV2",
+            "name": "",
             "streams": [
               {
                 "id": "ttv2",
-                "name": "TTV2",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -3967,15 +3967,15 @@
     "sources": [
       {
         "id": "thdt1",
-        "name": "THĐT1",
+        "name": "",
         "contents": [
           {
             "id": "thdt1",
-            "name": "THĐT1",
+            "name": "",
             "streams": [
               {
                 "id": "thdt1",
-                "name": "THĐT1",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4022,15 +4022,15 @@
     "sources": [
       {
         "id": "atv2",
-        "name": "ATV2",
+        "name": "",
         "contents": [
           {
             "id": "atv2",
-            "name": "ATV2",
+            "name": "",
             "streams": [
               {
                 "id": "atv2",
-                "name": "ATV2",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4132,15 +4132,15 @@
     "sources": [
       {
         "id": "dweng",
-        "name": "DW Eng",
+        "name": "",
         "contents": [
           {
             "id": "dweng",
-            "name": "DW Eng",
+            "name": "",
             "streams": [
               {
                 "id": "dweng",
-                "name": "DW Eng",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4187,15 +4187,15 @@
     "sources": [
       {
         "id": "kbsworld",
-        "name": "KBS World",
+        "name": "",
         "contents": [
           {
             "id": "kbsworld",
-            "name": "KBS World",
+            "name": "",
             "streams": [
               {
                 "id": "kbsworld",
-                "name": "KBS World",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4297,15 +4297,15 @@
     "sources": [
       {
         "id": "davinci",
-        "name": "Da Vinci",
+        "name": "",
         "contents": [
           {
             "id": "davinci",
-            "name": "Da Vinci",
+            "name": "",
             "streams": [
               {
                 "id": "davinci",
-                "name": "Da Vinci",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4352,15 +4352,15 @@
     "sources": [
       {
         "id": "hgtv",
-        "name": "HGTV",
+        "name": "",
         "contents": [
           {
             "id": "hgtv",
-            "name": "HGTV",
+            "name": "",
             "streams": [
               {
                 "id": "hgtv",
-                "name": "HGTV",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4407,15 +4407,15 @@
     "sources": [
       {
         "id": "afn",
-        "name": "AFN",
+        "name": "",
         "contents": [
           {
             "id": "afn",
-            "name": "AFN",
+            "name": "",
             "streams": [
               {
                 "id": "afn",
-                "name": "AFN",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4462,15 +4462,15 @@
     "sources": [
       {
         "id": "arirang",
-        "name": "Arirang",
+        "name": "",
         "contents": [
           {
             "id": "arirang",
-            "name": "Arirang",
+            "name": "",
             "streams": [
               {
                 "id": "arirang",
-                "name": "Arirang",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4517,15 +4517,15 @@
     "sources": [
       {
         "id": "cna",
-        "name": "CNA",
+        "name": "",
         "contents": [
           {
             "id": "cna",
-            "name": "CNA",
+            "name": "",
             "streams": [
               {
                 "id": "cna",
-                "name": "CNA",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -4572,15 +4572,15 @@
     "sources": [
       {
         "id": "france24eng",
-        "name": "France24 Eng",
+        "name": "",
         "contents": [
           {
             "id": "france24eng",
-            "name": "France24 Eng",
+            "name": "",
             "streams": [
               {
                 "id": "france24eng",
-                "name": "France24 Eng",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
