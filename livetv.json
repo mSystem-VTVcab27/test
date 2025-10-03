@@ -7,21 +7,6 @@
       "grid_number": null,
       "channels": [
         {
-          "id": "1",
-          "name": "VTV1",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vnepg.site/logos/1.png",
-            "width": 150,
-            "height": 90,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/1"
-          }
-        },
-        {
           "id": "2",
           "name": "VTV2",
           "type": "single",
@@ -766,7 +751,7 @@
 "streams": [
 {
 "id": "vtv1",
-"name": "VTV1 VTVprime",
+"name": "VTVprime",
 "image": {
 "display": "contain",
 "shape": "square",
