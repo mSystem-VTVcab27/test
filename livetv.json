@@ -3846,7 +3846,172 @@
     }
   },
 
-  {
+    {
+    "id": "DWEng",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/158.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "dweng",
+        "name": "DW Eng",
+        "contents": [
+          {
+            "id": "dweng",
+            "name": "DW Eng",
+            "streams": [
+              {
+                "id": "dweng",
+                "name": "DW Eng",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://img.vtvprime.vn/70mr1lAMwAsbretV3voo8Wqwl2b21Op7kx-XEZk0Yeo/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWQxMmQ4NGUtZTgxZS00NGViLWEwZTUtN2ZmYjZhYzRhM2ZjLnBuZw==.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "dweng-hd",
+                    "name": "DW Eng HD",
+                    "url": "https://liveh12.seenow.vn/hls/DW/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+    {
+    "id": "KBSWorld",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/160.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "kbsworld",
+        "name": "KBS World",
+        "contents": [
+          {
+            "id": "kbsworld",
+            "name": "KBS World",
+            "streams": [
+              {
+                "id": "kbsworld",
+                "name": "KBS World",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-kbs-world_w150_h150.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "kbsworld-hd",
+                    "name": "KBS World HD",
+                    "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "TV5MondeAsie",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://adweknow.com/wp-content/uploads/2025/10/tv5-nouvel-habillage-1170x650.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "tv5mondeasie",
+        "name": "TV5 Monde Asie",
+        "contents": [
+          {
+            "id": "tv5mondeasie",
+            "name": "TV5 Monde Asie",
+            "streams": [
+              {
+                "id": "tv5mondeasie",
+                "name": "TV5 Monde Asie",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://adweknow.com/wp-content/uploads/2025/10/tv5-nouvel-habillage-1170x650.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "tv5mondeasie-hd",
+                    "name": "TV5 Monde Asie HD",
+                    "url": "https://liveh12.seenow.vn/hls/TV5/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+ {
     "id": "DaVinci",
     "name": "",
     "image": {
@@ -4122,116 +4287,6 @@
   },
 
   {
-    "id": "TV5MondeAsie",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://adweknow.com/wp-content/uploads/2025/10/tv5-nouvel-habillage-1170x650.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "tv5mondeasie",
-        "name": "TV5 Monde Asie",
-        "contents": [
-          {
-            "id": "tv5mondeasie",
-            "name": "TV5 Monde Asie",
-            "streams": [
-              {
-                "id": "tv5mondeasie",
-                "name": "TV5 Monde Asie",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://adweknow.com/wp-content/uploads/2025/10/tv5-nouvel-habillage-1170x650.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "tv5mondeasie-hd",
-                    "name": "TV5 Monde Asie HD",
-                    "url": "https://liveh12.seenow.vn/hls/TV5/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "DWEng",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/158.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "dweng",
-        "name": "DW Eng",
-        "contents": [
-          {
-            "id": "dweng",
-            "name": "DW Eng",
-            "streams": [
-              {
-                "id": "dweng",
-                "name": "DW Eng",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://img.vtvprime.vn/70mr1lAMwAsbretV3voo8Wqwl2b21Op7kx-XEZk0Yeo/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWQxMmQ4NGUtZTgxZS00NGViLWEwZTUtN2ZmYjZhYzRhM2ZjLnBuZw==.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "dweng-hd",
-                    "name": "DW Eng HD",
-                    "url": "https://liveh12.seenow.vn/hls/DW/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
     "id": "France24Eng",
     "name": "",
     "image": {
@@ -4267,61 +4322,6 @@
                     "id": "france24eng-hd",
                     "name": "France24 Eng HD",
                     "url": "https://liveh12.seenow.vn/hls/FRANCE24/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "KBSWorld",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://vnepg.site/logos/160.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "kbsworld",
-        "name": "KBS World",
-        "contents": [
-          {
-            "id": "kbsworld",
-            "name": "KBS World",
-            "streams": [
-              {
-                "id": "kbsworld",
-                "name": "KBS World",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-kbs-world_w150_h150.png",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "kbsworld-hd",
-                    "name": "KBS World HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
                     "type": "hls",
                     "default": true
                   }
