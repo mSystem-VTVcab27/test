@@ -9,7 +9,7 @@
 
 {
           "id": "VTV1",
-          "name": "VTV1",
+          "name": "",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -92,14 +92,14 @@
 "shape": "square",
 "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-antv_w150_h150.png",
 "height": 101,
-"width": 155
+"width": 130
 },
 "stream_links": [
 {
-"id": "antv-hd",
-"name": "ANTV HD",
+"id": "antv",
+"name": "",
 "url": "https://livecdn.seenow.vn/mean/ANNINHTV/manifest.mpd",
-"type": "dash",
+"type": "hls",
 "default": true
 }
 ],
@@ -107,20 +107,20 @@
 },
 {
 "id": "2",
-"name": "VTVgo",
+"name": "SD",
 "image": {
 "display": "contain",
 "shape": "square",
 "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-antv_w150_h150.png",
 "height": 101,
-"width": 155
+"width": 130
 },
 "stream_links": [
 {
-"id": "antv",
-"name": "ANTV HD",
+"id": "antv2",
+"name": "",
 "url": "https://cmcty.vtvdigital.vn/mean/ANNINHTV/index.m3u8",
-"type": "dash",
+"type": "hls",
 "default": true
 }
 ],
