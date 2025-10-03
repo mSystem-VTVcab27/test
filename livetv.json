@@ -105,7 +105,7 @@
 "remote_data": null
 },
 {
-"id": "3",
+"id": "2",
 "name": "VTVgo",
 "image": {
 "display": "contain",
@@ -144,7 +144,7 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://lh3.googleusercontent.com/pw/AP1GczNOIL3rLTu2UGljqevG-EYhbz-p_O6r1dR8C-EZr-WrXVIW3ZVGXhV_0LOnmnztYhDMeGmT6CUGC0RXnOHGEMosAf-xwsnCB-yOmprMpfX9Ue1BaJgvmFOKDPlGQLaIWl-dsbtAwKF5V9kupBwkbW9mJA=w1681-h946-s-no?authuser=0",
+"url": "https://vnepg.site/logos/72.png",
 "height": 101,
 "width": 155
 },
@@ -182,7 +182,7 @@
 "remote_data": null
 },
 {
-"id": "qpvn",
+"id": "3",
 "name": "VTVgo",
 "image": {
 "display": "contain",
@@ -259,7 +259,7 @@
 "remote_data": null
 },
 {
-"id": "2",
+"id": "4",
 "name": "SD",
 "image": {
 "display": "contain",
@@ -270,7 +270,7 @@
 },
 "stream_links": [
 {
-"id": "vtv2a",
+"id": "vtv2",
 "name": "VTV2",
 "url": "https://liveh12.seenow.vn/hls/VTV2_HD/01.m3u8",
 "type": "hls",
@@ -320,7 +320,7 @@
 "streams": [
 {
 "id": "vtv3",
-"name": "VTV3",
+"name": "VCTV",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -340,7 +340,7 @@
 "remote_data": null
 },
 {
-"id": "vtv3",
+"id": "5",
 "name": "SD",
 "image": {
 "display": "contain",
