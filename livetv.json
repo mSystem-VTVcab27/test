@@ -144,7 +144,7 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/images-mkt/logo-qpvn_w150_h150.png",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczNOIL3rLTu2UGljqevG-EYhbz-p_O6r1dR8C-EZr-WrXVIW3ZVGXhV_0LOnmnztYhDMeGmT6CUGC0RXnOHGEMosAf-xwsnCB-yOmprMpfX9Ue1BaJgvmFOKDPlGQLaIWl-dsbtAwKF5V9kupBwkbW9mJA=w1681-h946-s-no?authuser=0",
 "height": 101,
 "width": 155
 },
@@ -193,7 +193,7 @@
 },
 "stream_links": [
 {
-"id": "4",
+"id": "qpvn-hd2",
 "name": "QPVN HD",
 "url": "https://cmcty.vtvdigital.vn/mean/QPTV/index.m3u8",
 "type": "dash",
@@ -270,7 +270,7 @@
 },
 "stream_links": [
 {
-"id": "vtv2",
+"id": "vtv2a",
 "name": "VTV2",
 "url": "https://liveh12.seenow.vn/hls/VTV2_HD/01.m3u8",
 "type": "hls",
@@ -302,12 +302,13 @@
 "image": {
 "display": "cover",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",
+"url": "https://vnepg.site/logos/3.png",
 "height": 101,
 "width": 155
 },
 "type": "single",
 "display": "text-below",
+"enable_detail": true,
 "sources": [
 {
 "id": "vtv3",
@@ -323,7 +324,7 @@
 "image": {
 "display": "contain",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv3-hd_w150_h150.png",
 "height": 101,
 "width": 155
 },
@@ -332,6 +333,27 @@
 "id": "vtv3-hd",
 "name": "VTV3 HD",
 "url": "https://liveh12.seenow.vn/hls/VTV3_HD/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "vtv3",
+"name": "SD",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv3_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "vtv3-hda",
+"name": "VTV3 HD",
+"url": "https://liveh12.seenow.vn/hls/VTV3_HD/01.m3u8",
 "type": "hls",
 "default": true
 }
