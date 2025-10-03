@@ -3799,7 +3799,7 @@
             "padding": 20
           },
           "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/145"
+            "url": "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8"
           }
         },
 
