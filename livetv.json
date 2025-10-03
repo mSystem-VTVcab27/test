@@ -758,7 +758,7 @@
 "sources": [
 {
 "id": "vtv1",
-"name": "",
+"name": "VTV1",
 "contents": [
 {
 "id": "vtv1",
@@ -766,7 +766,7 @@
 "streams": [
 {
 "id": "vtv1",
-"name": "VTV1",
+"name": "VTV1 VTVprime",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -787,7 +787,7 @@
 },
 {
           "id": "1",
-          "name": "VTV1",
+          "name": "VTV1 VTVgo",
           "type": "single",
           "display": "thumbnail-only",
           "image": {
