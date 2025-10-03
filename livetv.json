@@ -6,22 +6,23 @@
       "display": "vertical",
       "grid_number": null,
       "channels": [
-        {
+
+{
 "id": "vtv1",
 "name": "",
 "image": {
 "display": "cover",
 "shape": "square",
 "url": "https://vnepg.site/logos/1.png",
-"height": 80,
-"width": 110
+"height": 101,
+"width": 155
 },
 "type": "single",
 "display": "text-below",
 "sources": [
 {
 "id": "vtv1",
-"name": "VTV1",
+"name": "",
 "contents": [
 {
 "id": "vtv1",
@@ -29,20 +30,20 @@
 "streams": [
 {
 "id": "vtv1",
-"name": "",
+"name": "VTV1",
 "image": {
 "display": "contain",
 "shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv1-hd_w150_h150.png",
-"height": 80,
-"width": 110
+"url": "",
+"height": 101,
+"width": 155
 },
 "stream_links": [
 {
-"id": "vtv1-hd",
-"name": "VTV1 HD",
+"id": "vtv1",
+"name": "VTV1",
 "url": "https://livecdn.seenow.vn/mean/VTV1_HD/manifest.mpd",
-"type": "dash",
+"type": "hls",
 "default": true
 }
 ],
