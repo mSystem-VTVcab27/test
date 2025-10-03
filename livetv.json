@@ -82,21 +82,82 @@
 "url": ""
 }
 },
-        {
-          "id": "2",
-          "name": "VTV2",
-          "type": "single",
-          "display": "thumbnail-only",
-          "image": {
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV2_150x902_1675158864.webp",
-            "width": 150,
-            "height": 90,
-            "padding": 20
-          },
-          "remote_data": {
-            "url": "https://vtvgo.4share.me/live-source/2"
-          }
-        },
+{
+"id": "vtv2",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://vnepg.site/logos/2.png",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "vtv2",
+"name": "",
+"contents": [
+{
+"id": "vtv2",
+"name": "",
+"streams": [
+{
+"id": "vtv2",
+"name": "VTVprime",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",
+"height": 101,
+"width": 130
+},
+"stream_links": [
+{
+"id": "vtv2-hd",
+"name": "VTV2 HD",
+"url": "https://liveh12.seenow.vn/hls/VTV2_HD/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+},
+{
+"id": "vtv2",
+"name": "VTVgo",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",
+"height": 101,
+"width": 130
+},
+"stream_links": [
+{
+"id": "vtv2-hd",
+"name": "VTV2 HD",
+"url": "https://vtvgolive-ssaimh.vtvdigital.vn/tS1tmmwc1ULDuC088kmjJQ/1759478815/manifest/vtv2/master.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+      
         {
           "id": "3",
           "name": "VTV3",
@@ -912,60 +973,7 @@
 "url": ""
 }
 },
-{
-"id": "vtv2",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "vtv2",
-"name": "",
-"contents": [
-{
-"id": "vtv2",
-"name": "",
-"streams": [
-{
-"id": "vtv2",
-"name": "VTV2",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-vtv2_w150_h150.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "vtv2-hd",
-"name": "VTV2 HD",
-"url": "https://liveh12.seenow.vn/hls/VTV2_HD/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
+
 {
 "id": "vtv3",
 "name": "",
