@@ -789,116 +789,6 @@
 },
 
 {
-"id": "hanoi1",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://drive.google.com/uc?export=download&id=1FTK-VDTi98BW-vEb3m1E2NsmCKIc4PeW",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "hanoi1",
-"name": "",
-"contents": [
-{
-"id": "hanoi1",
-"name": "",
-"streams": [
-{
-"id": "hanoi1",
-"name": "HÀNỘI 1",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "hanoi1-hd",
-"name": "HÀNỘI 1 HD",
-"url": "https://liveh34.seenow.vn/hls/HANOI1TV/01.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
-
-{
-"id": "hanoi2",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "hanoi2",
-"name": "",
-"contents": [
-{
-"id": "hanoi2",
-"name": "",
-"streams": [
-{
-"id": "hanoi2",
-"name": "HÀNỘI 2",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "hanoi2-hd",
-"name": "HÀNỘI 2 HD",
-"url": "https://liveh34.seenow.vn/hls/HANOI2TV/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
-
-{
 "id": "ONEchannel",
 "name": "",
 "image": {
@@ -2041,6 +1931,116 @@
 "id": "sctv19-hd",
 "name": "SCTV19 HD",
 "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv19",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+"id": "hanoi1",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://drive.google.com/uc?export=download&id=1FTK-VDTi98BW-vEb3m1E2NsmCKIc4PeW",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "hanoi1",
+"name": "",
+"contents": [
+{
+"id": "hanoi1",
+"name": "",
+"streams": [
+{
+"id": "hanoi1",
+"name": "HÀNỘI 1",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-1_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "hanoi1-hd",
+"name": "HÀNỘI 1 HD",
+"url": "https://liveh34.seenow.vn/hls/HANOI1TV/01.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
+"id": "hanoi2",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://drive.google.com/uc?export=download&id=13lR60tce4YBTKyjghayoB9Zs3kbYEyWt",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "hanoi2",
+"name": "",
+"contents": [
+{
+"id": "hanoi2",
+"name": "",
+"streams": [
+{
+"id": "hanoi2",
+"name": "HÀNỘI 2",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-hanoi-2_w150_h150.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "hanoi2-hd",
+"name": "HÀNỘI 2 HD",
+"url": "https://liveh34.seenow.vn/hls/HANOI2TV/03.m3u8",
 "type": "hls",
 "default": true
 }
