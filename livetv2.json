@@ -1130,7 +1130,7 @@
       "channels": [
         {
           "id": "VTV1",
-          "name": "VTV1",
+          "name": "",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -1184,7 +1184,7 @@
         },
         {
           "id": "VTV2",
-          "name": "VTV2",
+          "name": "",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -1238,7 +1238,7 @@
         },
         {
           "id": "VTV3",
-          "name": "VTV3",
+          "name": "",
           "image": {
             "display": "cover",
             "shape": "square",
@@ -1295,7 +1295,7 @@
     
 {
     "id": "VTV4",
-    "name": "VTV4",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1350,7 +1350,7 @@
 
   {
     "id": "VT",
-    "name": "Vietnam Today",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1405,7 +1405,7 @@
 
 {
     "id": "VTV5",
-    "name": "VTV5",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1460,7 +1460,7 @@
 
 {
     "id": "VTV5TayNamBo",
-    "name": "VTV5 Tây Nam Bộ",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1515,7 +1515,7 @@
 
 {
     "id": "VTV5TayNguyen",
-    "name": "VTV5 Tây Nguyên",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1570,7 +1570,7 @@
 
 {
     "id": "VTV7",
-    "name": "VTV7",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1625,7 +1625,7 @@
 
 {
     "id": "VTV8",
-    "name": "VTV8",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1680,7 +1680,7 @@
 
   {
     "id": "VTV9",
-    "name": "VTV9",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1735,7 +1735,7 @@
 
   {
     "id": "VTVCanTho",
-    "name": "VTV Cần Thơ",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1790,7 +1790,7 @@
 
 {
     "id": "ANTV",
-    "name": "ANTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1844,7 +1844,7 @@
   },
   {
     "id": "QPVN",
-    "name": "QPVN",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1899,7 +1899,7 @@
 
 {
     "id": "HTV9",
-    "name": "HTV9",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -1954,7 +1954,7 @@
 
   {
     "id": "HTV7",
-    "name": "HTV7",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2009,7 +2009,7 @@
   
 {
     "id": "HTV3",
-    "name": "HTV3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2064,7 +2064,7 @@
 
 {
     "id": "HTV2",
-    "name": "HTV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2119,7 +2119,7 @@
 
     {
     "id": "HTV1",
-    "name": "HTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2175,7 +2175,7 @@
   
   {
     "id": "HTVKey",
-    "name": "HTV Key",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2230,7 +2230,7 @@
 
   {
     "id": "HTVTheThao",
-    "name": "HTV Thể Thao",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2447,7 +2447,7 @@
   },
 {
     "id": "BaRiaVungTau",
-    "name": "BRT - HTV Bà Rịa - Vũng Tàu",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2468,7 +2468,7 @@
             "streams": [
               {
                 "id": "bariavungtau",
-                "name": "Trung tâm HTV Bà Rịa - Vũng Tàu",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2501,7 +2501,7 @@
   },
 {
     "id": "HTVCThuanViet",
-    "name": "HTVC Thuần Việt",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2555,7 +2555,7 @@
   },
   {
     "id": "HTVCGiaDinh",
-    "name": "HTVC Gia Đình",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2610,7 +2610,7 @@
 
 {
     "id": "HTVCPhuNu",
-    "name": "HTVC Phụ Nữ",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2664,7 +2664,7 @@
   },
   {
     "id": "HTVCDuLich",
-    "name": "HTVC Du Lịch & Cuộc Sống",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2719,7 +2719,7 @@
   
   {
     "id": "HTVCPhim",
-    "name": "HTVC Phim",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2773,7 +2773,7 @@
   },
   {
     "id": "HTVCCaNhac",
-    "name": "HTVC Ca Nhạc",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2827,7 +2827,7 @@
   },
   {
     "id": "HTVCPlus",
-    "name": "HTVC+",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2882,7 +2882,7 @@
 
 {
     "id": "vtvcab1",
-    "name": "ON Vie GIẢITRÍ",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2937,7 +2937,7 @@
 
   {
     "id": "vtvcab19",
-    "name": "ON Vie DRAMAS",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -2992,7 +2992,7 @@
 
   {
     "id": "vtvcab4",
-    "name": "ON Movies",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3047,7 +3047,7 @@
 
     {
     "id": "vtvcab12",
-    "name": "ON Style TV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3101,7 +3101,7 @@
   },
     {
     "id": "vtvcab17",
-    "name": "ON Trending TV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3156,7 +3156,7 @@
 
 {
     "id": "SCTV2",
-    "name": "SCTV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3211,7 +3211,7 @@
 
   {
     "id": "SCTV6",
-    "name": "SCTV6",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3270,7 +3270,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://lh3.googleusercontent.com/pw/AP1GczP5jz4GLkFu7EqTzBnbgVlFZ2s-lvBItczkIyjs4pOcQ5kPPVXKYqMyhq5G_FWCh3oCDD_3g5oWVxMSjDI5cFAkuUx09P8BVPge36D9KIz8MkPyGBpHy6o8jH2uzYIldmeh1TihB0BoT0iIcCX-ekh1lw=w1344-h756-s-no?authuser=0",
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczOHmUoyyxoWxA2HwT0Zr4wFdn9f4eSy0eXaooAFOOPefejqOCHJiPz26pf5_EM_42hkc2OcC0CmDAltqMF24v00wVOZzcX3cFu2RLUJtkVUT4LUAKYqNCVxh6q7ot6zjlNdyfyAe-MNmZdzg0RV4PkJkg=w1683-h946-s-no?authuser=0",
       "height": 101,
       "width": 155
     },
@@ -3291,7 +3291,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://lh3.googleusercontent.com/pw/AP1GczP5jz4GLkFu7EqTzBnbgVlFZ2s-lvBItczkIyjs4pOcQ5kPPVXKYqMyhq5G_FWCh3oCDD_3g5oWVxMSjDI5cFAkuUx09P8BVPge36D9KIz8MkPyGBpHy6o8jH2uzYIldmeh1TihB0BoT0iIcCX-ekh1lw=w1344-h756-s-no?authuser=0",
+                  "url": "https://lh3.googleusercontent.com/pw/AP1GczOHmUoyyxoWxA2HwT0Zr4wFdn9f4eSy0eXaooAFOOPefejqOCHJiPz26pf5_EM_42hkc2OcC0CmDAltqMF24v00wVOZzcX3cFu2RLUJtkVUT4LUAKYqNCVxh6q7ot6zjlNdyfyAe-MNmZdzg0RV4PkJkg=w1683-h946-s-no?authuser=0",
                   "height": 101,
                   "width": 155
                 },
@@ -3321,7 +3321,7 @@
 
   {
     "id": "VinhLong1",
-    "name": "THVL1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3375,7 +3375,7 @@
   },
   {
     "id": "VinhLong2",
-    "name": "THVL2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3430,7 +3430,7 @@
   
   {
     "id": "VinhLong3",
-    "name": "THVL3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3484,7 +3484,7 @@
   },
   {
     "id": "VinhLong4",
-    "name": "THVL4",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3539,7 +3539,7 @@
 
 {
     "id": "VinhLong5",
-    "name": "THVL5",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3594,7 +3594,7 @@
 
   {
     "id": "HaNoi1",
-    "name": "HÀNỘI 1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3812,7 +3812,7 @@
   },
   {
     "id": "AnGiang1",
-    "name": "ATV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3866,7 +3866,7 @@
   },
   {
     "id": "AnGiang2",
-    "name": "ATV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3921,7 +3921,7 @@
 
 {
     "id": "AnGiang3",
-    "name": "ATV3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -3976,7 +3976,7 @@
 
   {
     "id": "BacNinh",
-    "name": "BTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4031,7 +4031,7 @@
   
   {
     "id": "CaoBang",
-    "name": "CRTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4085,7 +4085,7 @@
   },
   {
     "id": "CaMau",
-    "name": "CTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4140,7 +4140,7 @@
 
 {
     "id": "Can_Tho_1_HD",
-    "name": "Cần Thơ 1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4194,7 +4194,7 @@
   },
   {
     "id": "Can_Tho_2_HD",
-    "name": "Cần Thơ 2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4248,7 +4248,7 @@
   },
   {
     "id": "Can_Tho_3_HD",
-    "name": "Cần Thơ 3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4302,7 +4302,7 @@
   },
   {
     "id": "Da_Nang_1_HD",
-    "name": "DNRT1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4356,7 +4356,7 @@
   },
   {
     "id": "Da_Nang_2_HD",
-    "name": "DNRT2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4410,7 +4410,7 @@
   },
   {
     "id": "Dak_Lak_HD",
-    "name": "DRT",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4464,7 +4464,7 @@
   },
   {
     "id": "Dien_Bien_HD",
-    "name": "ĐTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4518,7 +4518,7 @@
   },
   {
     "id": "Dong_Nai_1_HD",
-    "name": "ĐNNRTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4572,7 +4572,7 @@
   },
   {
     "id": "Dong_Nai_2_HD",
-    "name": "ĐNNRTV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4627,7 +4627,7 @@
 
 {
     "id": "Dong_Nai_3_HD",
-    "name": "ĐNNRTV3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4660,7 +4660,7 @@
                   {
                     "id": "dong_nai_3",
                     "name": "Đồng Nai 3",
-                    "url": "https://sgn-fpt-live-006-livecdn-vthcm-vnd.vieon.vn/7b28f094a4eac1539c57258cf95cd35f/1759291311000/livetv/enc/43ec53af7a809687be1a97622aec2eff/index.m3u8",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban2/dongnai3/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4682,7 +4682,7 @@
 
   {
     "id": "Dong_Thap_1_HD",
-    "name": "THĐT1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4736,7 +4736,7 @@
   },
   {
     "id": "Dong_Thap_2_Mien_Tay_HD",
-    "name": "Miền Tây - THĐT2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4790,7 +4790,7 @@
   },
   {
     "id": "Gia_Lai_HD",
-    "name": "GTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4844,7 +4844,7 @@
   },
   {
     "id": "Ha_Tinh_HD",
-    "name": "BHT TV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4898,7 +4898,7 @@
   },
   {
     "id": "Hai_Phong_HD",
-    "name": "THP",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -4953,7 +4953,7 @@
 
   {
     "id": "Hai_Phong_2",
-    "name": "THP+",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5009,7 +5009,7 @@
 
   {
     "id": "Hai_Phong_3_HD",
-    "name": "THP3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5063,7 +5063,7 @@
   },
   {
     "id": "Hue_HD",
-    "name": "HueTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5117,7 +5117,7 @@
   },
   {
     "id": "Hung_Yen",
-    "name": "HYTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5171,7 +5171,7 @@
   },
   {
     "id": "Khanh_Hoa_HD",
-    "name": "KTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5225,7 +5225,7 @@
   },
   {
     "id": "Khanh_Hoa_1_HD",
-    "name": "KTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5279,7 +5279,7 @@
   },
   {
     "id": "Lai_Chau_HD",
-    "name": "LTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5333,7 +5333,7 @@
   },
   {
     "id": "Lam_Dong_1_HD",
-    "name": "LTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5387,7 +5387,7 @@
   },
   {
     "id": "Lam_Dong_2_HD",
-    "name": "LTV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5441,7 +5441,7 @@
   },
   {
     "id": "Lam_Dong_3_HD",
-    "name": "LTV3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5496,7 +5496,7 @@
 
   {
     "id": "Lang_Son_HD",
-    "name": "LSTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5550,7 +5550,7 @@
   },
   {
     "id": "Lao_Cai_HD",
-    "name": "THLC",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5604,7 +5604,7 @@
   },
   {
     "id": "Nghe_An_HD",
-    "name": "NTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5658,7 +5658,7 @@
   },
   {
     "id": "Ninh_Binh_HD",
-    "name": "NBTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5712,7 +5712,7 @@
   },
   {
     "id": "Phu_Tho_HD",
-    "name": "PTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5766,7 +5766,7 @@
   },
   {
     "id": "Quang_Tri_HD",
-    "name": "QTTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5820,7 +5820,7 @@
   },
   {
     "id": "Quang_Ngai_HD",
-    "name": "QNgTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5874,7 +5874,7 @@
   },
   {
     "id": "Quang_Ninh_1_HD",
-    "name": "QTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5928,7 +5928,7 @@
   },
   {
     "id": "Quang_Ninh_3_HD",
-    "name": "QTV3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -5982,7 +5982,7 @@
   },
   {
     "id": "Son_La",
-    "name": "STV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6036,7 +6036,7 @@
   },
   {
     "id": "Tay_Ninh_1",
-    "name": "TTV1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6090,7 +6090,7 @@
   },
   {
     "id": "Tay_Ninh_2_HD",
-    "name": "TTV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6144,7 +6144,7 @@
   },
   {
     "id": "Thai_Nguyen_HD",
-    "name": "TNTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6198,7 +6198,7 @@
   },
   {
     "id": "Thanh_Hoa",
-    "name": "TTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6253,7 +6253,7 @@
 
 {
     "id": "Tuyen_Quang_HD",
-    "name": "TTV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6308,7 +6308,7 @@
 
   {
     "id": "vov2",
-    "name": "VOV2",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6363,7 +6363,7 @@
 
   {
     "id": "vov3",
-    "name": "VOV3",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6418,7 +6418,7 @@
 
 {
     "id": "vovgthn",
-    "name": "VOV Giao thông Hà Nội",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6473,7 +6473,7 @@
 
 {
     "id": "vovgthcm",
-    "name": "VOV Giao thông HCM",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6854,7 +6854,7 @@
 
 {
     "id": "boxmovie1",
-    "name": "Box Movie 1",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6908,7 +6908,7 @@
   },
   {
     "id": "hollywoodclassics",
-    "name": "Hollywood Classics",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -6962,7 +6962,7 @@
   },
   {
     "id": "inthebox",
-    "name": "In The Box",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7016,7 +7016,7 @@
   },
   {
     "id": "boxhits",
-    "name": "Box Hits",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7070,7 +7070,7 @@
   },
   {
     "id": "manhd",
-    "name": "Man",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7124,7 +7124,7 @@
   },
   {
     "id": "musicbox",
-    "name": "Music Box",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7178,7 +7178,7 @@
   },
   {
     "id": "drfithd",
-    "name": "Dr.Fit",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7232,7 +7232,7 @@
   },
   {
     "id": "happykids",
-    "name": "Happy Kids",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7286,7 +7286,7 @@
   },
   {
     "id": "planetearthhd",
-    "name": "Planet Earth",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7340,7 +7340,7 @@
   },
   {
     "id": "woman",
-    "name": "Woman",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7395,7 +7395,7 @@
 
   {
     "id": "CGTN",
-    "name": "CGTN",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -7449,7 +7449,7 @@
   },
   {
     "id": "CGTNDocumentary",
-    "name": "CGTN Documentary",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
