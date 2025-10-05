@@ -5096,7 +5096,7 @@
                   {
                     "id": "tay_ninh_1",
                     "name": "Tây Ninh 1",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/72/index.m3u8",
+                    "url": "https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
