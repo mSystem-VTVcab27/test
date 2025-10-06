@@ -6621,7 +6621,7 @@
                   {
                     "id": "cctv4",
                     "name": "CCTV4",
-                    "url": "https://youtu.be/SdzewdkJa-o",
+                    "url": "hhttp://203.80.165.14:30168/stream/channelid/257019769?profile=pass/playlist.m3u8",
                     "type": "hls",
                     "default": true
                   }
