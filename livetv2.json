@@ -4,6 +4,62 @@
       "id": "vtvdth2",
       "name": "Chương trình 2",
       "channels": [
+
+{
+    "id": "mDigitalTHUNGHIEM",
+    "name": "mDigital THU NGHIEM",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczMLlkt3raMwCI5BXTGI8XJuPjfiFKB2jYAR-HkZUQqUZyqSc3oDZnocMwZ9wAB5ed8biOE0Fh2enhy6m-fJ0BBOcyhJlmi2gQiOMmSVceef9TrGNJIs4zL7tJlr8zQn6q3ZenY1PvorGHtqX01iIG9Rpw=w1681-h946-s-no?authuser=0",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "mdigital",
+        "name": "mDigital THU NGHIEM",
+        "contents": [
+          {
+            "id": "mdigital",
+            "name": "mDigital THU NGHIEM",
+            "streams": [
+              {
+                "id": "mdigital",
+                "name": "mDigital THU NGHIEM",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://lh3.googleusercontent.com/pw/AP1GczMLlkt3raMwCI5BXTGI8XJuPjfiFKB2jYAR-HkZUQqUZyqSc3oDZnocMwZ9wAB5ed8biOE0Fh2enhy6m-fJ0BBOcyhJlmi2gQiOMmSVceef9TrGNJIs4zL7tJlr8zQn6q3ZenY1PvorGHtqX01iIG9Rpw=w1681-h946-s-no?authuser=0",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "mdigital-hd",
+                    "name": "mDigital THU NGHIEM HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
         {
           "id": "VTV1",
           "name": "",
@@ -2632,6 +2688,7 @@
     },
     "type": "single",
     "display": "text-below",
+    "enable_detail": true,
     "sources": [
       {
         "id": "vinhlong1",
@@ -2656,6 +2713,27 @@
                     "id": "vinhlong1-hd",
                     "name": "Vĩnh Long 1 HD",
                     "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              },
+              {
+                "id": "64",
+                "name": "SD",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://vnepg.site/logos/75.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "thvl1-sd",
+                    "name": "THVL1SD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/967832137/channel.mp4",
                     "type": "hls",
                     "default": true
                   }
@@ -6586,13 +6664,393 @@
     }
   },
 
-{
-    "id": "cctv4",
-    "name": "CCTV4",
+
+  {
+    "id": "ChannelV",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+      "url": "http://203.80.165.14:30168/imagecache/161",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "channelv",
+        "name": "CHANNEL V",
+        "contents": [
+          {
+            "id": "channelv",
+            "name": "CHANNEL V",
+            "streams": [
+              {
+                "id": "channelv",
+                "name": "CHANNEL V",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/161",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "channelv-hd",
+                    "name": "CHANNEL V HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1805341817/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
+    "id": "AnimalPlanet",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://stmify.com/wp-content/uploads/2024/08/9-s-300x169.webp",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "animalplanet",
+        "name": "Animal Planet",
+        "contents": [
+          {
+            "id": "animalplanet",
+            "name": "Animal Planet",
+            "streams": [
+              {
+                "id": "animalplanet",
+                "name": "Animal Planet",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://stmify.com/wp-content/uploads/2024/08/9-s-300x169.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "animalplanet-hd",
+                    "name": "Animal Planet HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1719861734/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "AustraliaPlus",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/254",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "australiaplus",
+        "name": "Australia Plus",
+        "contents": [
+          {
+            "id": "australiaplus",
+            "name": "Australia Plus",
+            "streams": [
+              {
+                "id": "australiaplus",
+                "name": "Australia Plus",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/254",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "australiaplus-hd",
+                    "name": "Australia Plus HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/250243687/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "AXN",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/73",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "axn",
+        "name": "AXN",
+        "contents": [
+          {
+            "id": "axn",
+            "name": "AXN",
+            "streams": [
+              {
+                "id": "axn",
+                "name": "AXN",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/73",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "axn-hd",
+                    "name": "AXN HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1298410786/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "BBC",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/184",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "bbc",
+        "name": "BBC",
+        "contents": [
+          {
+            "id": "bbc",
+            "name": "BBC",
+            "streams": [
+              {
+                "id": "bbc",
+                "name": "BBC",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/184",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "bbc-hd",
+                    "name": "BBC HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/406904796/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CartoonNetwork",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/144",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cartoonnetwork",
+        "name": "Cartoon Network",
+        "contents": [
+          {
+            "id": "cartoonnetwork",
+            "name": "Cartoon Network",
+            "streams": [
+              {
+                "id": "cartoonnetwork",
+                "name": "Cartoon Network",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/144",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cartoonnetwork-hd",
+                    "name": "Cartoon Network HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1009238977/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV2",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/61",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv2",
+        "name": "CCTV2",
+        "contents": [
+          {
+            "id": "cctv2",
+            "name": "CCTV2",
+            "streams": [
+              {
+                "id": "cctv2",
+                "name": "CCTV2",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/61",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv2-hd",
+                    "name": "CCTV2 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1514959795/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV4",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/136",
       "height": 101,
       "width": 155
     },
@@ -6601,27 +7059,351 @@
     "sources": [
       {
         "id": "cctv4",
-        "name": "",
+        "name": "CCTV4",
         "contents": [
           {
             "id": "cctv4",
-            "name": "",
+            "name": "CCTV4",
             "streams": [
               {
                 "id": "cctv4",
-                "name": "",
+                "name": "CCTV4",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+                  "url": "http://203.80.165.14:30168/imagecache/136",
                   "height": 101,
                   "width": 155
                 },
                 "stream_links": [
                   {
-                    "id": "cctv4",
-                    "name": "CCTV4",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794/ksport1.mp4",
+                    "id": "cctv4-hd",
+                    "name": "CCTV4 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/257019769/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV5",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/236",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv5",
+        "name": "CCTV5",
+        "contents": [
+          {
+            "id": "cctv5",
+            "name": "CCTV5",
+            "streams": [
+              {
+                "id": "cctv5",
+                "name": "CCTV5",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/236",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv5-hd",
+                    "name": "CCTV5 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/232069450/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV5Plus",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/180",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv5plus",
+        "name": "CCTV5+",
+        "contents": [
+          {
+            "id": "cctv5plus",
+            "name": "CCTV5+",
+            "streams": [
+              {
+                "id": "cctv5plus",
+                "name": "CCTV5+",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/180",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv5plus-hd",
+                    "name": "CCTV5+ HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1436719652/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV7",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/21",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv7",
+        "name": "CCTV7",
+        "contents": [
+          {
+            "id": "cctv7",
+            "name": "CCTV7",
+            "streams": [
+              {
+                "id": "cctv7",
+                "name": "CCTV7",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/21",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv7-hd",
+                    "name": "CCTV7 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/708061610/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV10",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/153",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv10",
+        "name": "CCTV10",
+        "contents": [
+          {
+            "id": "cctv10",
+            "name": "CCTV10",
+            "streams": [
+              {
+                "id": "cctv10",
+                "name": "CCTV10",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/153",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv10-hd",
+                    "name": "CCTV10 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/348133899/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV12",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/197",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv12",
+        "name": "CCTV12",
+        "contents": [
+          {
+            "id": "cctv12",
+            "name": "CCTV12",
+            "streams": [
+              {
+                "id": "cctv12",
+                "name": "CCTV12",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/197",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv12-hd",
+                    "name": "CCTV12 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/963025100/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV13",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://203.80.165.14:30168/imagecache/255",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv13",
+        "name": "CCTV13",
+        "contents": [
+          {
+            "id": "cctv13",
+            "name": "CCTV13",
+            "streams": [
+              {
+                "id": "cctv13",
+                "name": "CCTV13",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "http://203.80.165.14:30168/imagecache/255",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv13-hd",
+                    "name": "CCTV13 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/538562051/channel.mp4",
                     "type": "hls",
                     "default": true
                   }
