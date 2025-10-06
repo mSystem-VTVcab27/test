@@ -6664,14 +6664,13 @@
     }
   },
 
-
   {
-    "id": "ChannelV",
+    "id": "XingKong",
     "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://app.ksmctv.com/Content/MCTV/Image/Channel/GtPMTlogo.png",
+      "url": "https://zuiai.tv/zb_users/upload/2025/5/2025052129205711.jpg",
       "height": 101,
       "width": 155
     },
@@ -6679,28 +6678,28 @@
     "display": "text-below",
     "sources": [
       {
-        "id": "channelv",
+        "id": "xingkong",
         "name": "",
         "contents": [
           {
-            "id": "channelv",
+            "id": "xingkong",
             "name": "",
             "streams": [
               {
-                "id": "channelv",
+                "id": "xingkong",
                 "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://app.ksmctv.com/Content/MCTV/Image/Channel/GtPMTlogo.png",
+                  "url": "https://zuiai.tv/zb_users/upload/2025/5/2025052129205711.jpg",
                   "height": 101,
                   "width": 155
                 },
                 "stream_links": [
                   {
-                    "id": "channelv-hd",
-                    "name": "CHANNEL V HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1805341817/channel.mp4",
+                    "id": "xingkong-hd",
+                    "name": "Xing Kong HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1305100610/channel.mp4",
                     "type": "hls",
                     "default": true
                   }
@@ -6720,7 +6719,7 @@
     }
   },
 
-{
+  {
     "id": "AnimalPlanet",
     "name": "",
     "image": {
@@ -6774,6 +6773,281 @@
       "url": ""
     }
   },
+
+  {
+    "id": "Discovery",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://static1.squarespace.com/static/616632df4479e534656ecf49/t/618b30c7faf9664734210cb8/1636511947458/Global+Trekker+%282%29.jpg?format=1500w",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "discovery",
+        "name": "",
+        "contents": [
+          {
+            "id": "discovery",
+            "name": "",
+            "streams": [
+              {
+                "id": "discovery",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://static1.squarespace.com/static/616632df4479e534656ecf49/t/618b30c7faf9664734210cb8/1636511947458/Global+Trekker+%282%29.jpg?format=1500w",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "discovery-hd",
+                    "name": "Discovery HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1498694311/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "TrueSports4",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://static.wikia.nocookie.net/logos/images/a/a5/True_Sports_4.png/revision/latest?cb=20240416004545&path-prefix=vi",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "truesports4",
+        "name": "",
+        "contents": [
+          {
+            "id": "truesports4",
+            "name": "",
+            "streams": [
+              {
+                "id": "truesports4",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://static.wikia.nocookie.net/logos/images/a/a5/True_Sports_4.png/revision/latest?cb=20240416004545&path-prefix=vi",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "truesports4-hd",
+                    "name": "True Sports 4 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1363111981/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "ChannelV",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://18001166.vn/data/upload/kenh-channel-v.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "channelv",
+        "name": "",
+        "contents": [
+          {
+            "id": "channelv",
+            "name": "",
+            "streams": [
+              {
+                "id": "channelv",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://18001166.vn/data/upload/kenh-channel-v.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "channelv-hd",
+                    "name": "CHANNEL V HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1805341817/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "History",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch223_160_115",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "history",
+        "name": "",
+        "contents": [
+          {
+            "id": "history",
+            "name": "",
+            "streams": [
+              {
+                "id": "history",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch223_160_115",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "history-hd",
+                    "name": "History HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1058326187/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "LoveNature",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch217_160_115",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "lovenature",
+        "name": "",
+        "contents": [
+          {
+            "id": "lovenature",
+            "name": "",
+            "streams": [
+              {
+                "id": "lovenature",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch217_160_115",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "lovenature-hd",
+                    "name": "Love Nature HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1949998148/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "AustraliaPlus",
     "name": "",
@@ -6990,6 +7264,7 @@
       "url": ""
     }
   },
+
   {
     "id": "CCTV2",
     "name": "",
@@ -7026,60 +7301,6 @@
                     "id": "cctv2-hd",
                     "name": "CCTV2 HD",
                     "url": "http://203.80.165.14:30168/stream/channelid/1514959795/channel.mp4",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "CCTV4",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "cctv4",
-        "name": "",
-        "contents": [
-          {
-            "id": "cctv4",
-            "name": "",
-            "streams": [
-              {
-                "id": "cctv4",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "cctv4-hd",
-                    "name": "CCTV4 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/257019769/channel.mp4",
                     "type": "hls",
                     "default": true
                   }
@@ -7422,6 +7643,60 @@
       "url": ""
     }
   },
+  {
+    "id": "CCTV4",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv4",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv4",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv4",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv4-hd",
+                    "name": "CCTV4 HD",
+                    "url": "http://203.80.165.14:30168/stream/channelid/257019769/channel.mp4",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
 
   {
     "id": "CGTN",
@@ -7531,168 +7806,7 @@
       "url": ""
           }
         },
-        {
-    "id": "Discovery",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://static1.squarespace.com/static/616632df4479e534656ecf49/t/618b30c7faf9664734210cb8/1636511947458/Global+Trekker+%282%29.jpg?format=1500w",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "discovery",
-        "name": "",
-        "contents": [
-          {
-            "id": "discovery",
-            "name": "",
-            "streams": [
-              {
-                "id": "discovery",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://static1.squarespace.com/static/616632df4479e534656ecf49/t/618b30c7faf9664734210cb8/1636511947458/Global+Trekker+%282%29.jpg?format=1500w",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "discovery-hd",
-                    "name": "Discovery HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1498694311/channel.mp4",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "History",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch223_160_115",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "history",
-        "name": "",
-        "contents": [
-          {
-            "id": "history",
-            "name": "",
-            "streams": [
-              {
-                "id": "history",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch223_160_115",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "history-hd",
-                    "name": "History HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1058326187/channel.mp4",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "LoveNature",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch217_160_115",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "lovenature",
-        "name": "",
-        "contents": [
-          {
-            "id": "lovenature",
-            "name": "",
-            "streams": [
-              {
-                "id": "lovenature",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch217_160_115",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "lovenature-hd",
-                    "name": "Love Nature HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1949998148/channel.mp4",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
+
   {
     "id": "SPOTV2",
     "name": "",
@@ -7746,115 +7860,9 @@
     "related": {
       "url": ""
     }
-  },
-  {
-    "id": "TrueSports4",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://static.wikia.nocookie.net/logos/images/a/a5/True_Sports_4.png/revision/latest?cb=20240416004545&path-prefix=vi",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "truesports4",
-        "name": "",
-        "contents": [
-          {
-            "id": "truesports4",
-            "name": "",
-            "streams": [
-              {
-                "id": "truesports4",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://static.wikia.nocookie.net/logos/images/a/a5/True_Sports_4.png/revision/latest?cb=20240416004545&path-prefix=vi",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "truesports4-hd",
-                    "name": "True Sports 4 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1363111981/channel.mp4",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "XingKong",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://zuiai.tv/zb_users/upload/2025/5/2025052129205711.jpg",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "xingkong",
-        "name": "",
-        "contents": [
-          {
-            "id": "xingkong",
-            "name": "",
-            "streams": [
-              {
-                "id": "xingkong",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://zuiai.tv/zb_users/upload/2025/5/2025052129205711.jpg",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "xingkong-hd",
-                    "name": "Xing Kong HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1305100610/channel.mp4",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
   }
+  
+  
       ],
       "display": "vertical",
       "grid_columns": 5,
