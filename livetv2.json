@@ -6621,7 +6621,7 @@
                   {
                     "id": "cctv4",
                     "name": "CCTV4",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794?profile=pass",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794/ksport1.mp4",
                     "type": "hls",
                     "default": true
                   }
