@@ -6586,13 +6586,68 @@
     }
   },
 
+{
+    "id": "cctv4",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv4",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv4",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv4",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv4",
+                    "name": "CCTV4",
+                    "url": "https://youtu.be/SdzewdkJa-o",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "CGTN",
     "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "http://203.80.165.14:30168/imagecache/290",
+      "url": "https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg",
       "height": 101,
       "width": 155
     },
@@ -6613,7 +6668,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "http://203.80.165.14:30168/imagecache/290",
+                  "url": "https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg",
                   "height": 101,
                   "width": 155
                 },
@@ -6646,7 +6701,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "http://203.80.165.14:30168/imagecache/293",
+      "url": "https://stmify.com/wp-content/uploads/2025/04/593-s.webp",
       "height": 101,
       "width": 155
     },
@@ -6667,7 +6722,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "http://203.80.165.14:30168/imagecache/293",
+                  "url": "https://stmify.com/wp-content/uploads/2025/04/593-s.webp",
                   "height": 101,
                   "width": 155
                 },
