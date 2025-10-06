@@ -7,7 +7,7 @@
 
 {
     "id": "mDigitalTHUNGHIEM",
-    "name": "mDigital THU NGHIEM",
+    "name": "THU NGHIEM",
     "image": {
       "display": "cover",
       "shape": "square",
@@ -20,15 +20,15 @@
     "sources": [
       {
         "id": "mdigital",
-        "name": "mDigital THU NGHIEM",
+        "name": "",
         "contents": [
           {
             "id": "mdigital",
-            "name": "mDigital THU NGHIEM",
+            "name": "",
             "streams": [
               {
                 "id": "mdigital",
-                "name": "mDigital THU NGHIEM",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -2700,7 +2700,7 @@
             "streams": [
               {
                 "id": "vinhlong1",
-                "name": "Báo và Phát thanh, Truyền hình Vĩnh Long",
+                "name": "HD",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -6735,15 +6735,15 @@
     "sources": [
       {
         "id": "animalplanet",
-        "name": "Animal Planet",
+        "name": "",
         "contents": [
           {
             "id": "animalplanet",
-            "name": "Animal Planet",
+            "name": "",
             "streams": [
               {
                 "id": "animalplanet",
-                "name": "Animal Planet",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -6789,15 +6789,15 @@
     "sources": [
       {
         "id": "australiaplus",
-        "name": "Australia Plus",
+        "name": "",
         "contents": [
           {
             "id": "australiaplus",
-            "name": "Australia Plus",
+            "name": "",
             "streams": [
               {
                 "id": "australiaplus",
-                "name": "Australia Plus",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -6843,15 +6843,15 @@
     "sources": [
       {
         "id": "axn",
-        "name": "AXN",
+        "name": "",
         "contents": [
           {
             "id": "axn",
-            "name": "AXN",
+            "name": "",
             "streams": [
               {
                 "id": "axn",
-                "name": "AXN",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -6897,15 +6897,15 @@
     "sources": [
       {
         "id": "bbc",
-        "name": "BBC",
+        "name": "",
         "contents": [
           {
             "id": "bbc",
-            "name": "BBC",
+            "name": "",
             "streams": [
               {
                 "id": "bbc",
-                "name": "BBC",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -6951,15 +6951,15 @@
     "sources": [
       {
         "id": "cartoonnetwork",
-        "name": "Cartoon Network",
+        "name": "",
         "contents": [
           {
             "id": "cartoonnetwork",
-            "name": "Cartoon Network",
+            "name": "",
             "streams": [
               {
                 "id": "cartoonnetwork",
-                "name": "Cartoon Network",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7005,15 +7005,15 @@
     "sources": [
       {
         "id": "cctv2",
-        "name": "CCTV2",
+        "name": "",
         "contents": [
           {
             "id": "cctv2",
-            "name": "CCTV2",
+            "name": "",
             "streams": [
               {
                 "id": "cctv2",
-                "name": "CCTV2",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7059,15 +7059,15 @@
     "sources": [
       {
         "id": "cctv4",
-        "name": "CCTV4",
+        "name": "",
         "contents": [
           {
             "id": "cctv4",
-            "name": "CCTV4",
+            "name": "",
             "streams": [
               {
                 "id": "cctv4",
-                "name": "CCTV4",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7113,15 +7113,15 @@
     "sources": [
       {
         "id": "cctv5",
-        "name": "CCTV5",
+        "name": "",
         "contents": [
           {
             "id": "cctv5",
-            "name": "CCTV5",
+            "name": "",
             "streams": [
               {
                 "id": "cctv5",
-                "name": "CCTV5",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7167,15 +7167,15 @@
     "sources": [
       {
         "id": "cctv5plus",
-        "name": "CCTV5+",
+        "name": "",
         "contents": [
           {
             "id": "cctv5plus",
-            "name": "CCTV5+",
+            "name": "",
             "streams": [
               {
                 "id": "cctv5plus",
-                "name": "CCTV5+",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7221,15 +7221,15 @@
     "sources": [
       {
         "id": "cctv7",
-        "name": "CCTV7",
+        "name": "",
         "contents": [
           {
             "id": "cctv7",
-            "name": "CCTV7",
+            "name": "",
             "streams": [
               {
                 "id": "cctv7",
-                "name": "CCTV7",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7275,15 +7275,15 @@
     "sources": [
       {
         "id": "cctv10",
-        "name": "CCTV10",
+        "name": "",
         "contents": [
           {
             "id": "cctv10",
-            "name": "CCTV10",
+            "name": "",
             "streams": [
               {
                 "id": "cctv10",
-                "name": "CCTV10",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7329,15 +7329,15 @@
     "sources": [
       {
         "id": "cctv12",
-        "name": "CCTV12",
+        "name": "",
         "contents": [
           {
             "id": "cctv12",
-            "name": "CCTV12",
+            "name": "",
             "streams": [
               {
                 "id": "cctv12",
-                "name": "CCTV12",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
@@ -7383,15 +7383,15 @@
     "sources": [
       {
         "id": "cctv13",
-        "name": "CCTV13",
+        "name": "",
         "contents": [
           {
             "id": "cctv13",
-            "name": "CCTV13",
+            "name": "",
             "streams": [
               {
                 "id": "cctv13",
-                "name": "CCTV13",
+                "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
