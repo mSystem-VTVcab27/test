@@ -42,7 +42,7 @@
                         {
                           "id": "vtv1",
                           "name": "VTV1",
-                          "url": "http://203.80.165.14:30168/stream/channelid/1527025786/channel.avi",
+                          "url": "http://203.80.165.14:30168/stream/channelid/1527025786/channel.m3u8",
                           "type": "hls",
                           "default": true
                         }
