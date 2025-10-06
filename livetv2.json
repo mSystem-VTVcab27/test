@@ -6718,11 +6718,5 @@
     "interval_hours": 24,
     "retry_count": 3,
     "retry_delay_seconds": 60
-  },
-  "notice": {
-    "id": "notice-1",
-    "link": "https://www.youtube.com/@onmtvmsystem",
-    "text": "YT mSystem",
-    "closeable": true
   }
 }
