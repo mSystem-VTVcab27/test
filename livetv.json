@@ -42,7 +42,7 @@
                         {
                           "id": "vtv1",
                           "name": "VTV1",
-                          "url": "http://203.80.165.14:30168/stream/channelid/1527025786/channel.mp4",
+                          "url": "https://livecdn.seenow.vn/mean/VTV1_HD/manifest.mpd",
                           "type": "hls",
                           "default": true
                         }
@@ -383,7 +383,7 @@
 {
 "id": "6",
 "name": "VTV4 HD",
-"url": "http://203.80.165.14:30168/stream/channelid/1532072207/channel.mp4",
+"url": "http://203.80.165.14:30168/stream/channelid/1532072207.mp4",
 "type": "hls",
 "default": true
 }
