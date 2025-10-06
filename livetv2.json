@@ -6621,7 +6621,7 @@
                   {
                     "id": "cctv4",
                     "name": "CCTV4",
-                    "url": "http://203.80.165.14:30168/stream/channelid/257019769/playlist.m3u8",
+                    "url": "http://203.80.165.14:30168/257019769.m3u",
                     "type": "hls",
                     "default": true
                   }
