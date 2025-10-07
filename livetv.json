@@ -1290,60 +1290,6 @@
 }
 },
 
-{
-"id": "sctv3",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://vnepg.site/logos/48.png",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "sctv3",
-"name": "",
-"contents": [
-{
-"id": "sctv3",
-"name": "",
-"streams": [
-{
-"id": "sctv3",
-"name": "SCTV3",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20121214014251im_/http://tv24.vn/WebMedia/Channels/10/bsctv3.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv3-hd",
-"name": "SCTV3 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV3/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
 
 {
 "id": "sctv4",
@@ -1566,61 +1512,6 @@
 },
 
 {
-"id": "sctv9",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://lh3.googleusercontent.com/pw/AP1GczPtiKQ0fXRVFxhj6YGU6CnH_DqbhtmG-Wqi5GtE6dn2PV0nPROYi_LuWpJ-Ro75NWel4uj1-4rKZM9NM30YQsae0HLewpWRCa7gCZ_bHTxm_uMJD4hxHGZrOQTRrsFgbMLVRokcesQc3okzvESdMsCnjA=w1683-h946-s-no?authuser=0",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "sctv9",
-"name": "",
-"contents": [
-{
-"id": "sctv9",
-"name": "",
-"streams": [
-{
-"id": "sctv9",
-"name": "SCTV9",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20121214020716im_/http://tv24.vn/WebMedia/Channels/14/sctv8.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv9-hd",
-"name": "SCTV9 HD",
-"url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
-
-{
 "id": "sctv11",
 "name": "",
 "image": {
@@ -1711,116 +1602,6 @@
 "id": "sctv12-hd",
 "name": "SCTV12 HD",
 "url": "https://liveh34.seenow.vn/hls/SCTV12/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
-
-{
-"id": "sctv13",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://vnepg.site/logos/56.png",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "sctv13",
-"name": "",
-"contents": [
-{
-"id": "sctv13",
-"name": "",
-"streams": [
-{
-"id": "sctv13",
-"name": "SCTV13",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20121122050643im_/http://tv24.vn/WebMedia/Channels/18/sctv13.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv13-hd",
-"name": "SCTV13 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV13/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
-
-{
-"id": "sctv14",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://vnepg.site/logos/57.png",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"sources": [
-{
-"id": "sctv14",
-"name": "",
-"contents": [
-{
-"id": "sctv14",
-"name": "",
-"streams": [
-{
-"id": "sctv14",
-"name": "SCTV14",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20121122050643im_/http://tv24.vn/WebMedia/Channels/19/sctv14.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv14-hd",
-"name": "SCTV14 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV14/03.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2095,7 +1876,7 @@
                   {
                     "id": "htv9-hd",
                     "name": "HTV9 HD",
-                    "url": "https://list.iptvcat.com/my_list/s/cbfd986028a82faa5e2f82acc4b26238.m3u8",
+                    "url": "https://list.iptvcat.com/my_list/s/cbfd986028a82faa5e2f82acc4b26238.mp4",
                     "type": "hls",
                     "default": true
                   }
