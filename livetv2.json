@@ -4854,7 +4854,7 @@
                   {
                     "id": "lam_dong_2-hd",
                     "name": "Lâm Đồng 2 HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m3u8",
+                    "url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w1307944871_b3128000_sleng.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7590,6 +7590,117 @@
       "url": ""
     }
   },
+
+  [
+  {
+    "id": "CCTV4_Americas",
+    "name": "中文国际美洲",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv4_americas",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv4_americas",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv4_americas",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv4_americas_hd",
+                    "name": "CCTV 4 中文国际美洲 HD",
+                    "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "CCTV4_Europe",
+    "name": "中文国际欧洲",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://stmify.com/wp-content/uploads/2025/02/501-s.webp",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv4_europe",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv4_europe",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv4_europe",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv4_europe_hd",
+                    "name": "CCTV 4 中文国际欧洲 HD",
+                    "url": "https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5OTAzMzMwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jY3R2NC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJiZjQ2MTgwMGE2MjM1NmRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMzhdfQ==.ir6YJh8FWkF_E8SHFAxRF3W-lSEtDEqbZa6IHM1kAPEXh8sMmm5cZhzHhiHsecz2hkHqTmTSd1zgB48srJi4SQ==/live/eds/cctv4/browser-HLS8/cctv4-avc1_3000000=16.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  }
+],
 
   {
     "id": "CGTN",
