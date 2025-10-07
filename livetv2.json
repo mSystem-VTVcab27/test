@@ -7300,7 +7300,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://03-us.dajitv.net/live/cctv1/cctv1.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
+                    "url": "https://03-us.dajitv.net/live/xuandongkatong/xuandongkatong.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
                     "type": "hls",
                     "default": true
                   }
@@ -7698,6 +7698,62 @@
       "url": ""
     }
   },
+
+{
+    "id": "CCTV17",
+    "name": "https://p1.img.cctvpic.com/photoworkspace/2019/07/31/2019073115511885633.jpg",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv17",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv17",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv17",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv17-hd",
+                    "name": "CCTV-17 农村",
+                    "url": "https://03-us.dajitv.net/live/cctv17/cctv17.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+},
+
   {
     "id": "CCTV4",
     "name": "",
