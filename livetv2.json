@@ -7701,11 +7701,11 @@
 
 {
     "id": "CCTV17",
-    "name": "https://p1.img.cctvpic.com/photoworkspace/2019/07/31/2019073115511885633.jpg",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "",
+      "url": "https://p1.img.cctvpic.com/photoworkspace/2019/07/31/2019073115511885633.jpg",
       "height": 101,
       "width": 155
     },
