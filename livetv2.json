@@ -40,7 +40,7 @@
                   {
                     "id": "mdigital-hd",
                     "name": "mDigital THU NGHIEM HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794?profile=pass/channel.mp3",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794?profile=pass/channel.mp2",
                     "type": "hls",
                     "default": true
                   }
