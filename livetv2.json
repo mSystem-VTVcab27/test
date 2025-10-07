@@ -4854,7 +4854,7 @@
                   {
                     "id": "lam_dong_2-hd",
                     "name": "Lâm Đồng 2 HD",
-                    "url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w781803188_b964000_sleng.m3u8",
+                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/50/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
