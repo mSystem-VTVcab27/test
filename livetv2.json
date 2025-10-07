@@ -6890,7 +6890,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://18001166.vn/data/upload/kenh-channel-v.png",
+      "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-channel-v_w150_h150.png",
       "height": 101,
       "width": 155
     },
@@ -6911,7 +6911,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://18001166.vn/data/upload/kenh-channel-v.png",
+                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-channel-v_w150_h150.png",
                   "height": 101,
                   "width": 155
                 },
@@ -7265,6 +7265,61 @@
     }
   },
 
+{
+    "id": "CCTV1",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_110_80",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv1",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv1",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv1",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv1-hd",
+                    "name": "CCTV-1 HD",
+                    "url": "https://03-us.dajitv.net/live/cctv1/cctv1.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+},
+
   {
     "id": "CCTV2",
     "name": "",
@@ -7354,7 +7409,7 @@
                   {
                     "id": "cctv5-hd",
                     "name": "CCTV5 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/232069450/channel.mp4",
+                    "url": "https://03-us.dajitv.net/live/cctv5/cctv5.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
                     "type": "hls",
                     "default": true
                   }
@@ -7408,7 +7463,7 @@
                   {
                     "id": "cctv5plus-hd",
                     "name": "CCTV5+ HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1436719652/channel.mp4",
+                    "url": "https://03-us.dajitv.net/live/cctv16/cctv16.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
                     "type": "hls",
                     "default": true
                   }
