@@ -7082,7 +7082,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://stream1.freetv.fun/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv1-29.m3u8",
                     "type": "hls",
                     "default": true
                   }
