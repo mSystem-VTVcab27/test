@@ -6321,7 +6321,7 @@
                   {
                     "id": "disney-hd",
                     "name": "Disney HD",
-                    "url": "http://cord-cutter.net:8080/95549031/69361122/2206",
+                    "url": "http://212.102.60.231/DISNEY/index.mp4",
                     "type": "hls",
                     "default": true
                   }
