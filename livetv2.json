@@ -6233,114 +6233,6 @@
   },
 
   {
-    "id": "sony_channel",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://play-lh.googleusercontent.com/DXRjGbAJdon3LkNEddHUsPMg_66hLVf17kA7FM-1_rYxddxWuTMCyx0s0H5lrkiyz4A=w600-h300-pc0xffffff-pd",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "sony_channel_source",
-        "name": "",
-        "contents": [
-          {
-            "id": "sony_channel_content",
-            "name": "",
-            "streams": [
-              {
-                "id": "sony_channel_stream",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://play-lh.googleusercontent.com/DXRjGbAJdon3LkNEddHUsPMg_66hLVf17kA7FM-1_rYxddxWuTMCyx0s0H5lrkiyz4A=w600-h300-pc0xffffff-pd",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "sony_channel_hd",
-                    "name": "Sony Channel HD",
-                    "url": "http://212.102.60.231/Sony_Movie_Channel/index.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
-    "id": "sony_cine",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://i.ytimg.com/vi/s0_JM_sIKDI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFCgWMA8=&rs=AOn4CLCGf5EZI1YFiBK4xD8jaij7Le0LFQ",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "sony_cine_source",
-        "name": "",
-        "contents": [
-          {
-            "id": "sony_cine_content",
-            "name": "",
-            "streams": [
-              {
-                "id": "sony_cine_stream",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://i.ytimg.com/vi/s0_JM_sIKDI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFCgWMA8=&rs=AOn4CLCGf5EZI1YFiBK4xD8jaij7Le0LFQ",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "sony_cine_hd",
-                    "name": "Sony Cine HD",
-                    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-  {
     "id": "sony_entertainment",
     "name": "",
     "image": {
@@ -6400,7 +6292,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch772_160_115",
+      "url": "https://medianet.mv/media/channel/187x0-icon.png",
       "height": 101,
       "width": 155
     },
@@ -6421,7 +6313,7 @@
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch772_160_115",
+                  "url": "https://medianet.mv/media/channel/187x0-icon.png",
                   "height": 101,
                   "width": 155
                 },
@@ -6449,6 +6341,114 @@
     }
   },
 
+    {
+    "id": "sony_channel",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1shp3rq1fm8jj1q8fa3tqtf62w_image-header_pDach_1661948691000&quality=70",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sony_channel_source",
+        "name": "",
+        "contents": [
+          {
+            "id": "sony_channel_content",
+            "name": "",
+            "streams": [
+              {
+                "id": "sony_channel_stream",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1shp3rq1fm8jj1q8fa3tqtf62w_image-header_pDach_1661948691000&quality=70",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sony_channel_hd",
+                    "name": "Sony Channel HD",
+                    "url": "http://185.189.225.157/EuroSport1/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "sony_cine",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1aqc7csqv3zeh1or6ikvghmpku_image-header_pEs_1661945507000&quality=70",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sony_cine_source",
+        "name": "",
+        "contents": [
+          {
+            "id": "sony_cine_content",
+            "name": "",
+            "streams": [
+              {
+                "id": "sony_cine_stream",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://image.discovery.indazn.com/ca/v2/ca/image?id=1aqc7csqv3zeh1or6ikvghmpku_image-header_pEs_1661945507000&quality=70",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sony_cine_hd",
+                    "name": "Sony Cine HD",
+                    "url": "http://185.189.225.157/EuroSport2/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
   {
     "id": "Disney",
     "name": "",
@@ -6540,61 +6540,6 @@
                     "id": "disney_xd_hd",
                     "name": "Disney XD HD",
                     "url": "http://212.102.60.231/DISNEY_XD/index.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "CNN",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://www.vizrt.com/wp-content/uploads/2024/12/CNN.png?w=426",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "cnn",
-        "name": "",
-        "contents": [
-          {
-            "id": "cnn",
-            "name": "",
-            "streams": [
-              {
-                "id": "cnn",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "cnn-hd",
-                    "name": "CNN HD",
-                    "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7136,6 +7081,61 @@
                     "id": "woman-hd",
                     "name": "Woman",
                     "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "CNN",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://www.vizrt.com/wp-content/uploads/2024/12/CNN.png?w=426",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cnn",
+        "name": "",
+        "contents": [
+          {
+            "id": "cnn",
+            "name": "",
+            "streams": [
+              {
+                "id": "cnn",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cnn-hd",
+                    "name": "CNN HD",
+                    "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
                     "type": "hls",
                     "default": true
                   }
