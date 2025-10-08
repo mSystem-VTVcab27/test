@@ -7596,7 +7596,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "",
+      "url": "http://www.tv.cn/images/fyjc.jpg",
       "height": 101,
       "width": 155
     },
@@ -7646,11 +7646,11 @@
   },
   {
     "id": "cctvtheater",
-    "name": "Theater",
+    "name": "First Theatre",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "",
+      "url": "http://www.tv.cn/images/dyjc.jpg",
       "height": 101,
       "width": 155
     },
