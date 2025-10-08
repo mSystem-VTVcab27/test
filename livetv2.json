@@ -7082,7 +7082,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://stream1.freetv.fun/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.ctv",
+                    "url": "https://stream1.freetv.fun/960192460e742af597efd712c6fee1c5baf1e90589d2166e6e3f0dd636132070.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7245,7 +7245,7 @@
                   {
                     "id": "cctv5plus-hd",
                     "name": "CCTV5+ HD",
-                    "url": "https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.ctv",
+                    "url": "https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7516,7 +7516,7 @@
                   {
                     "id": "cctv17-hd",
                     "name": "CCTV-17 农村",
-                    "url": "https://stream1.freetv.fun/893840fd7b46528717f4f90cb37bde95455239ad7879a5860838530bca5f793e.ctv",
+                    "url": "https://stream1.freetv.fun/893840fd7b46528717f4f90cb37bde95455239ad7879a5860838530bca5f793e.m3u8",
                     "type": "hls",
                     "default": true
                   }
