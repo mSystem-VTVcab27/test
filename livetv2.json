@@ -6321,7 +6321,7 @@
                   {
                     "id": "disney-hd",
                     "name": "Disney HD",
-                    "url": "http://212.102.60.231/DISNEY/index.mp4",
+                    "url": "http://212.102.60.231/DISNEY/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
