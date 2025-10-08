@@ -7191,7 +7191,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://stream1.freetv.fun/cctv1-29.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv-01-3.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7300,7 +7300,7 @@
                   {
                     "id": "cctv5-hd",
                     "name": "CCTV5 HD",
-                    "url": "https://stream1.freetv.fun/a171c801b82d29b636aeef3cf0f2785c1d2d3e3cb80e51788990999a34ae51d0.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv5-17.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7354,7 +7354,7 @@
                   {
                     "id": "cctv5plus-hd",
                     "name": "CCTV5+ HD",
-                    "url": "https://stream1.freetv.fun/a738860ec7fcaf655c7db23c3d6ef52d023e652b5486379db530287184dad292.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv5-plus--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7734,7 +7734,7 @@
                   {
                     "id": "cctvfootball-hd",
                     "name": "CCTV 风云足球",
-                    "url": "https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8",
+                    "url": "https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-25.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7788,7 +7788,7 @@
                   {
                     "id": "cctvtheater-hd",
                     "name": "CCTV 第一剧场",
-                    "url": "https://stream1.freetv.fun/872e80cf2af5f99604a249ff1cfc0bfb42c84d61b53c01ce70a96b2072c9d7a3.m3u8",
+                    "url": "https://stream1.freetv.fun/cctvdi-yi-ju-chang-28.m3u8",
                     "type": "hls",
                     "default": true
                   }
