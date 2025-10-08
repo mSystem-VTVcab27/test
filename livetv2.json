@@ -40,7 +40,7 @@
                   {
                     "id": "mdigital-hd",
                     "name": "mDigital THU NGHIEM HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794/index.mp4",
+                    "url": "https://cdn5.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1759891562/4SG6IR06sAL-JYbYKvvwcn-nbS4/e12.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/TxzQDqYLLTPKnfGIFLUdsA/1760029200/RIPQ1Y7/live/sctv22/audio/init.mp4?token=aHNhk7exkoVtwTBatEZmrA&e=1759910916",
                     "type": "hls",
                     "default": true
                   }
@@ -7082,7 +7082,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://03-us.dajitv.net/live/xuandongkatong/xuandongkatong.m3u8?auth=b428noYAokCik6lYZsD8kQdKy9OK9eKQtDqb56CQRyx9D4LUZZZDr_yNKT698bq46D5zx4hPIQIB4M4D",
+                    "url": "https://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7560,7 +7560,7 @@
             "streams": [
               {
                 "id": "cctv4",
-                "name": "",
+                "name": "中文国际",
                 "image": {
                   "display": "contain",
                   "shape": "square",
