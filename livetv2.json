@@ -6233,12 +6233,12 @@
   },
 
   {
-    "id": "CNN",
+    "id": "sony_channel",
     "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://www.vizrt.com/wp-content/uploads/2024/12/CNN.png?w=426",
+      "url": "https://i.ytimg.com/vi/hGHJn1HowOo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzSEKL6BGMC-hT20lf2v6k3WnOPg",
       "height": 101,
       "width": 155
     },
@@ -6246,28 +6246,28 @@
     "display": "text-below",
     "sources": [
       {
-        "id": "cnn",
+        "id": "sony_channel_source",
         "name": "",
         "contents": [
           {
-            "id": "cnn",
+            "id": "sony_channel_content",
             "name": "",
             "streams": [
               {
-                "id": "cnn",
+                "id": "sony_channel_stream",
                 "name": "",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "",
+                  "url": "https://i.ytimg.com/vi/hGHJn1HowOo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAzSEKL6BGMC-hT20lf2v6k3WnOPg",
                   "height": 101,
                   "width": 155
                 },
                 "stream_links": [
                   {
-                    "id": "cnn-hd",
-                    "name": "CNN HD",
-                    "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
+                    "id": "sony_channel_hd",
+                    "name": "Sony Channel HD",
+                    "url": "http://212.102.60.231/Sony_Movie_Channel/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -6286,6 +6286,169 @@
       "url": ""
     }
   },
+  {
+    "id": "sony_cine",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://i.ytimg.com/vi/s0_JM_sIKDI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFCgWMA8=&rs=AOn4CLCGf5EZI1YFiBK4xD8jaij7Le0LFQ",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sony_cine_source",
+        "name": "",
+        "contents": [
+          {
+            "id": "sony_cine_content",
+            "name": "",
+            "streams": [
+              {
+                "id": "sony_cine_stream",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://i.ytimg.com/vi/s0_JM_sIKDI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFCgWMA8=&rs=AOn4CLCGf5EZI1YFiBK4xD8jaij7Le0LFQ",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sony_cine_hd",
+                    "name": "Sony Cine HD",
+                    "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "sony_entertainment",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch771_160_115",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sony_entertainment_source",
+        "name": "",
+        "contents": [
+          {
+            "id": "sony_entertainment_content",
+            "name": "",
+            "streams": [
+              {
+                "id": "sony_entertainment_stream",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch771_160_115",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sony_entertainment_hd",
+                    "name": "Sony Entertainment Television HD",
+                    "url": "http://217.20.112.199/sethd/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "sony_max",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch772_160_115",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "sony_max_source",
+        "name": "",
+        "contents": [
+          {
+            "id": "sony_max_content",
+            "name": "",
+            "streams": [
+              {
+                "id": "sony_max_stream",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch772_160_115",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sony_max_hd",
+                    "name": "Sony MAX HD",
+                    "url": "https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=147",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "Disney",
     "name": "",
@@ -6322,6 +6485,116 @@
                     "id": "disney-hd",
                     "name": "Disney HD",
                     "url": "http://212.102.60.231/DISNEY/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "disney_xd",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-C5GFkDaLeTt37pryE_sBGaydhZbcmecd1FWV74OEuqvnQF0ZPlvX0v9nVLQSAeGLnqCAKfQYZLj1KiL_CowKxS-z9wWS2agYw9QW6mHRHnLs4o5ptCsgm5JHaAyWXWWacxfzX9hOMJ4_/s1600/Disney-XD.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "disney_xd_source",
+        "name": "",
+        "contents": [
+          {
+            "id": "disney_xd_content",
+            "name": "",
+            "streams": [
+              {
+                "id": "disney_xd_stream",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-C5GFkDaLeTt37pryE_sBGaydhZbcmecd1FWV74OEuqvnQF0ZPlvX0v9nVLQSAeGLnqCAKfQYZLj1KiL_CowKxS-z9wWS2agYw9QW6mHRHnLs4o5ptCsgm5JHaAyWXWWacxfzX9hOMJ4_/s1600/Disney-XD.png",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "disney_xd_hd",
+                    "name": "Disney XD HD",
+                    "url": "http://212.102.60.231/DISNEY_XD/index.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+  {
+    "id": "CNN",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://www.vizrt.com/wp-content/uploads/2024/12/CNN.png?w=426",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cnn",
+        "name": "",
+        "contents": [
+          {
+            "id": "cnn",
+            "name": "",
+            "streams": [
+              {
+                "id": "cnn",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cnn-hd",
+                    "name": "CNN HD",
+                    "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
                     "type": "hls",
                     "default": true
                   }
