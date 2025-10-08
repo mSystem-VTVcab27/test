@@ -7191,7 +7191,7 @@
                   {
                     "id": "cctv5-hd",
                     "name": "CCTV5 HD",
-                    "url": "https://stream1.freetv.fun/8ca3e123a0d74e87f21a305af77f712600ac07ae33200d2c5c017f8d01751f36.m3u8",
+                    "url": "https://stream1.freetv.fun/a171c801b82d29b636aeef3cf0f2785c1d2d3e3cb80e51788990999a34ae51d0.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7535,6 +7535,169 @@
       "url": ""
     }
 },
+
+{
+    "id": "cctv4k",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "http://www.tv.cn/images/4k.jpg",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctv4k",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctv4k",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctv4k",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctv4k-hd",
+                    "name": "CCTV 4K 高清",
+                    "url": "https://stream1.freetv.fun/c337f640a25fa26440cdc27cd21a38468acaf55aa2c69354b48bfed5a95abecf.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "cctvfootball",
+    "name": "Football",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctvfootball",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctvfootball",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctvfootball",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctvfootball-hd",
+                    "name": "CCTV 风云足球",
+                    "url": "https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "cctvtheater",
+    "name": "Theater",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cctvtheater",
+        "name": "",
+        "contents": [
+          {
+            "id": "cctvtheater",
+            "name": "",
+            "streams": [
+              {
+                "id": "cctvtheater",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cctvtheater-hd",
+                    "name": "CCTV 第一剧场",
+                    "url": "https://stream1.freetv.fun/872e80cf2af5f99604a249ff1cfc0bfb42c84d61b53c01ce70a96b2072c9d7a3.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
 
   {
     "id": "CCTV4",
