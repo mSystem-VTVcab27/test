@@ -6232,6 +6232,142 @@
     }
   },
 
+     {
+          "id": "hbo",
+          "name": "HBO",
+          "streams": [
+            {
+              "id": "hbo-stream",
+              "name": "HBO",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_425_305",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "hbo-stream-link",
+                  "name": "HBO Stream",
+                  "url": "https://stream1.freetv.fun/hbo--wj-1.ctv",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "mtv-live",
+          "name": "MTV Live",
+          "streams": [
+            {
+              "id": "mtv-live-stream",
+              "name": "MTV Live",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/MTV_Live_IVP_LAND_1280x720.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "mtv-live-stream-link",
+                  "name": "MTV Live Stream",
+                  "url": "https://stream1.freetv.fun/mtv-live-uhd--m-1.ctv",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "itv1-uk",
+          "name": "ITV1 UK",
+          "streams": [
+            {
+              "id": "itv1-uk-stream",
+              "name": "ITV1 UK",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQVnD1F8cl1OldgBQKYrLlMHI5tqMkFW_Pw&s",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "itv1-uk-stream-link",
+                  "name": "ITV1 UK Stream",
+                  "url": "https://stream1.freetv.fun/uk-itv-1.ctv",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "rock-action",
+          "name": "ROCK Action",
+          "streams": [
+            {
+              "id": "rock-action-stream",
+              "name": "ROCK Action",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://stmify.com/wp-content/uploads/2024/10/247-s.webp",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "rock-action-stream-link",
+                  "name": "ROCK Action Stream",
+                  "url": "https://stream1.freetv.fun/rock-actions--wj-1.ctv",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+        {
+          "id": "rock-entertainment",
+          "name": "ROCK Entertainment",
+          "streams": [
+            {
+              "id": "rock-entertainment-stream",
+              "name": "ROCK Entertainment",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://stmify.com/wp-content/uploads/2024/10/248-s.webp",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "rock-entertainment-stream-link",
+                  "name": "ROCK Entertainment Stream",
+                  "url": "https://stream1.freetv.fun/rock-entertainment--x-1.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        },
+
   {
     "id": "sony_entertainment",
     "name": "",
