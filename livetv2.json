@@ -6267,7 +6267,7 @@
                   {
                     "id": "hbo_stream_link",
                     "name": "HBO",
-                    "url": "https://stream1.freetv.fun/hbo--wj-1.ctv",
+                    "url": "https://stream1.freetv.fun/hbo--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -6429,7 +6429,7 @@
                   {
                     "id": "rock_action_stream_link",
                     "name": "ROCK Action",
-                    "url": "https://stream1.freetv.fun/rock-actions--wj-1.ctv",
+                    "url": "https://stream1.freetv.fun/rock-actions--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
