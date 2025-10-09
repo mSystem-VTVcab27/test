@@ -7048,6 +7048,116 @@
     }
   },
 
+  {
+  "id": "DiscoveryAsia",
+  "name": "",
+  "image": {
+    "display": "cover",
+    "shape": "square",
+    "url": "https://stmify.com/wp-content/uploads/2024/09/110-s.webp",
+    "height": 101,
+    "width": 155
+  },
+  "type": "single",
+  "display": "text-below",
+  "sources": [
+    {
+      "id": "discoveryasia",
+      "name": "",
+      "contents": [
+        {
+          "id": "discoveryasia",
+          "name": "",
+          "streams": [
+            {
+              "id": "discoveryasia",
+              "name": "",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "discoveryasia-hd",
+                  "name": "Discovery Asia HD",
+                  "url": "https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "share": {
+    "url": ""
+  },
+  "related": {
+    "url": ""
+  }
+},
+
+  {
+    "id": "CNN",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://stmify.com/wp-content/uploads/2024/09/115-s-768x432.webp",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "cnn",
+        "name": "",
+        "contents": [
+          {
+            "id": "cnn",
+            "name": "",
+            "streams": [
+              {
+                "id": "cnn",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "cnn-hd",
+                    "name": "CNN HD",
+                    "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
 {
     "id": "boxmovie1",
     "name": "",
@@ -7588,62 +7698,6 @@
       "url": ""
     }
   },
-
-  {
-    "id": "CNN",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://stmify.com/wp-content/uploads/2024/09/115-s-768x432.webp",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "cnn",
-        "name": "",
-        "contents": [
-          {
-            "id": "cnn",
-            "name": "",
-            "streams": [
-              {
-                "id": "cnn",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "cnn-hd",
-                    "name": "CNN HD",
-                    "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
   {
   "id": "OutdoorHD",
   "name": "",
