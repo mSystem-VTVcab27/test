@@ -1071,7 +1071,6 @@
 },
 "type": "single",
 "display": "text-below",
-"enable_detail": true,
 "sources": [
 {
 "id": "sctvphim",
@@ -1084,27 +1083,6 @@
 {
 "id": "sctvphim",
 "name": "VCTV",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctvphim-hd",
-"name": "SCTV Phim tổng hợp HD",
-"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "11",
-"name": "SD",
 "image": {
 "display": "contain",
 "shape": "square",
@@ -1148,7 +1126,6 @@
 },
 "type": "single",
 "display": "text-below",
-"enable_detail": true,
 "sources": [
 {
 "id": "sctv1",
@@ -1173,27 +1150,6 @@
 "id": "sctv1-hd",
 "name": "SCTV1 HD",
 "url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "12",
-"name": "SD",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-sctv1_w150_h150.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv1-hd",
-"name": "SCTV1 HD",
-"url": "https://liveh12.seenow.vn/hls/SCTV1/01.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1225,7 +1181,6 @@
 },
 "type": "single",
 "display": "text-below",
-"enable_detail": true,
 "sources": [
 {
 "id": "sctv2",
@@ -1250,27 +1205,6 @@
 "id": "sctv2-hd",
 "name": "SCTV2",
 "url": "https://liveh12.seenow.vn/hls/SCTV2/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "13",
-"name": "SD",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://i.ytimg.com/vi/i-NeaR2UlnE/maxresdefault.jpg",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv2-hd",
-"name": "SCTV2",
-"url": "https://liveh12.seenow.vn/hls/SCTV2/01.m3u8",
 "type": "hls",
 "default": true
 }
