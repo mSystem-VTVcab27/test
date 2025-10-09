@@ -789,6 +789,83 @@
 },
 
 {
+    "id": "ONHomeshopping",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://static.ybox.vn/2020/12/4/1608778045454-hoang-huyen154a9mlx-avatar.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "enable_detail": true,
+    "sources": [
+      {
+        "id": "onhomeshopping",
+        "name": "",
+        "contents": [
+          {
+            "id": "onhomeshopping",
+            "name": "",
+            "streams": [
+              {
+                "id": "onhomeshopping",
+                "name": "VTVcab 13",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://assets-vtvcab.gviet.vn/images/hq/posters/onshopping2.jpg",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "onhomeshopping-hd",
+                    "name": "ON Homeshopping HD",
+                    "url": "https://livecdn.seenow.vn/mean/VTVCAB13/manifest.mpd",
+                    "type": "dash",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              },
+              {
+                "id": "sctv10",
+                "name": "SCTV10",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://assets-vtvcab.gviet.vn/images/v2/channel/20210419/2021041909/thumb-sctv10_SD1_1675158898.webp",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "sctv10-hd",
+                    "name": "SCTV10 HD",
+                    "url": "https://liveh34.seenow.vn/hls/SCTV10/03.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
+{
 "id": "ONEchannel",
 "name": "",
 "image": {
@@ -4495,84 +4572,8 @@
   "related": {
     "url": ""
   }
-},
-
-  {
-    "id": "ONHomeshopping",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://static.ybox.vn/2020/12/4/1608778045454-hoang-huyen154a9mlx-avatar.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "enable_detail": true,
-    "sources": [
-      {
-        "id": "onhomeshopping",
-        "name": "",
-        "contents": [
-          {
-            "id": "onhomeshopping",
-            "name": "",
-            "streams": [
-              {
-                "id": "onhomeshopping",
-                "name": "VTVcab 13",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://assets-vtvcab.gviet.vn/images/hq/posters/onshopping2.jpg",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "onhomeshopping-hd",
-                    "name": "ON Homeshopping HD",
-                    "url": "https://livecdn.seenow.vn/mean/VTVCAB13/manifest.mpd",
-                    "type": "dash",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              },
-              {
-                "id": "sctv10",
-                "name": "SCTV10",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://assets-vtvcab.gviet.vn/images/v2/channel/20210419/2021041909/thumb-sctv10_SD1_1675158898.webp",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "sctv10-hd",
-                    "name": "SCTV10 HD",
-                    "url": "https://liveh34.seenow.vn/hls/SCTV10/03.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  }
+}
+  
       ]
     }
   ]
