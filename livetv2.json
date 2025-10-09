@@ -7432,7 +7432,7 @@
   "image": {
     "display": "cover",
     "shape": "square",
-    "url": "https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png",
+    "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/57409e50258033.58cb840c2bbbb.jpg",
     "height": 101,
     "width": 155
   },
@@ -7596,7 +7596,7 @@
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://www.nicepng.com/png/detail/438-4389498_channel-v-china-logo.png",
+      "url": "https://media.themusic.com.au/images/standard/news-16/channel-v-timeline.990x660.jpg",
       "height": 101,
       "width": 155
     },
@@ -7844,7 +7844,7 @@
                   {
                     "id": "cctv5-hd",
                     "name": "CCTV5 HD",
-                    "url": "https://stream1.freetv.fun/cctv5--wj-1.ctv",
+                    "url": "https://stream1.freetv.fun/cctv5--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
