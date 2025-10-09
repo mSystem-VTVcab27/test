@@ -8387,7 +8387,7 @@
                   {
                     "id": "cctv17-hd",
                     "name": "CCTV-17 农村",
-                    "url": "https://stream1.freetv.fun/893840fd7b46528717f4f90cb37bde95455239ad7879a5860838530bca5f793e.ctv",
+                    "url": "https://stream1.freetv.fun/893840fd7b46528717f4f90cb37bde95455239ad7879a5860838530bca5f793e.m3u8",
                     "type": "hls",
                     "default": true
                   }
