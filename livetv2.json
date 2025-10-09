@@ -40,7 +40,7 @@
                   {
                     "id": "mdigital-hd",
                     "name": "mDigital THU NGHIEM HD",
-                    "url": "https://byvn.net/L6OL",
+                    "url": "http://203.80.165.14:30168/stream/channelid/1800362794/index.mp4",
                     "type": "hls",
                     "default": true
                   }
@@ -1320,6 +1320,224 @@
       "url": ""
     }
   },
+
+  {
+    "id": "ONSports",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/14.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "onsports",
+        "name": "",
+        "contents": [
+          {
+            "id": "onsports",
+            "name": "",
+            "streams": [
+              {
+                "id": "onsports",
+                "name": "ON Sports",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "onsports-hd",
+                    "name": "ON Sports HD",
+                    "url": "https://byvn.net/L6OL",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "ONSportsPlus",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/17.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "onsportsplus",
+        "name": "",
+        "contents": [
+          {
+            "id": "onsportsplus",
+            "name": "",
+            "streams": [
+              {
+                "id": "onsportsplus",
+                "name": "ON Sports+",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "onsportsplus-hd",
+                    "name": "ON Sports+ HD",
+                    "url": "https://byvn.net/Eb9l",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "ONSportsNews",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/26.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "onsportsnews",
+        "name": "",
+        "contents": [
+          {
+            "id": "onsportsnews",
+            "name": "",
+            "streams": [
+              {
+                "id": "onsportsnews",
+                "name": "ON Sports News",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "onsportsnews-hd",
+                    "name": "ON Sports News HD",
+                    "url": "https://byvn.net/aS1d",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+  {
+    "id": "ONFootball",
+    "name": "",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://vnepg.site/logos/24.png",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "onfootball",
+        "name": "",
+        "contents": [
+          {
+            "id": "onfootball",
+            "name": "",
+            "streams": [
+              {
+                "id": "onfootball",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "onfootball-hd",
+                    "name": "ON Football HD",
+                    "url": "https://byvn.net/tjT2",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
+
   {
     "id": "ongolf",
     "name": "",
