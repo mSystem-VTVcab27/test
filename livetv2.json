@@ -6321,7 +6321,7 @@
                   {
                     "id": "mtv_live_stream_link",
                     "name": "MTV Live",
-                    "url": "https://stream1.freetv.fun/mtv-live-uhd--m-1.m3u8",
+                    "url": "https://stream1.freetv.fun/mtv-live-uhd--m-1.ctv",
                     "type": "hls",
                     "default": true
                   }
