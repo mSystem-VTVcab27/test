@@ -1160,6 +1160,61 @@
       "name": "Chương trình 1",
       "channels": [
 {
+"id": "sctvphim",
+"name": "",
+"image": {
+"display": "cover",
+"shape": "square",
+"url": "https://lh3.googleusercontent.com/pw/AP1GczOHmUoyyxoWxA2HwT0Zr4wFdn9f4eSy0eXaooAFOOPefejqOCHJiPz26pf5_EM_42hkc2OcC0CmDAltqMF24v00wVOZzcX3cFu2RLUJtkVUT4LUAKYqNCVxh6q7ot6zjlNdyfyAe-MNmZdzg0RV4PkJkg=w1683-h946-s-no?authuser=0",
+"height": 101,
+"width": 155
+},
+"type": "single",
+"display": "text-below",
+"sources": [
+{
+"id": "sctvphim",
+"name": "",
+"contents": [
+{
+"id": "sctvphim",
+"name": "",
+"streams": [
+{
+"id": "sctvphim",
+"name": "VCTV",
+"image": {
+"display": "contain",
+"shape": "square",
+"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
+"height": 101,
+"width": 155
+},
+"stream_links": [
+{
+"id": "sctvphim-hd",
+"name": "SCTV Phim tổng hợp HD",
+"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
+"type": "hls",
+"default": true
+}
+],
+"remote_data": null
+}
+]
+}
+]
+}
+],
+"share": {
+"url": ""
+},
+"related": {
+"url": ""
+}
+},
+
+{
 "id": "sctv1",
 "name": "",
 "image": {
@@ -1171,7 +1226,6 @@
 },
 "type": "single",
 "display": "text-below",
-"enable_detail": true,
 "sources": [
 {
 "id": "sctv1",
@@ -1196,104 +1250,6 @@
 "id": "sctv1-hd",
 "name": "SCTV1 HD",
 "url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "12",
-"name": "SD",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/root/logo-sctv1_w150_h150.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctv1-hd",
-"name": "SCTV1 HD",
-"url": "https://liveh12.seenow.vn/hls/SCTV1/01.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-}
-]
-}
-]
-}
-],
-"share": {
-"url": ""
-},
-"related": {
-"url": ""
-}
-},
-
-{
-"id": "sctvphim",
-"name": "",
-"image": {
-"display": "cover",
-"shape": "square",
-"url": "https://lh3.googleusercontent.com/pw/AP1GczOHmUoyyxoWxA2HwT0Zr4wFdn9f4eSy0eXaooAFOOPefejqOCHJiPz26pf5_EM_42hkc2OcC0CmDAltqMF24v00wVOZzcX3cFu2RLUJtkVUT4LUAKYqNCVxh6q7ot6zjlNdyfyAe-MNmZdzg0RV4PkJkg=w1683-h946-s-no?authuser=0",
-"height": 101,
-"width": 155
-},
-"type": "single",
-"display": "text-below",
-"enable_detail": true,
-"sources": [
-{
-"id": "sctvphim",
-"name": "",
-"contents": [
-{
-"id": "sctvphim",
-"name": "",
-"streams": [
-{
-"id": "sctvphim",
-"name": "VCTV",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctvphim-hd",
-"name": "SCTV Phim tổng hợp HD",
-"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "11",
-"name": "SD",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://web.archive.org/web/20190831065132im_/https://kplus-website-production-cdn.azureedge.net/content/upload/1/root/goi-kenh-k-tren-sctv.png",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "sctvphim-hd",
-"name": "SCTV Phim tổng hợp HD",
-"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
 "type": "hls",
 "default": true
 }
