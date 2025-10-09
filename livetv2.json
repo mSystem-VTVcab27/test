@@ -1356,7 +1356,7 @@
                   {
                     "id": "onsports-hd",
                     "name": "ON Sports HD",
-                    "url": "https://byvn.net/L6OL",
+                    "url": "https://byvn.net/Eb9l",
                     "type": "hls",
                     "default": true
                   }
@@ -1410,7 +1410,7 @@
                   {
                     "id": "onsportsplus-hd",
                     "name": "ON Sports+ HD",
-                    "url": "https://byvn.net/Eb9l",
+                    "url": "https://byvn.net/L6OL",
                     "type": "hls",
                     "default": true
                   }
@@ -1464,7 +1464,7 @@
                   {
                     "id": "onsportsnews-hd",
                     "name": "ON Sports News HD",
-                    "url": "https://byvn.net/aS1d",
+                    "url": "https://byvn.net/tjT2",
                     "type": "hls",
                     "default": true
                   }
@@ -1518,7 +1518,7 @@
                   {
                     "id": "onfootball-hd",
                     "name": "ON Football HD",
-                    "url": "https://byvn.net/tjT2",
+                    "url": "https://byvn.net/aS1d",
                     "type": "hls",
                     "default": true
                   }
