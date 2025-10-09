@@ -6375,7 +6375,7 @@
                   {
                     "id": "itv1_uk_stream_link",
                     "name": "ITV1 UK",
-                    "url": "https://stream1.freetv.fun/uk-itv-1.m3u8",
+                    "url": "https://stream1.freetv.fun/uk-itv-1.ctv",
                     "type": "hls",
                     "default": true
                   }
