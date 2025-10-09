@@ -4499,16 +4499,17 @@
 
   {
     "id": "ONHomeshopping",
-    "name": "ON Homeshopping",
+    "name": "",
     "image": {
       "display": "cover",
       "shape": "square",
-      "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/prg-image/logo-vtv-hyundai-home-shopping_w150_h150.png",
+      "url": "https://static.ybox.vn/2020/12/4/1608778045454-hoang-huyen154a9mlx-avatar.png",
       "height": 101,
       "width": 155
     },
     "type": "single",
     "display": "text-below",
+    "enable_detail": true,
     "sources": [
       {
         "id": "onhomeshopping",
@@ -4520,11 +4521,11 @@
             "streams": [
               {
                 "id": "onhomeshopping",
-                "name": "",
+                "name": "VTVcab 13",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/prg-image/logo-vtv-hyundai-home-shopping_w150_h150.png",
+                  "url": "https://assets-vtvcab.gviet.vn/images/hq/posters/onshopping2.jpg",
                   "height": 101,
                   "width": 155
                 },
@@ -4538,48 +4539,14 @@
                   }
                 ],
                 "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
-
-  {
-    "id": "SCTV10",
-    "name": "SCTV10",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/prg-image/logo-vtv-hyundai-home-shopping_w150_h150.png",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "sctv10",
-        "name": "",
-        "contents": [
-          {
-            "id": "sctv10",
-            "name": "",
-            "streams": [
+              },
               {
                 "id": "sctv10",
-                "name": "",
+                "name": "SCTV10",
                 "image": {
                   "display": "contain",
                   "shape": "square",
-                  "url": "https://web.archive.org/web/20170421063035im_/http://cdn.kplus.vn/content/upload/1/prg-image/logo-vtv-hyundai-home-shopping_w150_h150.png",
+                  "url": "https://assets-vtvcab.gviet.vn/images/v2/channel/20210419/2021041909/thumb-sctv10_SD1_1675158898.webp",
                   "height": 101,
                   "width": 155
                 },
@@ -4604,8 +4571,8 @@
     },
     "related": {
       "url": ""
-          }
-        }
+    }
+  }
       ]
     }
   ]
