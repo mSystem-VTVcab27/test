@@ -7573,7 +7573,7 @@
                   {
                     "id": "cctv5-hd",
                     "name": "CCTV5 HD",
-                    "url": "https://stream1.freetv.fun/cctv5-17.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv5--wj-1.ctv",
                     "type": "hls",
                     "default": true
                   }
@@ -7898,7 +7898,7 @@
                   {
                     "id": "cctv17-hd",
                     "name": "CCTV-17 农村",
-                    "url": "https://stream1.freetv.fun/893840fd7b46528717f4f90cb37bde95455239ad7879a5860838530bca5f793e.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv17-46.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7953,7 +7953,7 @@
                   {
                     "id": "cctv4k-hd",
                     "name": "CCTV 4K 高清",
-                    "url": "https://stream1.freetv.fun/c337f640a25fa26440cdc27cd21a38468acaf55aa2c69354b48bfed5a95abecf.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv9--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8007,7 +8007,7 @@
                   {
                     "id": "cctvfootball-hd",
                     "name": "CCTV 风云足球",
-                    "url": "https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-25.m3u8",
+                    "url": "https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-24.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8061,7 +8061,7 @@
                   {
                     "id": "cctvtheater-hd",
                     "name": "CCTV 第一剧场",
-                    "url": "https://stream1.freetv.fun/cctvdi-yi-ju-chang-28.m3u8",
+                    "url": "https://stream1.freetv.fun/cctvdi-yi-ju-chang-7.m3u8",
                     "type": "hls",
                     "default": true
                   }
