@@ -4,6 +4,61 @@
       "id": "vtvdth2",
       "name": "Chương trình 2",
       "channels": [
+
+        {
+    "id": "nd",
+    "name": "THU NGHIEM",
+    "image": {
+      "display": "cover",
+      "shape": "square",
+      "url": "https://lh3.googleusercontent.com/pw/AP1GczN-T23airwFv4mJPV2nrrHq56GTvxsvjkI0pjL2JsTAP1httf8Y3zu0-C14Cmn4bfZjoHwzUIb5Vd83z2eZ3RfTBcJC4XiabLpekVFyUGiz3I0_DG9pj6gcYeWv2-PjEoZAVVWcUrpQdOh1PegATil-Og=w1681-h946-s-no?authuser=0",
+      "height": 101,
+      "width": 155
+    },
+    "type": "single",
+    "display": "text-below",
+    "sources": [
+      {
+        "id": "nd",
+        "name": "",
+        "contents": [
+          {
+            "id": "nd",
+            "name": "",
+            "streams": [
+              {
+                "id": "nd",
+                "name": "",
+                "image": {
+                  "display": "contain",
+                  "shape": "square",
+                  "url": "https://lh3.googleusercontent.com/pw/AP1GczODEqZzAtDHlpj_c6Yt4GEvMTm3Zc85grgGDFa0qQLKSxGeMipr3EPwjkntP1JRWhJoCu7OjQi2cD3A4t2xTsc8jQrE4_tMWUxgizvfGYvgiI8cLzKm2Au99IOwlixByayFmB79Mz-f0NisqoIPboCdXg=w1681-h946-s-no?authuser=0",
+                  "height": 101,
+                  "width": 155
+                },
+                "stream_links": [
+                  {
+                    "id": "nd",
+                    "name": "Nhân Dân Music",
+                    "url": "https://arpt.tvic.vn/live/nhandan720/playlist.m3u8",
+                    "type": "hls",
+                    "default": true
+                  }
+                ],
+                "remote_data": null
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "share": {
+      "url": ""
+    },
+    "related": {
+      "url": ""
+    }
+  },
         {
           "id": "VTV1",
           "name": "",
@@ -167,60 +222,6 @@
     }
   },
 
-  {
-    "id": "nd",
-    "name": "",
-    "image": {
-      "display": "cover",
-      "shape": "square",
-      "url": "https://lh3.googleusercontent.com/pw/AP1GczODEqZzAtDHlpj_c6Yt4GEvMTm3Zc85grgGDFa0qQLKSxGeMipr3EPwjkntP1JRWhJoCu7OjQi2cD3A4t2xTsc8jQrE4_tMWUxgizvfGYvgiI8cLzKm2Au99IOwlixByayFmB79Mz-f0NisqoIPboCdXg=w1681-h946-s-no?authuser=0",
-      "height": 101,
-      "width": 155
-    },
-    "type": "single",
-    "display": "text-below",
-    "sources": [
-      {
-        "id": "nd",
-        "name": "",
-        "contents": [
-          {
-            "id": "nd",
-            "name": "",
-            "streams": [
-              {
-                "id": "nd",
-                "name": "",
-                "image": {
-                  "display": "contain",
-                  "shape": "square",
-                  "url": "https://lh3.googleusercontent.com/pw/AP1GczODEqZzAtDHlpj_c6Yt4GEvMTm3Zc85grgGDFa0qQLKSxGeMipr3EPwjkntP1JRWhJoCu7OjQi2cD3A4t2xTsc8jQrE4_tMWUxgizvfGYvgiI8cLzKm2Au99IOwlixByayFmB79Mz-f0NisqoIPboCdXg=w1681-h946-s-no?authuser=0",
-                  "height": 101,
-                  "width": 155
-                },
-                "stream_links": [
-                  {
-                    "id": "nd",
-                    "name": "Nhân Dân Music",
-                    "url": "https://arpt.tvic.vn/live/nhandan720/playlist.m3u8",
-                    "type": "hls",
-                    "default": true
-                  }
-                ],
-                "remote_data": null
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "share": {
-      "url": ""
-    },
-    "related": {
-      "url": ""
-    }
-  },
 
         {
           "id": "VTV2",
