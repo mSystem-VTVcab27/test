@@ -7950,7 +7950,7 @@
                   {
                     "id": "cctv2-hd",
                     "name": "CCTV2 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/1514959795/channel.mp4",
+                    "url": "https://stream1.freetv.fun/cctv2--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8112,7 +8112,7 @@
                   {
                     "id": "cctv7-hd",
                     "name": "CCTV7 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/708061610/channel.mp4",
+                    "url": "https://stream1.freetv.fun/cctv7--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8166,7 +8166,7 @@
                   {
                     "id": "cctv10-hd",
                     "name": "CCTV10 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/348133899/channel.mp4",
+                    "url": "https://stream1.freetv.fun/cctv10--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8220,7 +8220,7 @@
                   {
                     "id": "cctv12-hd",
                     "name": "CCTV12 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/963025100/channel.mp4",
+                    "url": "https://stream1.freetv.fun/cctv12-she-hui-yu-fa-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8274,7 +8274,7 @@
                   {
                     "id": "cctv13-hd",
                     "name": "CCTV13 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/538562051/channel.mp4",
+                    "url": "https://stream1.freetv.fun/cctv-13-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8329,7 +8329,7 @@
                   {
                     "id": "cctv17-hd",
                     "name": "CCTV-17 农村",
-                    "url": "https://stream1.freetv.fun/893840fd7b46528717f4f90cb37bde95455239ad7879a5860838530bca5f793e.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv17-nong-ye-nong-cun-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8384,7 +8384,7 @@
                   {
                     "id": "cctv4k-hd",
                     "name": "CCTV 4K 高清",
-                    "url": "https://stream1.freetv.fun/d8024f520bdd6c13e9c754f9c0111e1cbaa9f564cf31ec72d69d9d46628825f6.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv14--wj-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8438,7 +8438,7 @@
                   {
                     "id": "cctvfootball-hd",
                     "name": "CCTV 风云足球",
-                    "url": "https://stream1.freetv.fun/f29c24e198f9bf47ac2be43abf3d1a9eb21ebf26392c4959f9ec8d2077718450.m3u8",
+                    "url": "https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-16.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8492,7 +8492,7 @@
                   {
                     "id": "cctvtheater-hd",
                     "name": "CCTV 第一剧场",
-                    "url": "https://stream1.freetv.fun/872e80cf2af5f99604a249ff1cfc0bfb42c84d61b53c01ce70a96b2072c9d7a3.m3u8",
+                    "url": "https://stream1.freetv.fun/cctvdi-yi-ju-chang-7.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -8548,7 +8548,7 @@
                   {
                     "id": "cctv4-hd",
                     "name": "CCTV4 HD",
-                    "url": "http://203.80.165.14:30168/stream/channelid/257019769/channel.mp4",
+                    "url": "hhttps://stream1.freetv.fun/cctv4-zhong-wen-guo-ji-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
