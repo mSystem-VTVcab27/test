@@ -8591,7 +8591,7 @@
                   {
                     "id": "cctv4_europe_hd",
                     "name": "CCTV 4 中文国际欧洲 HD",
-                    "url": "https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU5OTAzMzMwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jY3R2NC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJiZjQ2MTgwMGE2MjM1NmRhIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMyIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMzhdfQ==.ir6YJh8FWkF_E8SHFAxRF3W-lSEtDEqbZa6IHM1kAPEXh8sMmm5cZhzHhiHsecz2hkHqTmTSd1zgB48srJi4SQ==/live/eds/cctv4/browser-HLS8/cctv4-avc1_3000000=16.m3u8",
+                    "url": "https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8",
                     "type": "hls",
                     "default": true
                   }
