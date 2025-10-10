@@ -1126,7 +1126,7 @@
 {
 "id": "sctvphim-hd",
 "name": "SCTV Phim tổng hợp HD",
-"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8",
 "type": "hls",
 "default": true
 }
