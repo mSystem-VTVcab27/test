@@ -800,7 +800,7 @@
                   {
                     "id": "sctv10-hd",
                     "name": "SCTV10 HD",
-                    "url": "https://liveh34.seenow.vn/hls/SCTV10/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/SCTV10/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1181,7 +1181,7 @@
 {
 "id": "sctv1-hd",
 "name": "SCTV1 HD",
-"url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1236,7 +1236,7 @@
 {
 "id": "sctv2-hd",
 "name": "SCTV2",
-"url": "https://liveh12.seenow.vn/hls/SCTV2/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTV2/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1292,7 +1292,7 @@
 {
 "id": "sctv4-hd",
 "name": "SCTV4 HD",
-"url": "https://liveh12.seenow.vn/hls/SCTV4/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1347,7 +1347,7 @@
 {
 "id": "sctv6-hd",
 "name": "SCTV6 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV6/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV6/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1402,7 +1402,7 @@
 {
 "id": "sctv7-hd",
 "name": "SCTV7 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV7/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV7/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1457,7 +1457,7 @@
 {
 "id": "sctv8-hd",
 "name": "SCTV8 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV8/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV8/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1512,7 +1512,7 @@
 {
 "id": "sctv11-hd",
 "name": "SCTV11 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV11/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV11/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1567,7 +1567,7 @@
 {
 "id": "sctv12-hd",
 "name": "SCTV12 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV12/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV12/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1622,7 +1622,7 @@
 {
 "id": "sctv18-hd",
 "name": "SCTV18 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV18/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV18/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1732,7 +1732,7 @@
 {
 "id": "hanoi1-hd",
 "name": "HÀNỘI 1 HD",
-"url": "https://liveh34.seenow.vn/hls/HANOI1TV/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/HANOI1TV/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1787,7 +1787,7 @@
 {
 "id": "hanoi2-hd",
 "name": "HÀNỘI 2 HD",
-"url": "https://liveh34.seenow.vn/hls/HANOI2TV/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/HANOI2TV/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1874,7 +1874,6 @@
 },
 "type": "single",
 "display": "text-below",
-"enable_detail": true,
 "sources": [
 {
 "id": "htv7",
@@ -1898,28 +1897,7 @@
 {
 "id": "htv7-hd",
 "name": "HTV7 HD",
-"url": "https://liveh12.seenow.vn/hls/HTV7HD/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "14",
-"name": "SD",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://drive.google.com/uc?export=download&id=132qoJACT5FJbYi6RAKzA1JVPxTeV41qU",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "14",
-"name": "HTV7 HD",
-"url": "https://liveh12.seenow.vn/hls/HTV7HD/01.m3u8",
+"url": "https://liveh12.seenow.vn/hls/HTV7HD/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1974,7 +1952,7 @@
 {
 "id": "htv3-hd",
 "name": "HTV3 HD",
-"url": "https://liveh12.seenow.vn/hls/HTV3/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/HTV3/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2029,7 +2007,7 @@
 {
 "id": "htv2-hd",
 "name": "HTV2 HD",
-"url": "https://liveh12.seenow.vn/hls/HTV2/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/HTV2/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2084,7 +2062,7 @@
 {
 "id": "htv4-hd",
 "name": "HTV4 HD",
-"url": "https://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8",
+"url": "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2139,7 +2117,7 @@
                   {
                     "id": "btv1-hd",
                     "name": "BTV1 HD",
-                    "url": "https://liveh34.seenow.vn/hls/BINHDUONGTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/BINHDUONGTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2194,7 +2172,7 @@
                   {
                     "id": "brt-hd",
                     "name": "BRT HD",
-                    "url": "https://liveh34.seenow.vn/hls/VUNGTAUTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/VUNGTAUTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2249,7 +2227,7 @@
 {
 "id": "htvccanhac-hd",
 "name": "HTVC Ca nhạc HD",
-"url": "https://liveh12.seenow.vn/hls/HTVCCANHAC/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/HTVCCANHAC/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2304,7 +2282,7 @@
 {
 "id": "htvcdulichcuocsong-hd",
 "name": "HTVC Du lịch & Cuộc sống HD",
-"url": "https://liveh12.seenow.vn/hls/HTVCDLCS/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/HTVCDLCS/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2359,7 +2337,7 @@
 {
 "id": "htvcgiadinh-hd",
 "name": "HTVC Gia đình HD",
-"url": "https://liveh34.seenow.vn/hls/HTVGIADINH/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/HTVGIADINH/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2414,7 +2392,7 @@
 {
 "id": "htvcphunu-hd",
 "name": "HTVC Phụ nữ HD",
-"url": "https://liveh34.seenow.vn/hls/HTVPHUNU/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/HTVPHUNU/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2469,7 +2447,7 @@
 {
 "id": "thvl1-hd",
 "name": "THVL1 HD",
-"url": "https://liveh12.seenow.vn/hls/VINHLONG1/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/VINHLONG1/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2524,7 +2502,7 @@
 {
 "id": "thvl2-hd",
 "name": "THVL2 HD",
-"url": "https://liveh12.seenow.vn/hls/VINHLONG2/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/VINHLONG2/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2579,7 +2557,7 @@
 {
 "id": "thvl3-hd",
 "name": "THVL3 HD",
-"url": "https://liveh34.seenow.vn/hls/VINHLONG3/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/VINHLONG3/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2634,7 +2612,7 @@
 {
 "id": "thvl4-hd",
 "name": "THVL4 HD",
-"url": "https://liveh34.seenow.vn/hls/VINHLONG4/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/VINHLONG4/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2689,7 +2667,7 @@
 {
 "id": "thvl5-hd",
 "name": "THVL5 HD",
-"url": "https://liveh34.seenow.vn/hls/TRAVINHTV/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/TRAVINHTV/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -2744,7 +2722,7 @@
                   {
                     "id": "ltv-hd",
                     "name": "LTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/LAICHAUTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/LAICHAUTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2799,7 +2777,7 @@
                   {
                     "id": "ptv-hd",
                     "name": "PTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/PHUTHOTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/PHUTHOTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2854,7 +2832,7 @@
                   {
                     "id": "btv-hd",
                     "name": "BTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/BACGIANGTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/BACGIANGTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2909,7 +2887,7 @@
                   {
                     "id": "hytv-hd",
                     "name": "HYTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/HUNGYENTV/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/HUNGYENTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2964,7 +2942,7 @@
                   {
                     "id": "nbtv-hd",
                     "name": "NBTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/NINHBINHTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/NINHBINHTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3019,7 +2997,7 @@
                   {
                     "id": "thp-hd",
                     "name": "THP HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/HAIPHONG/03.m3u8",
+                    "url": "https://liveh12.vtvprime.vn/hls/HAIPHONG/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3074,7 +3052,7 @@
                   {
                     "id": "thp3-hd",
                     "name": "THP3 HD",
-                    "url": "https://liveh34.seenow.vn/hls/HAIDUONGTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/HAIDUONGTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3129,7 +3107,7 @@
                   {
                     "id": "lstv-hd",
                     "name": "LSTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/LANGSON/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/LANGSON/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3184,7 +3162,7 @@
                   {
                     "id": "tntv-hd",
                     "name": "TNTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/THAINGUYENTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/THAINGUYENTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3239,7 +3217,7 @@
                   {
                     "id": "qtv1-hd",
                     "name": "QTV1 HD",
-                    "url": "https://liveh12.seenow.vn/hls/QUANGNINHTV/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/QUANGNINHTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3294,7 +3272,7 @@
                   {
                     "id": "qtv3-hd",
                     "name": "QTV3 HD",
-                    "url": "https://liveh34.seenow.vn/hls/QUANGNINH3/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/QUANGNINH3/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3349,7 +3327,7 @@
                   {
                     "id": "ttv-hd",
                     "name": "TTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/THANHHOATV/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/THANHHOATV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3404,7 +3382,7 @@
                   {
                     "id": "ntv-hd",
                     "name": "NTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/NGHEANTV/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/NGHEANTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3459,7 +3437,7 @@
                   {
                     "id": "bhttv-hd",
                     "name": "BHT TV HD",
-                    "url": "https://liveh34.seenow.vn/hls/HATINH/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/HATINH/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3514,7 +3492,7 @@
                   {
                     "id": "huetv-hd",
                     "name": "HueTV HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/HUE/03.m3u8",
+                    "url": "https://liveh12.vtvprime.vn/hls/HUE/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3569,7 +3547,7 @@
                   {
                     "id": "dnrt1-hd",
                     "name": "DNRT1 HD",
-                    "url": "https://liveh12.seenow.vn/hls/DANANGTV/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/DANANGTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3625,7 +3603,7 @@
                   {
                     "id": "ktv-hd",
                     "name": "KTV HD",
-                    "url": "https://liveh12.seenow.vn/hls/KHANHHOATV/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/KHANHHOATV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3681,7 +3659,7 @@
                   {
                     "id": "ltv2-hd",
                     "name": "LTV2 HD",
-                    "url": "https://liveh34.seenow.vn/hls/BINHTHUANTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/BINHTHUANTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3738,7 +3716,7 @@
                   {
                     "id": "ttv2-hd",
                     "name": "TTV2 HD",
-                    "url": "https://liveh34.seenow.vn/hls/TAYNINHTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/TAYNINHTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3793,7 +3771,7 @@
                   {
                     "id": "thdt1-hd",
                     "name": "THĐT1 HD",
-                    "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8",
+                    "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3848,7 +3826,7 @@
                   {
                     "id": "atv2-hd",
                     "name": "ATV2 HD",
-                    "url": "https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8",
+                    "url": "https://liveh34.vtvprime.vn/hls/ANGIANGTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3904,7 +3882,7 @@
                   {
                     "id": "kix-hd",
                     "name": "KIX HD",
-                    "url": "https://liveh34.seenow.vn/hls/SCTV1/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/SCTV1/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -3959,7 +3937,7 @@
                   {
                     "id": "dweng-hd",
                     "name": "DW Eng HD",
-                    "url": "https://liveh12.seenow.vn/hls/DW/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/DW/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4014,7 +3992,7 @@
                   {
                     "id": "kbsworld-hd",
                     "name": "KBS World HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8",
+                    "url": "https://liveh12.vtvprime.vn/hls/KBS/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4069,7 +4047,7 @@
                   {
                     "id": "tv5mondeasie-hd",
                     "name": "TV5 Monde Asie HD",
-                    "url": "https://liveh12.seenow.vn/hls/TV5/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/TV5/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4124,7 +4102,7 @@
                   {
                     "id": "davinci-hd",
                     "name": "Da Vinci HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/03.m3u8",
+                    "url": "https://liveh12.vtvprime.vn/hls/DAVINVY/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4179,7 +4157,7 @@
                   {
                     "id": "hgtv-hd",
                     "name": "HGTV HD",
-                    "url": "https://liveh34.seenow.vn/hls/HGTV/03.m3u8",
+                    "url": "https://liveh34.seenow.vn/hls/HGTV/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4234,7 +4212,7 @@
                   {
                     "id": "afn-hd",
                     "name": "AFN HD",
-                    "url": "https://liveh12.seenow.vn/hls/AFC/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/AFC/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4289,7 +4267,7 @@
                   {
                     "id": "arirang-hd",
                     "name": "Arirang HD",
-                    "url": "https://liveh12.seenow.vn/hls/ARIRANG/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/ARIRANG/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4344,7 +4322,7 @@
                   {
                     "id": "cna-hd",
                     "name": "CNA HD",
-                    "url": "https://liveh12.vtvprime.vn/hls/CAN/03.m3u8",
+                    "url": "https://liveh12.vtvprime.vn/hls/CAN/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4399,7 +4377,7 @@
                   {
                     "id": "france24eng-hd",
                     "name": "France24 Eng HD",
-                    "url": "https://liveh12.seenow.vn/hls/FRANCE24/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/FRANCE24/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -4454,7 +4432,7 @@
                 {
                   "id": "nhk-hd",
                   "name": "NHK HD",
-                  "url": "https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8",
+                  "url": "https://liveh12.vtvprime.vn/hls/NHKWORLD/index.m3u8",
                   "type": "hls",
                   "default": true
                 }
@@ -4509,7 +4487,7 @@
                 {
                   "id": "cnbc-hd",
                   "name": "CNBC HD",
-                  "url": "https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8",
+                  "url": "https://liveh34.vtvprime.vn/hls/CNBC/index.m3u8",
                   "type": "hls",
                   "default": true
                 }
