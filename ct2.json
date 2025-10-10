@@ -1,18 +1,18 @@
 {
   "id": "ch2",
-  "name": "JQK",
+  "name": "mDigital",
   "color": "#0864af",
   "org_metadata": {
-    "image": "https://lh3.googleusercontent.com/pw/AP1GczP_CD_T4xurwDDcW66y35abkSe3OVtd-l2q-ob6A0Bn24Zm6PzdrabiLq4tJNmfMj22uXPOshxZe7S9PFdqRbq8HqQpKzHS3TM4ojrE3aWZTkAkcUyhVr5CIWxFSzFF5nETg55LgTTCcAIwiiB1zDp_6g=w946-h946-s-no?authuser=0",
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNEA37Tgmbide8sreFnCD72IgujTInmiwJsEFKbf7Qhh2PUC3a3_AGyFE9Gc1CVdbCDRwHtbjiYUBl4FeTemg7hMqQ3BIX0F36WQpCxW3eeAkQDkVs-YniXds03aB5ztAwugIYmLpdbtt-Oy8YOYqzc=w946-h946-s-no?authuser=0",
     "title": "HD2",
     "description": ""
   },
   "description": "TP 11549 28500 H 5/6 8PSK",
-  "url": "https://jqk.netlify.app/ch2.json",
+  "url": "https://jqk.netlify.app/main.json",
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://lh3.googleusercontent.com/pw/AP1GczP_CD_T4xurwDDcW66y35abkSe3OVtd-l2q-ob6A0Bn24Zm6PzdrabiLq4tJNmfMj22uXPOshxZe7S9PFdqRbq8HqQpKzHS3TM4ojrE3aWZTkAkcUyhVr5CIWxFSzFF5nETg55LgTTCcAIwiiB1zDp_6g=w946-h946-s-no?authuser=0",
+    "url": "https://lh3.googleusercontent.com/pw/AP1GczNEA37Tgmbide8sreFnCD72IgujTInmiwJsEFKbf7Qhh2PUC3a3_AGyFE9Gc1CVdbCDRwHtbjiYUBl4FeTemg7hMqQ3BIX0F36WQpCxW3eeAkQDkVs-YniXds03aB5ztAwugIYmLpdbtt-Oy8YOYqzc=w946-h946-s-no?authuser=0",
     "height": 101,
     "width": 155
   },
@@ -22,13 +22,13 @@
       "id": "truyen-hinh",
       "text": "Chương trình 1",
       "type": "radio",
-      "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
+      "url": "https://jqk.netlify.app/livetv.json"
     },
     {
       "id": "truyen-hinh2",
       "text": "Chương trình 2",
       "type": "radio",
-      "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv2.json"
+      "url": "https://jqk.netlify.app/livetv2.json"
     }
   ],
 "groups": [
@@ -1194,7 +1194,7 @@
 {
 "id": "sctvphim-hd",
 "name": "SCTV Phim tổng hợp HD",
-"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1249,7 +1249,7 @@
 {
 "id": "sctv1-hd",
 "name": "SCTV1 HD",
-"url": "https://liveh12.seenow.vn/hls/SCTV1/03.m3u8",
+"url": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1281,7 +1281,6 @@
 },
 "type": "single",
 "display": "text-below",
-"enable_detail": true,
 "sources": [
 {
 "id": "htv7",
@@ -1305,28 +1304,7 @@
 {
 "id": "htv7-hd",
 "name": "HTV7 HD",
-"url": "https://liveh12.seenow.vn/hls/HTV7HD/03.m3u8",
-"type": "hls",
-"default": true
-}
-],
-"remote_data": null
-},
-{
-"id": "14",
-"name": "SD",
-"image": {
-"display": "contain",
-"shape": "square",
-"url": "https://drive.google.com/uc?export=download&id=132qoJACT5FJbYi6RAKzA1JVPxTeV41qU",
-"height": 101,
-"width": 155
-},
-"stream_links": [
-{
-"id": "14",
-"name": "HTV7 HD",
-"url": "https://liveh12.seenow.vn/hls/HTV7HD/01.m3u8",
+"url": "https://liveh12.seenow.vn/hls/HTV7HD/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1381,7 +1359,7 @@
                   {
                     "id": "tv5mondeasie-hd",
                     "name": "TV5 Monde Asie HD",
-                    "url": "https://liveh12.seenow.vn/hls/TV5/03.m3u8",
+                    "url": "https://liveh12.seenow.vn/hls/TV5/index.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1491,7 +1469,7 @@
 {
 "id": "thvl5-hd",
 "name": "THVL5 HD",
-"url": "https://liveh34.seenow.vn/hls/TRAVINHTV/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/TRAVINHTV/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1515,7 +1493,7 @@
       "grid_columns": null,
       "remote_data": {
         "enable": false,
-        "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
+        "url": "https://jqk.netlify.app/livetv.json"
       },
       "enable_detail": false
     },
@@ -1853,7 +1831,7 @@
       "grid_columns": null,
       "remote_data": {
         "enable": false,
-        "url": "https://raw.githubusercontent.com/mSystem-VTVcab27/test/refs/heads/main/livetv.json"
+        "url": "https://jqk.netlify.app/livetv2.json"
       },
       "enable_detail": false
     }
@@ -1865,8 +1843,7 @@
       "size_key": "limit"
     },
     "search_key": "textSearch",
-    "url": "https://vtvgo.4share.me/search",
-    "suggest_url": "https://vtvgo.4share.me/search/suggest"
+    "url": "https://jqk.netlify.app/search.json"
   },
   
   "auto_update": {
