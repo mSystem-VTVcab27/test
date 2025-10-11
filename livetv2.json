@@ -864,7 +864,7 @@
                   {
                     "id": "vtvcab1-hd",
                     "name": "ON Vie GIẢITRÍ HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -919,7 +919,7 @@
                   {
                     "id": "vtvcab19-hd",
                     "name": "ON Vie DRAMAS HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -974,7 +974,7 @@
                   {
                     "id": "vtvcab1-hd",
                     "name": "ON Movies HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1029,7 +1029,7 @@
                   {
                     "id": "vtvcab12-hd",
                     "name": "ON Style TV HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1083,7 +1083,7 @@
                   {
                     "id": "vtvcab17-hd",
                     "name": "ON Trending TV HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1138,7 +1138,7 @@
                   {
                     "id": "on_phim_viet-hd",
                     "name": "ON Phim Việt HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=175",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1192,7 +1192,7 @@
                   {
                     "id": "on_cine-hd",
                     "name": "ON Cine HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1246,7 +1246,7 @@
                   {
                     "id": "on_kids-hd",
                     "name": "ON Kids HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
+                    "url": "https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
