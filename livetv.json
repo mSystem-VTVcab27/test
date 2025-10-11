@@ -855,7 +855,7 @@
 {
 "id": "onechannel-hd",
 "name": "ON Echannel HD",
-"url": "https://freem3u.xyz/api/live/play.m3u8?vid=182",
+"url": "https://xem.hoiquan.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8",
 "type": "hls",
 "default": true
 }
@@ -909,7 +909,7 @@
 {
 "id": "ono2tv-hd",
 "name": "ON O2TV HD",
-"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/136/index.m3u8",
+"url": "https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8",
 "type": "hls",
 "default": true
 }
@@ -963,7 +963,7 @@
 {
 "id": "onbibi-hd",
 "name": "ON Bibi HD",
-"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8",
+"url": "https://xem.hoiquan.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1017,7 +1017,7 @@
 {
 "id": "oninfo-hd",
 "name": "ON Info HD",
-"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/189/index.m3u8",
+"url": "https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1071,7 +1071,7 @@
 {
 "id": "onvfamily-hd",
 "name": "ON Vfamily HD",
-"url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/187/index.m3u8",
+"url": "https://xem.hoiquan.Click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8",
 "type": "hls",
 "default": true
 }
