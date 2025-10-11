@@ -864,7 +864,7 @@
                   {
                     "id": "vtvcab1-hd",
                     "name": "ON Vie GIẢITRÍ HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
                     "type": "hls",
                     "default": true
                   }
@@ -919,7 +919,7 @@
                   {
                     "id": "vtvcab19-hd",
                     "name": "ON Vie DRAMAS HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/177/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
                     "type": "hls",
                     "default": true
                   }
@@ -974,7 +974,7 @@
                   {
                     "id": "vtvcab1-hd",
                     "name": "ON Movies HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/181/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
                     "type": "hls",
                     "default": true
                   }
@@ -1029,7 +1029,7 @@
                   {
                     "id": "vtvcab12-hd",
                     "name": "ON Style TV HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/184/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
                     "type": "hls",
                     "default": true
                   }
@@ -1083,7 +1083,7 @@
                   {
                     "id": "vtvcab17-hd",
                     "name": "ON Trending TV HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/186/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
                     "type": "hls",
                     "default": true
                   }
@@ -1138,7 +1138,7 @@
                   {
                     "id": "on_phim_viet-hd",
                     "name": "ON Phim Việt HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/175/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=175",
                     "type": "hls",
                     "default": true
                   }
@@ -1192,7 +1192,7 @@
                   {
                     "id": "on_cine-hd",
                     "name": "ON Cine HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/178/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176",
                     "type": "hls",
                     "default": true
                   }
@@ -1246,7 +1246,7 @@
                   {
                     "id": "on_kids-hd",
                     "name": "ON Kids HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/179/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
                     "type": "hls",
                     "default": true
                   }
@@ -1518,7 +1518,7 @@
                   {
                     "id": "on_golf-hd",
                     "name": "ON Golf HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/169/index.m3u8",
+                    "url": "hhttps://xem.hoiquan.Click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -1573,7 +1573,7 @@
                   {
                     "id": "sctv2-hd",
                     "name": "SCTV2 HD",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/201/index.m3u8",
+                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=201",
                     "type": "hls",
                     "default": true
                   }
@@ -1628,7 +1628,7 @@
 {
 "id": "sctv3-hd",
 "name": "SCTV3 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV3/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV3/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1793,7 +1793,7 @@
 {
 "id": "sctv13-hd",
 "name": "SCTV13 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV13/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV13/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -1848,7 +1848,7 @@
 {
 "id": "sctv14-hd",
 "name": "SCTV14 HD",
-"url": "https://liveh34.seenow.vn/hls/SCTV14/03.m3u8",
+"url": "https://liveh34.seenow.vn/hls/SCTV14/index.m3u8",
 "type": "hls",
 "default": true
 }
@@ -7138,7 +7138,7 @@
                   {
                     "id": "boxmovie1-hd",
                     "name": "Box Movie 1",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/159/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/box-movie-1-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7192,7 +7192,7 @@
                   {
                     "id": "hollywoodclassics-hd",
                     "name": "Hollywood Classics",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/160/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/hollywood-classic-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7246,7 +7246,7 @@
                   {
                     "id": "inthebox-hd",
                     "name": "In The Box",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/235/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/in-the-box/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7300,7 +7300,7 @@
                   {
                     "id": "boxhits-hd",
                     "name": "Box Hits",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/239/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/box-hits/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7354,7 +7354,7 @@
                   {
                     "id": "manhd-hd",
                     "name": "Man",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/237/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7408,7 +7408,7 @@
                   {
                     "id": "musicbox-hd",
                     "name": "Music Box",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/289/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/music-box/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7462,7 +7462,7 @@
                   {
                     "id": "drfithd-hd",
                     "name": "Dr.Fit",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/162/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/dr-fit-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7516,7 +7516,7 @@
                   {
                     "id": "happykids-hd",
                     "name": "Happy Kids",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/212/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7570,7 +7570,7 @@
                   {
                     "id": "planetearthhd-hd",
                     "name": "Planet Earth",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/135/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7624,7 +7624,7 @@
                   {
                     "id": "woman-hd",
                     "name": "Woman",
-                    "url": "https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/163/index.m3u8",
+                    "url": "https://xem.hoiquan.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -7896,7 +7896,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://stream1.freetv.fun/cctv-01-3.m3u8",
+                    "url": "https://stream1.freetv.fun/cctv1--n-1.m3u8",
                     "type": "hls",
                     "default": true
                   }
