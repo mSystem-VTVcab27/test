@@ -1573,7 +1573,7 @@
                   {
                     "id": "sctv2-hd",
                     "name": "SCTV2 HD",
-                    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=201",
+                    "url": "https://xem.hoiquan.Click/CoBan/sctv2-today-tv/TuyetDoiKhongKinhDoanh.m3u8",
                     "type": "hls",
                     "default": true
                   }
@@ -2646,7 +2646,7 @@
             "streams": [
               {
                 "id": "bariavungtau",
-                "name": "",
+                "name": "Trung tâm HTV Bà Rịa",
                 "image": {
                   "display": "contain",
                   "shape": "square",
