@@ -7896,7 +7896,7 @@
                   {
                     "id": "cctv1-hd",
                     "name": "CCTV-1 HD",
-                    "url": "https://stream1.freetv.fun/cctv1-70.ctv",
+                    "url": "https://stream1.freetv.fun/cctv1-zong-he-10.ctv",
                     "type": "hls",
                     "default": true
                   }
