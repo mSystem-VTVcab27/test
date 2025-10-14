@@ -1834,6 +1834,452 @@
         "url": "https://jqk.netlify.app/livetv2.json"
       },
       "enable_detail": false
+    },
+    {
+      "id": "lmao",
+      "name": "ON Live",
+      "channels": [
+        {
+  "id": "ONChannels",
+  "name": "ON Channels",
+  "image": {
+    "display": "cover",
+    "shape": "square",
+    "url": "https://example.com/placeholder.jpg",
+    "height": 101,
+    "width": 155
+  },
+  "type": "single",
+  "display": "text-below",
+  "sources": [
+    {
+      "id": "onchannels",
+      "name": "ON Channels",
+      "contents": [
+        {
+          "id": "onchannels",
+          "name": "ON Channels",
+          "streams": [
+            {
+              "id": "onsports",
+              "name": "ON Sports",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onsports.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onsports-hd",
+                  "name": "ON Sports",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onsports.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onsportsplus",
+              "name": "ON Sports+",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onsportsplus.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onsportsplus-hd",
+                  "name": "ON Sports+",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onsportsplus.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onsportsnews",
+              "name": "ON Sports News",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onsportsnews.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onsportsnews-hd",
+                  "name": "ON Sports News",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onsportsnews.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "ongolf",
+              "name": "ON Golf",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/ongolf.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "ongolf-hd",
+                  "name": "ON Golf",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:ongolf.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "viegiaitri",
+              "name": "ON Vie GIẢITRÍ MMDS",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/viegiaitri.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "viegiaitri-hd",
+                  "name": "ON Vie GIẢITRÍ MMDS",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:viegiaitri.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "viedramas",
+              "name": "ON Vie DRAMAS",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/viedramas.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "viedramas-hd",
+                  "name": "ON Vie DRAMAS",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:viedramas.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onphimviet",
+              "name": "ON Phim Việt",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onphimviet.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onphimviet-hd",
+                  "name": "ON Phim Việt",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onphimviet.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onmovies",
+              "name": "ON Movies",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onmovies.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onmovies-hd",
+                  "name": "ON Movies",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onmoives.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "oncine",
+              "name": "ON Cine",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/oncine.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "oncine-hd",
+                  "name": "ON Cine",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:oncine.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onechannel",
+              "name": "ON Echannel",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onechannel.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onechannel-hd",
+                  "name": "ON Echannel",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:echannel.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "oninfo",
+              "name": "ON Info",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/oninfo.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "oninfo-hd",
+                  "name": "ON Info",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:oninfo.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onstyle",
+              "name": "ON Style",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onstyle.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onstyle-hd",
+                  "name": "ON Style",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onstyle.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "ontrending",
+              "name": "ON Trending",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/ontrending.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "ontrending-hd",
+                  "name": "ON Trending",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:ontrending.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onvfamily",
+              "name": "ON Vfamily",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onvfamily.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onvfamily-hd",
+                  "name": "ON Vfamily",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onvfamily.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onbibi",
+              "name": "ON Bibi",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onbibi.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onbibi-hd",
+                  "name": "ON Bibi",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onbibi.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onkids",
+              "name": "ON Kids",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onkids.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onkids-hd",
+                  "name": "ON Kids",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onkid.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "ono2tv",
+              "name": "ON O2TV",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/ono2tv.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "ono2tv-hd",
+                  "name": "ON O2TV",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:o2tv.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onmusic",
+              "name": "ON Music",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onmusic.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onmusic-hd",
+                  "name": "ON Music",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onmusic.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            },
+            {
+              "id": "onlife",
+              "name": "ON Life",
+              "image": {
+                "display": "contain",
+                "shape": "square",
+                "url": "https://example.com/onlife.jpg",
+                "height": 101,
+                "width": 155
+              },
+              "stream_links": [
+                {
+                  "id": "onlife-hd",
+                  "name": "ON Life",
+                  "url": "https://cdn-live.onlivetv.vn/live/smil:onlife.smil/chunklist.m3u8",
+                  "type": "hls",
+                  "default": true
+                }
+              ],
+              "remote_data": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "share": {
+    "url": ""
+  },
+  "related": {
+    "url": ""
+  }
+}
+        
+      ],
+      "display": "horizontal",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": false,
+        "url": "https://jqk.netlify.app/livetv2.json"
+      },
+      "enable_detail": false
     }
   ],
 
