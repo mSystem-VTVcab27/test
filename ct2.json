@@ -127,7 +127,7 @@
                         {
                           "id": "vtv3-hd",
                           "name": "VTV3 HD",
-                          "url": "https://stream1.freetv.fun/f3f4f67536cbf4cf16ae10aac89a3cc930b65a00f7f96e68ab5012463fa96d51.ctv",
+                          "url": "https://stream1.freetv.fun/f3f4f67536cbf4cf16ae10aac89a3cc930b65a00f7f96e68ab5012463fa96d51.m3u8",
                           "type": "hls",
                           "default": true
                         }
