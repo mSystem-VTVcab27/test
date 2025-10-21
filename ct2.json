@@ -8,7 +8,7 @@
     "description": ""
   },
   "description": "TP 11549 28500 H 5/6 8PSK",
-  "url": "https://jqk.netlify.app/main.json",
+  "url": "",
   "image": {
     "display": "contain",
     "shape": "square",
@@ -22,13 +22,13 @@
       "id": "truyen-hinh",
       "text": "Chương trình 1",
       "type": "radio",
-      "url": "https://jqk.netlify.app/livetv.json"
+      "url": ""
     },
     {
       "id": "truyen-hinh2",
       "text": "Chương trình 2",
       "type": "radio",
-      "url": "https://jqk.netlify.app/livetv2.json"
+      "url": ""
     }
   ],
 "groups": [
@@ -613,7 +613,52 @@
   "related": {
     "url": ""
   }
-}
+},
+{
+          "id": "VTV3",
+          "name": "",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vnepg.site/logos/3.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "id": "vtv3",
+              "name": "",
+              "contents": [
+                {
+                  "id": "vtv3",
+                  "name": "",
+                  "streams": [
+                    {
+                      "id": "vtv3",
+                      "name": "VTV3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo.4share.me/livetv",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "share": {
+            "url": ""
+          },
+          "related": {
+            "url": ""
+          }
+        }
         
       ],
       "display": "horizontal",
