@@ -127,7 +127,7 @@
                         {
                           "id": "vtv3-hd",
                           "name": "VTV3 HD",
-                          "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=159&token=2025",
+                          "url": "http://cord-cutter.net:8080/95549031/69361122/53651",
                           "type": "hls",
                           "default": true
                         }
